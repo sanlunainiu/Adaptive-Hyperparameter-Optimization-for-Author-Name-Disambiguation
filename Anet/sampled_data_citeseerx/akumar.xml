@@ -1,0 +1,1636 @@
+<?xml version="1.0" encoding="utf-8"?>
+<person>
+    <personID>26485186</personID>
+    <FullName>anshul kumar</FullName>
+    <FirstName>anshul</FirstName>
+    <LastName>kumar</LastName>
+    <publication>
+        <title>grammar base hardwar synthesi data commun protocol</title>
+        <year>1996</year>
+        <authors>anshul kumar,johnny oberg,ahmed hemani</authors>
+        <jconf>isss</jconf>
+        <id>1775</id>
+        <label>10</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>specif handl grammar base hardwar synthesi</title>
+        <year>1998</year>
+        <authors>anshul kumar,johnny oberg,ahmed hemani</authors>
+        <jconf>euromicro</jconf>
+        <id>635</id>
+        <label>10</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>schedul output grammar base hardwar synthesi data commun protocol</title>
+        <year>1998</year>
+        <authors>anshul kumar,johnny oberg,ahmed hemani</authors>
+        <jconf>date</jconf>
+        <id>435</id>
+        <label>10</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>tripl databas commun resourc yeast molecular biologi</title>
+        <year>2002</year>
+        <authors>anuj kumar,kei-hoi cheung,nick p. tosches,peter masiar,yang liu,perry l. miller,michael snyder</authors>
+        <jconf>nucleic acids research</jconf>
+        <id>3605</id>
+        <label>11</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>tripl databas gene function saccharomyc cerevisia</title>
+        <year>2000</year>
+        <authors>anuj kumar,kei-hoi cheung,petra ross-macdonald,paulo s. r. coelho,perry l. miller,michael snyder</authors>
+        <jconf>nucleic acids research</jconf>
+        <id>3604</id>
+        <label>11</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>xml applic genom data interoper</title>
+        <year>2001</year>
+        <authors>anuj kumar,kei-hoi cheung,yang liu,michael snyder,mark gerstein,perry l. miller</authors>
+        <jconf>bibe</jconf>
+        <id>142</id>
+        <label>11</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>ahead interpret sequenti prolog implement</title>
+        <year>1987</year>
+        <authors>ashok kumar,vishv m. malhotra</authors>
+        <jconf>fsttcs</jconf>
+        <id>709</id>
+        <label>12</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>comput rule prolog</title>
+        <year>1988</year>
+        <authors>ashok kumar,vishv m. malhotra</authors>
+        <jconf>inf. process. lett.</jconf>
+        <id>3265</id>
+        <label>12</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>ab initio studi excit state guanin ga phase aqueou media electron transit mechan spectral oscil</title>
+        <year>2000</year>
+        <authors>anil kumar,manish kumar shukla,s. k. mishra,p. c. mishra</authors>
+        <jconf>journal of computational chemistry</jconf>
+        <id>3387</id>
+        <label>13</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>moldyn gener program evalu molecular dynam model nuclear magnet reson spin relax data</title>
+        <year>1983</year>
+        <authors>anil kumar,david j. craik,george c. levy</authors>
+        <jconf>journal of chemical information and computer sciences</jconf>
+        <id>3391</id>
+        <label>13</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>stream pack resourc alloc web server farm qo guarante</title>
+        <year>2001</year>
+        <authors>arun kumar,johara shahabuddin,abhay chrungoo,vishu gupta,sandeep juneja,sanjiv kapoor</authors>
+        <jconf>hipc</jconf>
+        <id>805</id>
+        <label>14</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>meter account composit e servic</title>
+        <year>2003</year>
+        <authors>arun kumar,vikas agarwal,neeran m. karnik</authors>
+        <jconf>cec</jconf>
+        <id>2605</id>
+        <label>14</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>hpp reliabl causal broadcast protocol larg scale replic</title>
+        <year>1998</year>
+        <authors>akhil kumar,noha adly</authors>
+        <jconf>comput. j.</jconf>
+        <id>2851</id>
+        <label>1</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>approach conflict resolut rule process knowledg base system</title>
+        <year>1990</year>
+        <authors>akhil kumar</authors>
+        <jconf>icis</jconf>
+        <id>1179</id>
+        <label>1</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>effici quorumcast rout algorithm</title>
+        <year>1994</year>
+        <authors>akhil kumar,shun yan cheung</authors>
+        <jconf>infocom</jconf>
+        <id>1587</id>
+        <label>1</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>workflow support electron commerc applic</title>
+        <year>2002</year>
+        <authors>akhil kumar,j. leon zhao</authors>
+        <jconf>decision support systems</jconf>
+        <id>3021</id>
+        <label>1</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>perform oper system transact manag</title>
+        <year>1989</year>
+        <authors>akhil kumar,michael stonebraker</authors>
+        <jconf>ieee trans. software eng.</jconf>
+        <id>4106</id>
+        <label>1</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>perform evalu oper system transact manag</title>
+        <year>1987</year>
+        <authors>akhil kumar,michael stonebraker</authors>
+        <jconf>vldb</jconf>
+        <id>2532</id>
+        <label>1</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>data manag issu larg scale distribut workflow system internet</title>
+        <year>1998</year>
+        <authors>akhil kumar,j. leon zhao</authors>
+        <jconf>data base</jconf>
+        <id>2963</id>
+        <label>1</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>perform studi gener grid structur replic data</title>
+        <year>1993</year>
+        <authors>akhil kumar,michael rabinovich,rakesh k. sinha</authors>
+        <jconf>icdcs</jconf>
+        <id>1031</id>
+        <label>1</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>oper system support data manag</title>
+        <year>1986</year>
+        <authors>akhil kumar,michael stonebraker</authors>
+        <jconf>ieee database eng. bull.</jconf>
+        <id>2976</id>
+        <label>1</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>framework dynam rout oper integr control workflow manag system</title>
+        <year>1996</year>
+        <authors>akhil kumar,j. leon zhao</authors>
+        <jconf>hicss (3)</jconf>
+        <id>779</id>
+        <label>1</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>workflow centric inform distribut e mail</title>
+        <year>2001</year>
+        <authors>akhil kumar,j. leon zhao,edward a. stohr</authors>
+        <jconf>j. of management information systems</jconf>
+        <id>3468</id>
+        <label>1</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>workflow centric studi organiz knowledg distribut</title>
+        <year>2000</year>
+        <authors>akhil kumar,j. leon zhao,edward a. stohr</authors>
+        <jconf>hicss</jconf>
+        <id>800</id>
+        <label>1</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>eroica rule base approach organiz polici manag workflow system</title>
+        <year>2002</year>
+        <authors>akhil kumar,j. leon zhao</authors>
+        <jconf>waim</jconf>
+        <id>2568</id>
+        <label>1</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>high avail sqrt n hierarch grid algorithm replic data</title>
+        <year>1991</year>
+        <authors>akhil kumar,shun yan cheung</authors>
+        <jconf>inf. process. lett.</jconf>
+        <id>3266</id>
+        <label>1</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>workflow mediat vortexml</title>
+        <year>2001</year>
+        <authors>akhil kumar,vassilis christophides,richard hull,jerome simeon</authors>
+        <jconf>ieee data eng. bull.</jconf>
+        <id>2970</id>
+        <label>1</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>queri splice xml workflow</title>
+        <year>2001</year>
+        <authors>akhil kumar,vassilis christophides,richard hull</authors>
+        <jconf>coopis</jconf>
+        <id>290</id>
+        <label>1</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>workflow mediat vortexml</title>
+        <year>2001</year>
+        <authors>akhil kumar,vassilis christophides,richard hull,jerome simeon</authors>
+        <jconf>ieee data eng. bull.</jconf>
+        <id>2970</id>
+        <label>1</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>optim vote type algorithm replic data</title>
+        <year>1988</year>
+        <authors>akhil kumar,arie segev</authors>
+        <jconf>edbt</jconf>
+        <id>587</id>
+        <label>1</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>smart suppli web applic web base data workflow mediat</title>
+        <year>2000</year>
+        <authors>akhil kumar,richard hull,jerome simeon</authors>
+        <jconf>tes</jconf>
+        <id>2460</id>
+        <label>1</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>crash recoveri algorithm base multipl log exploit parallel</title>
+        <year>1990</year>
+        <authors>akhil kumar</authors>
+        <jconf>spdp</jconf>
+        <id>2370</id>
+        <label>1</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>optim cost hierarch quorum consensu</title>
+        <year>1996</year>
+        <authors>akhil kumar,kavindra malik</authors>
+        <jconf>acta inf.</jconf>
+        <id>2679</id>
+        <label>1</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>eroica rule base approach organiz polici manag workflow system</title>
+        <year>2002</year>
+        <authors>akhil kumar,j. leon zhao</authors>
+        <jconf>waim</jconf>
+        <id>2568</id>
+        <label>1</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>random vote algorithm</title>
+        <year>1991</year>
+        <authors>a. kumar</authors>
+        <jconf>icdcs</jconf>
+        <id>1030</id>
+        <label>1</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>random algorithm distribut consensu</title>
+        <year>1998</year>
+        <authors>akhil kumar</authors>
+        <jconf>srds</jconf>
+        <id>2398</id>
+        <label>1</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>semant base transact manag techniqu replic data</title>
+        <year>1988</year>
+        <authors>akhil kumar,michael stonebraker</authors>
+        <jconf>sigmod conference</jconf>
+        <id>2289</id>
+        <label>1</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>cost avail tradeoff replic data concurr control</title>
+        <year>1993</year>
+        <authors>akhil kumar,arie segev</authors>
+        <jconf>acm trans. database syst.</jconf>
+        <id>4025</id>
+        <label>1</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>dynam work distribut workflow manag system balanc qualiti perform</title>
+        <year>2002</year>
+        <authors>akhil kumar,wil m. p. van der aalst,h. m. w. (eric) verbeek</authors>
+        <jconf>j. of management information systems</jconf>
+        <id>3466</id>
+        <label>1</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>framework dynam rout oper integr control workflow manag system</title>
+        <year>1996</year>
+        <authors>akhil kumar,j. leon zhao</authors>
+        <jconf>hicss (3)</jconf>
+        <id>779</id>
+        <label>1</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>g tree data structur organ multidimension data</title>
+        <year>1994</year>
+        <authors>akhil kumar</authors>
+        <jconf>ieee trans. knowl. data eng.</jconf>
+        <id>3980</id>
+        <label>1</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>high avail sqrt n hierarch grid algorithm replic data</title>
+        <year>1991</year>
+        <authors>akhil kumar,shun yan cheung</authors>
+        <jconf>inf. process. lett.</jconf>
+        <id>3266</id>
+        <label>1</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>studi spatial cluster techniqu</title>
+        <year>1994</year>
+        <authors>akhil kumar</authors>
+        <jconf>dexa</jconf>
+        <id>479</id>
+        <label>1</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>hierarch quorum consensu algorithm manag replic data</title>
+        <year>1991</year>
+        <authors>akhil kumar</authors>
+        <jconf>ieee trans. computers</jconf>
+        <id>3879</id>
+        <label>1</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>g tree data structur organ multidimension data</title>
+        <year>1994</year>
+        <authors>akhil kumar</authors>
+        <jconf>ieee trans. knowl. data eng.</jconf>
+        <id>3980</id>
+        <label>1</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>leverag inform share increas suppli chain configur</title>
+        <year>2003</year>
+        <authors>akhil kumar,rong emily liu</authors>
+        <jconf>icis</jconf>
+        <id>1181</id>
+        <label>1</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>hierarch quorum consensu algorithm manag replic data</title>
+        <year>1991</year>
+        <authors>akhil kumar</authors>
+        <jconf>ieee trans. computers</jconf>
+        <id>3879</id>
+        <label>1</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>optim cost hierarch quorum consensu</title>
+        <year>1996</year>
+        <authors>akhil kumar,kavindra malik</authors>
+        <jconf>acta inf.</jconf>
+        <id>2679</id>
+        <label>1</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>effici algorithm solv partial sum queri problem</title>
+        <year>2001</year>
+        <authors>akhil kumar</authors>
+        <jconf>inf. sci.</jconf>
+        <id>3307</id>
+        <label>1</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>perform studi gener grid structur replic data</title>
+        <year>1993</year>
+        <authors>akhil kumar,michael rabinovich,rakesh k. sinha</authors>
+        <jconf>icdcs</jconf>
+        <id>1031</id>
+        <label>1</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>effici supergrid protocol high avail load balanc</title>
+        <year>2000</year>
+        <authors>akhil kumar</authors>
+        <jconf>ieee trans. computers</jconf>
+        <id>3877</id>
+        <label>1</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>cost avail tradeoff replic data concurr control</title>
+        <year>1993</year>
+        <authors>akhil kumar,arie segev</authors>
+        <jconf>acm trans. database syst.</jconf>
+        <id>4025</id>
+        <label>1</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>analysi borrow polici escrow transact replic data environ</title>
+        <year>1990</year>
+        <authors>akhil kumar</authors>
+        <jconf>icde</jconf>
+        <id>1067</id>
+        <label>1</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>optim vote type algorithm replic data</title>
+        <year>1988</year>
+        <authors>akhil kumar,arie segev</authors>
+        <jconf>edbt</jconf>
+        <id>587</id>
+        <label>1</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>techniqu data reduct databas system knowledg discoveri applic</title>
+        <year>1998</year>
+        <authors>akhil kumar</authors>
+        <jconf>j. intell. inf. syst.</jconf>
+        <id>3448</id>
+        <label>1</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>optim evalu algorithm replic data concurr control</title>
+        <year>1989</year>
+        <authors>akhil kumar,arie segev</authors>
+        <jconf>icdcs</jconf>
+        <id>1032</id>
+        <label>1</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>perform analysi hierarch quorum consensu algorithm replic object</title>
+        <year>1990</year>
+        <authors>akhil kumar</authors>
+        <jconf>icdcs</jconf>
+        <id>1029</id>
+        <label>1</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>random algorithm distribut consensu</title>
+        <year>1998</year>
+        <authors>akhil kumar</authors>
+        <jconf>srds</jconf>
+        <id>2398</id>
+        <label>1</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>workflow centric studi organiz knowledg distribut</title>
+        <year>2000</year>
+        <authors>akhil kumar,j. leon zhao,edward a. stohr</authors>
+        <jconf>hicss</jconf>
+        <id>800</id>
+        <label>1</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>studi spatial cluster techniqu</title>
+        <year>1994</year>
+        <authors>akhil kumar</authors>
+        <jconf>dexa</jconf>
+        <id>479</id>
+        <label>1</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>meta workflow esp framework coordin handl adapt workflow system</title>
+        <year>2003</year>
+        <authors>akhil kumar,jacques wainer,zuopeng zhang</authors>
+        <jconf>wes</jconf>
+        <id>2609</id>
+        <label>1</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>effici algorithm solv partial sum queri problem</title>
+        <year>2001</year>
+        <authors>akhil kumar</authors>
+        <jconf>inf. sci.</jconf>
+        <id>3307</id>
+        <label>1</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>effici supergrid protocol high avail load balanc</title>
+        <year>2000</year>
+        <authors>akhil kumar</authors>
+        <jconf>ieee trans. computers</jconf>
+        <id>3877</id>
+        <label>1</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>perform oper system transact manag</title>
+        <year>1989</year>
+        <authors>akhil kumar,michael stonebraker</authors>
+        <jconf>ieee trans. software eng.</jconf>
+        <id>4106</id>
+        <label>1</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>perform evalu oper system transact manag</title>
+        <year>1987</year>
+        <authors>akhil kumar,michael stonebraker</authors>
+        <jconf>vldb</jconf>
+        <id>2532</id>
+        <label>1</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>analysi borrow polici escrow transact replic data environ</title>
+        <year>1990</year>
+        <authors>akhil kumar</authors>
+        <jconf>icde</jconf>
+        <id>1067</id>
+        <label>1</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>oper system support data manag</title>
+        <year>1986</year>
+        <authors>akhil kumar,michael stonebraker</authors>
+        <jconf>ieee database eng. bull.</jconf>
+        <id>2976</id>
+        <label>1</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>semant base transact manag techniqu replic data</title>
+        <year>1988</year>
+        <authors>akhil kumar,michael stonebraker</authors>
+        <jconf>sigmod conference</jconf>
+        <id>2289</id>
+        <label>1</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>effect join select optim nest order</title>
+        <year>1987</year>
+        <authors>akhil kumar,michael stonebraker</authors>
+        <jconf>sigmod record</jconf>
+        <id>3785</id>
+        <label>1</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>discret e servic compos session orient servic telecommun</title>
+        <year>2001</year>
+        <authors>akhil kumar,vassilis christophides,richard hull,gregory karvounarakis,geliang tong,ming xiong</authors>
+        <jconf>tes</jconf>
+        <id>2459</id>
+        <label>1</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>organiz model uml xml context workflow system</title>
+        <year>2003</year>
+        <authors>akhil kumar,wil m. p. van der aalst,h. m. w. (eric) verbeek</authors>
+        <jconf>sac</jconf>
+        <id>2183</id>
+        <label>1</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>w rbac workflow secur model incorpor control overrid constraint</title>
+        <year>2003</year>
+        <authors>akhil kumar,jacques wainer,paulo barthelmess</authors>
+        <jconf>int. j. cooperative inf. syst.</jconf>
+        <id>3124</id>
+        <label>1</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>techniqu index larg number constraint rule databas system</title>
+        <year>1992</year>
+        <authors>akhil kumar</authors>
+        <jconf>dexa</jconf>
+        <id>478</id>
+        <label>1</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>verif xrl xml base workflow languag</title>
+        <year>2001</year>
+        <authors>akhil kumar,wil m. p. van der aalst,h. m. w. verbeek</authors>
+        <jconf>cscwd</jconf>
+        <id>323</id>
+        <label>1</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>xml base schema definit support interorganiz workflow</title>
+        <year>2003</year>
+        <authors>akhil kumar,wil m. p. van der aalst</authors>
+        <jconf>information systems research</jconf>
+        <id>3320</id>
+        <label>1</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>xrl woflan verif extens xml petri net base languag inter organiz workflow</title>
+        <year>2004</year>
+        <authors>akhil kumar,h. m. w. verbeek,wil m. p. van der aalst</authors>
+        <jconf>information technology and management</jconf>
+        <id>3324</id>
+        <label>1</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>refer model team enabl workflow manag system</title>
+        <year>2001</year>
+        <authors>akhil kumar,wil m. p. van der aalst</authors>
+        <jconf>data knowl. eng.</jconf>
+        <id>2979</id>
+        <label>1</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>organiz model uml xml context workflow system</title>
+        <year>2003</year>
+        <authors>akhil kumar,wil m. p. van der aalst,h. m. w. (eric) verbeek</authors>
+        <jconf>sac</jconf>
+        <id>2183</id>
+        <label>1</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>intellig traffic engin internet model base approach</title>
+        <year>2001</year>
+        <authors>anurag kumar</authors>
+        <jconf>hipc</jconf>
+        <id>803</id>
+        <label>2</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>adapt load balanc multi processor system central job schedul</title>
+        <year>1987</year>
+        <authors>anurag kumar,flavio bonomi</authors>
+        <jconf>computer performance and reliability</jconf>
+        <id>1893</id>
+        <label>2</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>adapt optim load balanc heterogen multiserv system central job schedul</title>
+        <year>1988</year>
+        <authors>anurag kumar,flavio bonomi</authors>
+        <jconf>icdcs</jconf>
+        <id>1025</id>
+        <label>2</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>adapt optim load balanc nonhomogen multiserv system central job schedul</title>
+        <year>1990</year>
+        <authors>anurag kumar,flavio bonomi</authors>
+        <jconf>ieee trans. computers</jconf>
+        <id>3842</id>
+        <label>2</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>adapt load control central processor distribut system star topolog</title>
+        <year>1989</year>
+        <authors>anurag kumar</authors>
+        <jconf>ieee trans. computers</jconf>
+        <id>3878</id>
+        <label>2</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>case studi adapt load balanc algorithm</title>
+        <year>1990</year>
+        <authors>anurag kumar,flavio bonomi,bharat t. doshi,j. s. kaufman,t. p. lee</authors>
+        <jconf>queueing syst.</jconf>
+        <id>3727</id>
+        <label>2</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>queue model stabil messag flow distribut simul open queue network</title>
+        <year>1996</year>
+        <authors>anurag kumar,manish gupta,rajeev shorey</authors>
+        <jconf>workshop on parallel and distributed simulation</jconf>
+        <id>2021</id>
+        <label>2</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>nonblock algorithm distribut simul fcf queue network irreduc markovian rout</title>
+        <year>1998</year>
+        <authors>anurag kumar,manish gupta</authors>
+        <jconf>workshop on parallel and distributed simulation</jconf>
+        <id>2020</id>
+        <label>2</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>perform analysi schedul stochast fork join job multicomput system</title>
+        <year>1993</year>
+        <authors>anurag kumar,rajeev shorey</authors>
+        <jconf>ieee trans. parallel distrib. syst.</jconf>
+        <id>4076</id>
+        <label>2</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>instabl perform limit distribut simul feedforward queue network</title>
+        <year>1997</year>
+        <authors>anurag kumar,rajeev shorey,kiran m. rege</authors>
+        <jconf>acm trans. model. comput. simul.</jconf>
+        <id>4039</id>
+        <label>2</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>optim schedul processor execut commun protocol stack</title>
+        <year>1992</year>
+        <authors>anurag kumar,srikrishna kurapati</authors>
+        <jconf>networks</jconf>
+        <id>1974</id>
+        <label>2</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>compar perform queue strategi lan wan router packet data network</title>
+        <year>1992</year>
+        <authors>anurag kumar,t. v. j. ganesh babu,s. v. r. anand</authors>
+        <jconf>networks</jconf>
+        <id>1973</id>
+        <label>2</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>measur base optim sourc shape shape multiplex delai constraint</title>
+        <year>2000</year>
+        <authors>anurag kumar,natwar modani,parijat dube</authors>
+        <jconf>infocom</jconf>
+        <id>1608</id>
+        <label>2</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>stochast approxim approach max min fair adapt rate control abr session mcr</title>
+        <year>1998</year>
+        <authors>anurag kumar,santosh paul abraham</authors>
+        <jconf>infocom</jconf>
+        <id>1582</id>
+        <label>2</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>stochast model throughput analysi randomli arriv elast flow internet</title>
+        <year>2002</year>
+        <authors>anurag kumar,arzad alam kherani</authors>
+        <jconf>infocom</jconf>
+        <id>1595</id>
+        <label>2</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>close loop analysi bottleneck buffer adapt window control transfer http traffic</title>
+        <year>2003</year>
+        <authors>anurag kumar,arzad alam kherani</authors>
+        <jconf>infocom</jconf>
+        <id>1596</id>
+        <label>2</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>power constrain delai optim polici schedul transmiss fade channel</title>
+        <year>2003</year>
+        <authors>anurag kumar,munish goyal,vinod sharma</authors>
+        <jconf>infocom</jconf>
+        <id>1589</id>
+        <label>2</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>compar perform interleav interleav pipelin lapd termin adaptor</title>
+        <year>1990</year>
+        <authors>anurag kumar,robert g. cole</authors>
+        <jconf>infocom</jconf>
+        <id>1597</id>
+        <label>2</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>compar perform schedul strategi switch multiplex hub base atm network simul studi</title>
+        <year>1998</year>
+        <authors>anurag kumar,lillykutty jacob</authors>
+        <jconf>computer networks</jconf>
+        <id>2870</id>
+        <label>2</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>compar perform interleav interleav pipelin atm termin adapt</title>
+        <year>1995</year>
+        <authors>anurag kumar,robert g. cole</authors>
+        <jconf>computer networks and isdn systems</jconf>
+        <id>2874</id>
+        <label>2</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>approach asynchron distribut rate control elast session integr packet network</title>
+        <year>2001</year>
+        <authors>anurag kumar,santosh paul abraham</authors>
+        <jconf>ieee/acm trans. netw.</jconf>
+        <id>4046</id>
+        <label>2</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>delai perform schedul strategi input queu atm switch multiclass bursti traffic</title>
+        <year>1996</year>
+        <authors>anurag kumar,lillykutty jacob</authors>
+        <jconf>ieee/acm trans. netw.</jconf>
+        <id>4050</id>
+        <label>2</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>revenu maxim atm network clp capabl buffer prioriti manag</title>
+        <year>1996</year>
+        <authors>anurag kumar,sridhar ramesh,catherine rosenberg</authors>
+        <jconf>ieee/acm trans. netw.</jconf>
+        <id>4055</id>
+        <label>2</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>compar perform analysi version tcp local network lossi link</title>
+        <year>1998</year>
+        <authors>anurag kumar</authors>
+        <jconf>ieee/acm trans. netw.</jconf>
+        <id>4051</id>
+        <label>2</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>tcp perform end end rate control stochast avail capac</title>
+        <year>2001</year>
+        <authors>anurag kumar,sanjay shakkottai,aditya karnik,ajit anvekar</authors>
+        <jconf>ieee/acm trans. netw.</jconf>
+        <id>4057</id>
+        <label>2</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>stabil throughput analysi unslot cdma aloha finit number user code share</title>
+        <year>1997</year>
+        <authors>anurag kumar,deepak patil</authors>
+        <jconf>telecommunication systems</jconf>
+        <id>3954</id>
+        <label>2</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>explor trade label size stack depth mpl rout</title>
+        <year>2003</year>
+        <authors>amit kumar,anupam gupta,rajeev rastogi</authors>
+        <jconf>infocom</jconf>
+        <id>1593</id>
+        <label>3</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>approxim cost share simpl approxim algorithm multicommod rent bui problem</title>
+        <year>2003</year>
+        <authors>amit kumar,anupam gupta,martin pal,tim roughgarden</authors>
+        <jconf>focs</jconf>
+        <id>671</id>
+        <label>3</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>provis virtual privat network network design problem multicommod flow</title>
+        <year>2001</year>
+        <authors>amit kumar,anupam gupta,jon m. kleinberg,rajeev rastogi,bulent yener</authors>
+        <jconf>stoc</jconf>
+        <id>2442</id>
+        <label>3</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>simpler approxim algorithm network design</title>
+        <year>2003</year>
+        <authors>amit kumar,anupam gupta,tim roughgarden</authors>
+        <jconf>stoc</jconf>
+        <id>2443</id>
+        <label>3</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>sort select structur cost</title>
+        <year>2001</year>
+        <authors>amit kumar,anupam gupta</authors>
+        <jconf>focs</jconf>
+        <id>669</id>
+        <label>3</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>tree base mpl rout</title>
+        <year>2003</year>
+        <authors>amit kumar,anupam gupta,mikkel thorup</authors>
+        <jconf>spaa</jconf>
+        <id>2364</id>
+        <label>3</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>travel pez dispens rout issu mpl</title>
+        <year>2001</year>
+        <authors>amit kumar,anupam gupta,rajeev rastogi</authors>
+        <jconf>focs</jconf>
+        <id>672</id>
+        <label>3</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>connect infer problem tempor network</title>
+        <year>2000</year>
+        <authors>amit kumar,david kempe,jon m. kleinberg</authors>
+        <jconf>stoc</jconf>
+        <id>2446</id>
+        <label>3</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>configur bgp rout reflector</title>
+        <year>2007</year>
+        <authors>amit kumar,yuri breitbart,minos n. garofalakis,anupam gupta,rajeev rastogi</authors>
+        <jconf>comsware</jconf>
+        <id>285</id>
+        <label>3</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>optim configur ospf aggreg</title>
+        <year>2002</year>
+        <authors>amit kumar,rajeev rastogi,yuri breitbart,minos n. garofalakis</authors>
+        <jconf>infocom</jconf>
+        <id>1609</id>
+        <label>3</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>approxim algorithm unsplitt flow problem</title>
+        <year>2002</year>
+        <authors>amit kumar,amit chakrabarti,chandra chekuri,anupam gupta</authors>
+        <jconf>approx</jconf>
+        <id>82</id>
+        <label>3</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>build edg failur resili network</title>
+        <year>2002</year>
+        <authors>amit kumar,chandra chekuri,anupam gupta,joseph naor,danny raz</authors>
+        <jconf>ipco</jconf>
+        <id>1618</id>
+        <label>3</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>correl xml data stream tree edit distanc embed</title>
+        <year>2003</year>
+        <authors>amit kumar,minos n. garofalakis</authors>
+        <jconf>pods</jconf>
+        <id>2099</id>
+        <label>3</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>optim configur ospf aggreg</title>
+        <year>2002</year>
+        <authors>amit kumar,rajeev rastogi,yuri breitbart,minos n. garofalakis</authors>
+        <jconf>infocom</jconf>
+        <id>1609</id>
+        <label>3</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>optim configur ospf aggreg</title>
+        <year>2003</year>
+        <authors>amit kumar,rajeev rastogi,yuri breitbart,minos n. garofalakis</authors>
+        <jconf>ieee/acm trans. netw.</jconf>
+        <id>4056</id>
+        <label>3</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>build edg failur resili network</title>
+        <year>2002</year>
+        <authors>amit kumar,chandra chekuri,anupam gupta,joseph naor,danny raz</authors>
+        <jconf>ipco</jconf>
+        <id>1618</id>
+        <label>3</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>constant factor approxim algorithm multicommod</title>
+        <year>2002</year>
+        <authors>amit kumar,anupam gupta,tim roughgarden</authors>
+        <jconf>focs</jconf>
+        <id>680</id>
+        <label>3</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>connect infer problem tempor network</title>
+        <year>2002</year>
+        <authors>amit kumar,david kempe,jon m. kleinberg</authors>
+        <jconf>j. comput. syst. sci.</jconf>
+        <id>3425</id>
+        <label>3</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>fair measur resourc alloc</title>
+        <year>2000</year>
+        <authors>amit kumar,jon m. kleinberg</authors>
+        <jconf>focs</jconf>
+        <id>681</id>
+        <label>3</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>wavelength convers optic network</title>
+        <year>1999</year>
+        <authors>amit kumar,jon m. kleinberg</authors>
+        <jconf>soda</jconf>
+        <id>2351</id>
+        <label>3</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>wavelength convers optic network</title>
+        <year>2001</year>
+        <authors>amit kumar,jon m. kleinberg</authors>
+        <jconf>j. algorithms</jconf>
+        <id>3359</id>
+        <label>3</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>algorithm provis virtual privat network hose model</title>
+        <year>2001</year>
+        <authors>amit kumar,rajeev rastogi,abraham silberschatz,bulent yener</authors>
+        <jconf>sigcomm</jconf>
+        <id>2242</id>
+        <label>3</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>algorithm provis virtual privat network hose model</title>
+        <year>2002</year>
+        <authors>amit kumar,rajeev rastogi,abraham silberschatz,bulent yener</authors>
+        <jconf>ieee/acm trans. netw.</jconf>
+        <id>4052</id>
+        <label>3</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>primal dual algorithm connect facil locat problem</title>
+        <year>2002</year>
+        <authors>amit kumar,chaitanya swamy</authors>
+        <jconf>approx</jconf>
+        <id>84</id>
+        <label>3</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>multipl copi distribut genet algorithm bin pack</title>
+        <year>2003</year>
+        <authors>anup kumar,james e. lewis,rammohan k. ragade</authors>
+        <jconf>pdpta</jconf>
+        <id>2066</id>
+        <label>4</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>design implement wireless medic chart system</title>
+        <year>2003</year>
+        <authors>anup kumar,matt wurth,rammohan k. ragade</authors>
+        <jconf>pdpta</jconf>
+        <id>2068</id>
+        <label>4</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>system effect evalu real time parallel distribut comput system</title>
+        <year>1990</year>
+        <authors>anup kumar,dharma p. agrawal</authors>
+        <jconf>icpp (1)</jconf>
+        <id>1324</id>
+        <label>4</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>comment area time optim adder design</title>
+        <year>1994</year>
+        <authors>anup kumar,chien-in henry chen</authors>
+        <jconf>ieee trans. computers</jconf>
+        <id>3854</id>
+        <label>4</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>paramet system effect evalu distribut system</title>
+        <year>1996</year>
+        <authors>anup kumar,dharma p. agrawal</authors>
+        <jconf>ieee trans. computers</jconf>
+        <id>3880</id>
+        <label>4</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>simul tc activ vibrant</title>
+        <year>1996</year>
+        <authors>anup kumar,adel said elmaghraby</authors>
+        <jconf>ieee computer</jconf>
+        <id>2909</id>
+        <label>4</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>autonom distribut data mine intellig web servic</title>
+        <year>2003</year>
+        <authors>anup kumar,mehmed m. kantardzic</authors>
+        <jconf>ike</jconf>
+        <id>1575</id>
+        <label>4</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>distribut approach implement genet algorithm</title>
+        <year>1994</year>
+        <authors>anup kumar,alok srivastava,rakesh m. pathak</authors>
+        <jconf>icpp (3)</jconf>
+        <id>1348</id>
+        <label>4</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>perform comparison algorithm task assign</title>
+        <year>1994</year>
+        <authors>anup kumar,sub ramakrishnan,chinar deshpande,larry a. dunning</authors>
+        <jconf>icpp (3)</jconf>
+        <id>1326</id>
+        <label>4</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>framework depend base optim parallel practic loop</title>
+        <year>1994</year>
+        <authors>anup kumar,venkata konda</authors>
+        <jconf>icpp (3)</jconf>
+        <id>1323</id>
+        <label>4</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>genet algorithm applic machin schedul problem</title>
+        <year>1993</year>
+        <authors>anup kumar,mahesh c. gupta,yash p. gupta</authors>
+        <jconf>acm conference on computer science</jconf>
+        <id>39</id>
+        <label>4</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>genet algorithm base approach design comput network topolog</title>
+        <year>1993</year>
+        <authors>anup kumar,rakesh m. pathak,mahesh c. gupta</authors>
+        <jconf>acm conference on computer science</jconf>
+        <id>40</id>
+        <label>4</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>object orient simul multimedia demand servic atm network</title>
+        <year>1996</year>
+        <authors>anup kumar,alok srivastava,aditi singru,khaled a. kamel</authors>
+        <jconf>mascots</jconf>
+        <id>1889</id>
+        <label>4</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>design analysi video demand server</title>
+        <year>1997</year>
+        <authors>anup kumar,alok srivastava,aditi singru</authors>
+        <jconf>multimedia syst.</jconf>
+        <id>3571</id>
+        <label>4</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>systemat framework depend cycl remov practic loop</title>
+        <year>1995</year>
+        <authors>anup kumar,venkata konda</authors>
+        <jconf>j. parallel distrib. comput.</jconf>
+        <id>3499</id>
+        <label>4</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>genet algorithm pack dimension convex object caviti hole</title>
+        <year>1997</year>
+        <authors>anup kumar,ilkka ikonen,william e. biles,john c. wissel,rammohan k. ragade</authors>
+        <jconf>icga</jconf>
+        <id>1104</id>
+        <label>4</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>model base reason domain model web base intellig tutor system student learn debug c program</title>
+        <year>2002</year>
+        <authors>amruth n. kumar</authors>
+        <jconf>intelligent tutoring systems</jconf>
+        <id>1796</id>
+        <label>5</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>announc</title>
+        <year>1999</year>
+        <authors>amruth n. kumar</authors>
+        <jconf>intelligence</jconf>
+        <id>3781</id>
+        <label>5</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>problem gener evalu domain oper system</title>
+        <year>1998</year>
+        <authors>amruth n. kumar</authors>
+        <jconf>flairs conference</jconf>
+        <id>658</id>
+        <label>5</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>reifi interfac tutor program debug</title>
+        <year>2003</year>
+        <authors>amruth n. kumar</authors>
+        <jconf>icalt</jconf>
+        <id>883</id>
+        <label>5</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>reason function applic engin</title>
+        <year>1998</year>
+        <authors>amruth n. kumar,luca chittaro</authors>
+        <jconf>ai in engineering</jconf>
+        <id>2680</id>
+        <label>5</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>interact multimedia pedagogi report work group interact multimedia pedagogi</title>
+        <year>1996</year>
+        <authors>amruth kumar,elizabeth s. adams,linda carswell,jeanine meyer,ainslie ellis,patrick hall,john motil</authors>
+        <jconf>iticse</jconf>
+        <id>1795</id>
+        <label>5</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>teach program problem solv</title>
+        <year>2002</year>
+        <authors>amruth n. kumar,elliot b. koffman,torsten brinda,juan alvarez,maria lucia blanck lisboa,juris reinfelds,peter van roy,raul sidnei wazlawick</authors>
+        <jconf>informatics curricula and teaching methods</jconf>
+        <id>1547</id>
+        <label>5</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>compon ontolog represent function reason devic</title>
+        <year>1998</year>
+        <authors>amruth n. kumar,shambhu j. upadhyaya</authors>
+        <jconf>ai in engineering</jconf>
+        <id>2682</id>
+        <label>5</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>focus candid gener</title>
+        <year>1991</year>
+        <authors>amruth n. kumar,shambhu j. upadhyaya</authors>
+        <jconf>ai in engineering</jconf>
+        <id>2681</id>
+        <label>5</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>function base reason</title>
+        <year>1994</year>
+        <authors>amruth n. kumar</authors>
+        <jconf>knowledge eng. review</jconf>
+        <id>3553</id>
+        <label>5</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>function base reason introduct</title>
+        <year>1994</year>
+        <authors>amruth n. kumar</authors>
+        <jconf>applied artificial intelligence</jconf>
+        <id>2664</id>
+        <label>5</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>function base candid discrimin dure model base diagnosi</title>
+        <year>1995</year>
+        <authors>amruth n. kumar,shambhu j. upadhyaya</authors>
+        <jconf>applied artificial intelligence</jconf>
+        <id>2665</id>
+        <label>5</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>fork diagram teach select cs i</title>
+        <year>1996</year>
+        <authors>amruth n. kumar</authors>
+        <jconf>sigcse</jconf>
+        <id>2243</id>
+        <label>5</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>link</title>
+        <year>1999</year>
+        <authors>amruth n. kumar</authors>
+        <jconf>intelligence</jconf>
+        <id>3782</id>
+        <label>5</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>learn program solv problem</title>
+        <year>2002</year>
+        <authors>amruth n. kumar</authors>
+        <jconf>informatics curricula and teaching methods</jconf>
+        <id>1548</id>
+        <label>5</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>high level design experi idea</title>
+        <year>1993</year>
+        <authors>anshul kumar,c. s. ajay,m. balakrishnan,d. harikrishna,m. karunakaran,shashi kumar,v. mudgil,a. r. naseer</authors>
+        <jconf>vlsi design</jconf>
+        <id>2550</id>
+        <label>6</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>dessert design space explor rt level compon</title>
+        <year>1993</year>
+        <authors>anshul kumar,m. v. rao,m. balakrishnan</authors>
+        <jconf>vlsi design</jconf>
+        <id>2557</id>
+        <label>6</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>explor number regist window asip synthesi</title>
+        <year>2002</year>
+        <authors>anshul kumar,vishal p. bhatt,m. balakrishnan</authors>
+        <jconf>vlsi design</jconf>
+        <id>2551</id>
+        <label>6</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>divid conquer method achiev high speed divis hardwar</title>
+        <year>2002</year>
+        <authors>anshul kumar,murali mohan,rohini krishnan,m. balakrishnan</authors>
+        <jconf>vlsi design</jconf>
+        <id>2555</id>
+        <label>6</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>fast fpga target rtl structur synthesi techniqu</title>
+        <year>1994</year>
+        <authors>anshul kumar,a. r. naseer,m. balakrishnan</authors>
+        <jconf>vlsi design</jconf>
+        <id>2556</id>
+        <label>6</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>effici embed partit circuit multi fpga board</title>
+        <year>2000</year>
+        <authors>anshul kumar,sushil chandra jain,shashi kumar</authors>
+        <jconf>fpl</jconf>
+        <id>696</id>
+        <label>6</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>effici techniqu map rtl structur fpga</title>
+        <year>1994</year>
+        <authors>anshul kumar,a. r. naseer,m. balakrishnan</authors>
+        <jconf>fpl</jconf>
+        <id>697</id>
+        <label>6</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>delai minim map rtl structur lut base fpga</title>
+        <year>1995</year>
+        <authors>anshul kumar,a. r. naseer,m. balakrishnan</authors>
+        <jconf>fpl</jconf>
+        <id>698</id>
+        <label>6</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>parallel fft algorithm cach base share memori multiprocessor</title>
+        <year>1993</year>
+        <authors>akhilesh kumar,laxmi n. bhuyan</authors>
+        <jconf>icpp (3)</jconf>
+        <id>1325</id>
+        <label>7</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>distribut cach coher protocol hypercub multiprocessor</title>
+        <year>1994</year>
+        <authors>akhilesh kumar,yeimkuan chang,laxmi n. bhuyan</authors>
+        <jconf>icpp (1)</jconf>
+        <id>1297</id>
+        <label>7</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>effici scalabl cach coher scheme share memori hypercub multiprocessor</title>
+        <year>1994</year>
+        <authors>akhilesh kumar,phanindra k. mannava,laxmi n. bhuyan</authors>
+        <jconf>sc</jconf>
+        <id>2214</id>
+        <label>7</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>impact cc numa memori manag polici applic perform multistag switch network</title>
+        <year>2000</year>
+        <authors>akhilesh kumar,laxmi n. bhuyan,ravi r. iyer,hu-jun wang</authors>
+        <jconf>ieee trans. parallel distrib. syst.</jconf>
+        <id>4062</id>
+        <label>7</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>evalu virtual channel cach coher share memori multiprocessor</title>
+        <year>1996</year>
+        <authors>akhilesh kumar,laxmi n. bhuyan</authors>
+        <jconf>international conference on supercomputing</jconf>
+        <id>1476</id>
+        <label>7</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>vector hartlei transform emploi multiprocessor</title>
+        <year>1992</year>
+        <authors>akhilesh kumar,rabi n. mahapatra</authors>
+        <jconf>ipps</jconf>
+        <id>1647</id>
+        <label>7</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>access method bi tempor databas</title>
+        <year>1995</year>
+        <authors>anil kumar,vassilis j. tsotras,christos faloutsos</authors>
+        <jconf>temporal databases</jconf>
+        <id>2458</id>
+        <label>8</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>load balanc parallel sort algorithm share noth architectur</title>
+        <year>1995</year>
+        <authors>anil kumar,tony t. lee,vassilis j. tsotras</authors>
+        <jconf>distributed and parallel databases</jconf>
+        <id>3011</id>
+        <label>8</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>design access method bitempor databas</title>
+        <year>1998</year>
+        <authors>anil kumar,vassilis j. tsotras,christos faloutsos</authors>
+        <jconf>ieee trans. knowl. data eng.</jconf>
+        <id>3981</id>
+        <label>8</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>tempor databas bibliographi updat</title>
+        <year>1996</year>
+        <authors>anil kumar,vassilis j. tsotras</authors>
+        <jconf>sigmod record</jconf>
+        <id>3786</id>
+        <label>8</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>develop internet enabl interact fixtur design system</title>
+        <year>2003</year>
+        <authors>a. senthil kumar,fathianathan mervyn,shung-hwee bok,andrew y. c. nee</authors>
+        <jconf>computer-aided design</jconf>
+        <id>2807</id>
+        <label>9</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>cad integr analysi flat form toler zone</title>
+        <year>2001</year>
+        <authors>a. senthil kumar,tan book teck,v. subramanian</authors>
+        <jconf>computer-aided design</jconf>
+        <id>2808</id>
+        <label>9</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>autom design assembl interfer free modular fixtur setup</title>
+        <year>2000</year>
+        <authors>a. senthil kumar,jerry y. h. fuh,t. s. kow</authors>
+        <jconf>computer-aided design</jconf>
+        <id>2801</id>
+        <label>9</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>expert fixtur design system autom manufactur environ</title>
+        <year>1992</year>
+        <authors>a. senthil kumar,andrew y. c. nee,s. prombanpong</authors>
+        <jconf>computer-aided design</jconf>
+        <id>2802</id>
+        <label>9</label>
+        <organization>null</organization>
+    </publication>
+</person>

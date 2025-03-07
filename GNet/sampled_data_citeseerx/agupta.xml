@@ -1,0 +1,4237 @@
+<?xml version="1.0" encoding="utf-8"?>
+<person>
+    <personID>13753098</personID>
+    <FullName>ajay k. gupta</FullName>
+    <FirstName>ajay</FirstName>
+    <LastName>gupta</LastName>
+    <publication>
+        <title>pme privileg mangag enforc system secur distribut resourc share</title>
+        <year>1996</year>
+        <authors>ajay k. gupta,kurt maly,irwin b. levinstein,ravi mukkamala,bjorn kvande,s. nanjangud,margrethe h. olson,roy whitney,rita chambers</authors>
+        <jconf>ifip world conference on it tools</jconf>
+        <id>1543</id>
+        <label>10</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>coprocess java base environ collabor process manag web</title>
+        <year>1997</year>
+        <authors>ajay k. gupta,kurt maly,hussein m. abdel-wahab,ravi mukkamala,mohamed kholief,s. dittakavi,c. s. vemuru,h. syed</authors>
+        <jconf>webnet</jconf>
+        <id>2598</id>
+        <label>10</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>privileg manag enforc system distribut resourc share</title>
+        <year>1996</year>
+        <authors>ajay k. gupta,kurt maly,bjorn kvande,irwin b. levinstein,ravi mukkamala,s. nanjangud,margrethe h. olson,roy whitney,rita chambers</authors>
+        <jconf>wetice</jconf>
+        <id>2613</id>
+        <label>10</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>softwar architectur interprocess commun iri internet base interact distanc learn system</title>
+        <year>1996</year>
+        <authors>ajay k. gupta,hussein m. abdel-wahab,kurt maly,alaa youssef,emilia stoica,c. michael overstreet,j. christian wild</authors>
+        <jconf>wetice</jconf>
+        <id>2610</id>
+        <label>10</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>mosaic xtv coreview</title>
+        <year>1995</year>
+        <authors>ajay k. gupta,kurt maly,hussein m. abdel-wahab,ravi mukkamala,a. prabhu,h. syed,c. s. vemuru</authors>
+        <jconf>computer networks and isdn systems</jconf>
+        <id>2872</id>
+        <label>10</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>iri h java base distanc educ system</title>
+        <year>2001</year>
+        <authors>ajay k. gupta,kurt maly,hussein m. abdel-wahab,j. christian wild,c. michael overstreet,ayman adel abdel hamid,sahar m. ghanem,agustin gonzalez,xiaoqing zhu</authors>
+        <jconf>acm journal of educational resources in computing</jconf>
+        <id>3437</id>
+        <label>10</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>btu host commun benchmark</title>
+        <year>1998</year>
+        <authors>ajay k. gupta,kurt maly,satish mynam</authors>
+        <jconf>ieee computer</jconf>
+        <id>2911</id>
+        <label>10</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>interact distanc learn intranet</title>
+        <year>1997</year>
+        <authors>ajay k. gupta,kurt maly,hussein m. abdel-wahab,c. michael overstreet,j. christian wild,alaa youssef,emilia stoica,ehab s. al-shaer</authors>
+        <jconf>ieee internet computing</jconf>
+        <id>3235</id>
+        <label>10</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>perform trade multimedia distribut applic</title>
+        <year>1995</year>
+        <authors>ajay k. gupta,kurt maly,c. michael overstreet,hussein m. abdel-wahab,muthu kumar,rahul srivastava</authors>
+        <jconf>hpn</jconf>
+        <id>837</id>
+        <label>10</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>secur architectur tenet scheme</title>
+        <year>1996</year>
+        <authors>amit gupta,rolf oppliger,mark moran,riccardo bettati</authors>
+        <jconf>idms</jconf>
+        <id>1523</id>
+        <label>11</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>dynam resourc alloc migrat multiparti real time commun</title>
+        <year>1996</year>
+        <authors>amit gupta,riccardo bettati</authors>
+        <jconf>icdcs</jconf>
+        <id>1023</id>
+        <label>11</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>connect establish multi parti real time commun</title>
+        <year>1995</year>
+        <authors>amit gupta,riccardo bettati,domenico ferrari,w. heffner,wingwai howe,mark moran,quyen nguyen,rajendra yavatkar</authors>
+        <jconf>nossdav</jconf>
+        <id>1999</id>
+        <label>11</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>distribut advanc reserv real time connect</title>
+        <year>1995</year>
+        <authors>amit gupta,domenico ferrari,giorgio ventre</authors>
+        <jconf>nossdav</jconf>
+        <id>2000</id>
+        <label>11</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>resourc share multi parti real time commun</title>
+        <year>1995</year>
+        <authors>amit gupta,wingwai howe,mark moran,quyen nguyen</authors>
+        <jconf>infocom</jconf>
+        <id>1592</id>
+        <label>11</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>distribut advanc reserv real time connect</title>
+        <year>1997</year>
+        <authors>amit gupta,domenico ferrari,giorgio ventre</authors>
+        <jconf>multimedia syst.</jconf>
+        <id>3568</id>
+        <label>11</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>resourc partit real time commun</title>
+        <year>1995</year>
+        <authors>amit gupta,domenico ferrari</authors>
+        <jconf>ieee/acm trans. netw.</jconf>
+        <id>4049</id>
+        <label>11</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>failur recoveri multi parti real time commun</title>
+        <year>1996</year>
+        <authors>amit gupta,kurt rothermel</authors>
+        <jconf>icmcs</jconf>
+        <id>1197</id>
+        <label>11</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>stabil algorithm maximum flow problem</title>
+        <year>1997</year>
+        <authors>arobinda gupta,sukumar ghosh,sriram v. pemmaraju</authors>
+        <jconf>distributed computing</jconf>
+        <id>2964</id>
+        <label>12</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>estim link characterist internet path fpathchar</title>
+        <year>2003</year>
+        <authors>arobinda gupta,animesh nandi</authors>
+        <jconf>international conference on internet computing</jconf>
+        <id>867</id>
+        <label>12</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>onlin transcod web page mobil devic</title>
+        <year>2003</year>
+        <authors>arobinda gupta,somnath banerjee,anupam basu</authors>
+        <jconf>mobile hci</jconf>
+        <id>1905</id>
+        <label>12</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>adapt fault toler hospit resourc schedul</title>
+        <year>2002</year>
+        <authors>arobinda gupta,umesh deshpande,anupam basu</authors>
+        <jconf>coopis/doa/odbase</jconf>
+        <id>291</id>
+        <label>12</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>onlin transcod web page mobil devic</title>
+        <year>2003</year>
+        <authors>arobinda gupta,somnath banerjee,anupam basu</authors>
+        <jconf>mobile hci</jconf>
+        <id>1905</id>
+        <label>12</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>coordin problem solv resourc share distribut environ</title>
+        <year>2004</year>
+        <authors>arobinda gupta,umesh deshpande,anupam basu</authors>
+        <jconf>ieee trans. systems, man, and cybernetics, part b</jconf>
+        <id>4116</id>
+        <label>12</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>adapt fault toler hospit resourc schedul</title>
+        <year>2002</year>
+        <authors>arobinda gupta,umesh deshpande,anupam basu</authors>
+        <jconf>coopis/doa/odbase</jconf>
+        <id>291</id>
+        <label>12</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>heterogen checkpoint recoveri protocol cluster base distribut system</title>
+        <year>2003</year>
+        <authors>arobinda gupta,himadri sekhar paul,r. badrinath</authors>
+        <jconf>pdpta</jconf>
+        <id>2067</id>
+        <label>12</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>perform comparison checkpoint recoveri protocol</title>
+        <year>2003</year>
+        <authors>arobinda gupta,himadri sekhar paul,r. badrinath</authors>
+        <jconf>concurrency and computation: practice and experience</jconf>
+        <id>2928</id>
+        <label>12</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>fault network protocol</title>
+        <year>1997</year>
+        <authors>arobinda gupta,sukumar ghosh,sriram v. pemmaraju</authors>
+        <jconf>sac</jconf>
+        <id>2184</id>
+        <label>12</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>fault stabil algorithm</title>
+        <year>1996</year>
+        <authors>arobinda gupta,sukumar ghosh,ted herman,sriram v. pemmaraju</authors>
+        <jconf>podc</jconf>
+        <id>2095</id>
+        <label>12</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>stabil algorithm maximum flow problem</title>
+        <year>1997</year>
+        <authors>arobinda gupta,sukumar ghosh,sriram v. pemmaraju</authors>
+        <jconf>distributed computing</jconf>
+        <id>2964</id>
+        <label>12</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>fault network protocol</title>
+        <year>1997</year>
+        <authors>arobinda gupta,sukumar ghosh,sriram v. pemmaraju</authors>
+        <jconf>sac</jconf>
+        <id>2184</id>
+        <label>12</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>exercis fault stabil leader elect</title>
+        <year>1996</year>
+        <authors>arobinda gupta,sukumar ghosh</authors>
+        <jconf>inf. process. lett.</jconf>
+        <id>3256</id>
+        <label>12</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>stabil algorithm maximum flow problem</title>
+        <year>1997</year>
+        <authors>arobinda gupta,sukumar ghosh,sriram v. pemmaraju</authors>
+        <jconf>distributed computing</jconf>
+        <id>2964</id>
+        <label>12</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>cooper framework segment d activ contour d hybrid model appli branch cylindr structur</title>
+        <year>1998</year>
+        <authors>alok gupta,thomas o'donnell,marie-pierre dubuisson-jolly</authors>
+        <jconf>iccv</jconf>
+        <id>991</id>
+        <label>13</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>optim polylin track arteri motion compens coronari angiographi</title>
+        <year>1998</year>
+        <authors>alok gupta,marie-pierre dubuisson-jolly,cheng-chung liang</authors>
+        <jconf>iccv</jconf>
+        <id>986</id>
+        <label>13</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>model recoveri cylindr structur medic imag data</title>
+        <year>1997</year>
+        <authors>alok gupta,thomas o'donnell,terrance e. boult</authors>
+        <jconf>cvrmed</jconf>
+        <id>352</id>
+        <label>13</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>introduct special issu innov applic comput vision</title>
+        <year>2002</year>
+        <authors>alok gupta,bir bhanu,terrance e. boult,david michael</authors>
+        <jconf>mach. vis. appl.</jconf>
+        <id>3592</id>
+        <label>13</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>global model parametr offset appli cardiac motion recoveri</title>
+        <year>1996</year>
+        <authors>alok gupta,thomas o'donnell,terrance e. boult</authors>
+        <jconf>cvpr</jconf>
+        <id>349</id>
+        <label>13</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>hybrid model recov cardiac wall motion tag mr imag</title>
+        <year>1996</year>
+        <authors>alok gupta,gareth funka-lea</authors>
+        <jconf>cvpr</jconf>
+        <id>342</id>
+        <label>13</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>multi modal model base registr cardiac domain</title>
+        <year>2000</year>
+        <authors>alok gupta,thomas o'donnell,shmuel aharon,gareth funka-lea,sandra simon halliburton,richard d. white</authors>
+        <jconf>cvpr</jconf>
+        <id>348</id>
+        <label>13</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>fair perform dynam weight atm abr servic</title>
+        <year>2001</year>
+        <authors>anil k. gupta,jeremy p. chew</authors>
+        <jconf>perform. eval.</jconf>
+        <id>3680</id>
+        <label>14</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>improv fair long vc activ fair atm abr servic</title>
+        <year>2000</year>
+        <authors>anil k. gupta,jeremy p. chew</authors>
+        <jconf>icc (3)</jconf>
+        <id>896</id>
+        <label>14</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>control isochron traffic crma atm interwork</title>
+        <year>1997</year>
+        <authors>anil k. gupta,xiaoqun wang</authors>
+        <jconf>icc (3)</jconf>
+        <id>898</id>
+        <label>14</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>consolid algorithm point multipoint abr servic atm network</title>
+        <year>2001</year>
+        <authors>anil k. gupta,md. shamsuzzaman,bu-sung lee</authors>
+        <jconf>icn (2)</jconf>
+        <id>1228</id>
+        <label>14</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>analysi packet switch input output buffer speed constraint</title>
+        <year>1991</year>
+        <authors>anil k. gupta,nicolas d. georganas</authors>
+        <jconf>infocom</jconf>
+        <id>1590</id>
+        <label>14</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>prioriti perform atm packet switch</title>
+        <year>1992</year>
+        <authors>anil k. gupta,nicolas d. georganas</authors>
+        <jconf>infocom</jconf>
+        <id>1591</id>
+        <label>14</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>switch modul atm switch system interconnect network</title>
+        <year>1993</year>
+        <authors>anil k. gupta,luis orozco-barbosa,nicolas d. georganas</authors>
+        <jconf>computer networks and isdn systems</jconf>
+        <id>2869</id>
+        <label>14</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>streamlin digit economi avert tragedi common</title>
+        <year>1997</year>
+        <authors>alok gupta,boris jukic,manoj parameswaran,dale o. stahl,andrew b. whinston</authors>
+        <jconf>ieee internet computing</jconf>
+        <id>3232</id>
+        <label>15</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>econom network manag</title>
+        <year>1999</year>
+        <authors>alok gupta,dale o. stahl,andrew b. whinston</authors>
+        <jconf>commun. acm</jconf>
+        <id>2774</id>
+        <label>15</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>research issu real time dbm context electron commerc</title>
+        <year>1996</year>
+        <authors>alok gupta,prabhudev konana,andrew b. whinston</authors>
+        <jconf>dart@cikm</jconf>
+        <id>225</id>
+        <label>15</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>streamlin digit economi avert tragedi common</title>
+        <year>1997</year>
+        <authors>alok gupta,boris jukic,manoj parameswaran,dale o. stahl,andrew b. whinston</authors>
+        <jconf>ieee internet computing</jconf>
+        <id>3232</id>
+        <label>15</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>econom network manag</title>
+        <year>1999</year>
+        <authors>alok gupta,dale o. stahl,andrew b. whinston</authors>
+        <jconf>commun. acm</jconf>
+        <id>2774</id>
+        <label>15</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>simul onlin yanke auction optim seller revenu</title>
+        <year>2001</year>
+        <authors>alok gupta,ravi bapna,paulo b. goes</authors>
+        <jconf>hicss</jconf>
+        <id>769</id>
+        <label>15</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>theoret empir investig multi item line auction</title>
+        <year>2000</year>
+        <authors>alok gupta,ravi bapna,paulo b. goes</authors>
+        <jconf>information technology and management</jconf>
+        <id>3322</id>
+        <label>15</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>manag comput resourc activ intranet</title>
+        <year>2002</year>
+        <authors>alok gupta,ramnath k. chellappa</authors>
+        <jconf>int. journal of network management</jconf>
+        <id>3167</id>
+        <label>15</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>databas design modern organ identifi robust structur chang queri pattern arriv rate condit</title>
+        <year>2004</year>
+        <authors>alok gupta,andrew n. k. chen,paulo b. goes,james r. marsden</authors>
+        <jconf>decision support systems</jconf>
+        <id>3019</id>
+        <label>15</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>insight analys onlin auction</title>
+        <year>2001</year>
+        <authors>alok gupta,ravi bapna,paulo b. goes</authors>
+        <jconf>commun. acm</jconf>
+        <id>2765</id>
+        <label>15</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>simul onlin yanke auction optim seller revenu</title>
+        <year>2001</year>
+        <authors>alok gupta,ravi bapna,paulo b. goes</authors>
+        <jconf>hicss</jconf>
+        <id>769</id>
+        <label>15</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>minitrack introduct</title>
+        <year>2002</year>
+        <authors>alok gupta,ram d. gopal</authors>
+        <jconf>hicss</jconf>
+        <id>777</id>
+        <label>15</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>trade higher softwar piraci higher profit case phantom piraci</title>
+        <year>2010</year>
+        <authors>alok gupta,ram d. gopal</authors>
+        <jconf>management science</jconf>
+        <id>3561</id>
+        <label>15</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>benefit cost adopt usag base price subnetwork</title>
+        <year>2001</year>
+        <authors>alok gupta,leigh l. linden,dale o. stahl,andrew b. whinston</authors>
+        <jconf>information technology and management</jconf>
+        <id>3323</id>
+        <label>15</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>compar analysi multi item onlin auction evid laboratori</title>
+        <year>2001</year>
+        <authors>alok gupta,ravi bapna,paulo b. goes</authors>
+        <jconf>decision support systems</jconf>
+        <id>3017</id>
+        <label>15</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>analysi design busi consum onlin auction</title>
+        <year>2003</year>
+        <authors>alok gupta,ravi bapna,paulo b. goes</authors>
+        <jconf>management science</jconf>
+        <id>3560</id>
+        <label>15</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>optim design onlin auction channel analyt empir comput insight</title>
+        <year>2002</year>
+        <authors>alok gupta,ravi bapna,paulo b. goes,gilbert g. karuga</authors>
+        <jconf>decision sciences</jconf>
+        <id>3015</id>
+        <label>15</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>replic onlin yanke auction analyz auction bidder strategi</title>
+        <year>2003</year>
+        <authors>alok gupta,ravi bapna,paulo b. goes</authors>
+        <jconf>information systems research</jconf>
+        <id>3321</id>
+        <label>15</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>econom analysi consum purchas intent electron tradit retail channel competit strateg implic</title>
+        <year>2004</year>
+        <authors>alok gupta,bo-chiuan su,zhiping d. walter</authors>
+        <jconf>eee</jconf>
+        <id>595</id>
+        <label>15</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>digit signatur modif achiev success gener e busi process</title>
+        <year>2004</year>
+        <authors>alok gupta,y. alex tung,james r. marsden</authors>
+        <jconf>information &amp; management</jconf>
+        <id>3079</id>
+        <label>15</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>manag comput resourc intranet electron commerc perspect</title>
+        <year>1998</year>
+        <authors>alok gupta,dale o. stahl,andrew b. whinston</authors>
+        <jconf>decision support systems</jconf>
+        <id>3020</id>
+        <label>15</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>extract consum privat inform implement incent compat internet traffic price</title>
+        <year>2000</year>
+        <authors>alok gupta,boris jukic,dale o. stahl,andrew b. whinston</authors>
+        <jconf>j. of management information systems</jconf>
+        <id>3465</id>
+        <label>15</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>combin decis diagram sat procedur effici symbol model check</title>
+        <year>2000</year>
+        <authors>anubhav gupta,poul frederick williams,armin biere,edmund m. clarke</authors>
+        <jconf>cav</jconf>
+        <id>179</id>
+        <label>16</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>sat base abstract refin ilp machin learn techniqu</title>
+        <year>2002</year>
+        <authors>anubhav gupta,edmund m. clarke,james h. kukula,ofer strichman</authors>
+        <jconf>cav</jconf>
+        <id>176</id>
+        <label>16</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>dynam detect remov inact claus sat applic imag comput</title>
+        <year>2001</year>
+        <authors>anubhav gupta,aarti gupta,zijiang yang,pranav ashar</authors>
+        <jconf>dac</jconf>
+        <id>376</id>
+        <label>16</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>sat base imag comput applic reachabl analysi</title>
+        <year>2000</year>
+        <authors>anubhav gupta,aarti gupta,zijiang yang,pranav ashar</authors>
+        <jconf>fmcad</jconf>
+        <id>664</id>
+        <label>16</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>slew rate enhanc techniqu oper amplifi base tunabl activ gm base capacit multipl circuit</title>
+        <year>2003</year>
+        <authors>anubhav gupta,ram suryanarayan,travis n. blalock</authors>
+        <jconf>acm great lakes symposium on vlsi</jconf>
+        <id>754</id>
+        <label>16</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>combin decis diagram sat procedur effici symbol model check</title>
+        <year>2000</year>
+        <authors>anubhav gupta,poul frederick williams,armin biere,edmund m. clarke</authors>
+        <jconf>cav</jconf>
+        <id>179</id>
+        <label>16</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>width minim dimension cmo cell integ program</title>
+        <year>1996</year>
+        <authors>avaneendra gupta,john p. hayes</authors>
+        <jconf>iccad</jconf>
+        <id>928</id>
+        <label>17</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>optim d cell layout integr transistor fold</title>
+        <year>1998</year>
+        <authors>avaneendra gupta,john p. hayes</authors>
+        <jconf>iccad</jconf>
+        <id>929</id>
+        <label>17</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>clip optim layout gener dimension cmo cell</title>
+        <year>1997</year>
+        <authors>avaneendra gupta,john p. hayes</authors>
+        <jconf>dac</jconf>
+        <id>377</id>
+        <label>17</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>clip integ program base optim layout synthesi d cmo cell</title>
+        <year>2000</year>
+        <authors>avaneendra gupta,john p. hayes</authors>
+        <jconf>acm trans. design autom. electr. syst.</jconf>
+        <id>4019</id>
+        <label>17</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>compress sql workload</title>
+        <year>2002</year>
+        <authors>ashish kumar gupta,surajit chaudhuri,vivek r. narasayya</authors>
+        <jconf>sigmod conference</jconf>
+        <id>2281</id>
+        <label>18</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>view select stream process</title>
+        <year>2002</year>
+        <authors>ashish kumar gupta,alon y. halevy,dan suciu</authors>
+        <jconf>webdb</jconf>
+        <id>2580</id>
+        <label>18</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>stream process xpath queri predic</title>
+        <year>2003</year>
+        <authors>ashish kumar gupta,dan suciu</authors>
+        <jconf>sigmod conference</jconf>
+        <id>2287</id>
+        <label>18</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>view select stream process</title>
+        <year>2002</year>
+        <authors>ashish kumar gupta,alon y. halevy,dan suciu</authors>
+        <jconf>webdb</jconf>
+        <id>2580</id>
+        <label>18</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>view select problem xml content base rout</title>
+        <year>2003</year>
+        <authors>ashish kumar gupta,dan suciu,alon y. halevy</authors>
+        <jconf>pods</jconf>
+        <id>2102</id>
+        <label>18</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>stream process xpath queri predic</title>
+        <year>2003</year>
+        <authors>ashish kumar gupta,dan suciu</authors>
+        <jconf>sigmod conference</jconf>
+        <id>2287</id>
+        <label>18</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>silicon compil fault toler rom</title>
+        <year>1998</year>
+        <authors>anurag gupta,kanad chakraborty,pinaki mazumder</authors>
+        <jconf>dft</jconf>
+        <id>535</id>
+        <label>19</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>physic design tool built repair static ram</title>
+        <year>1999</year>
+        <authors>anurag gupta,kanad chakraborty,mayukh bhattacharya,shriram kulkarni,pinaki mazumder</authors>
+        <jconf>date</jconf>
+        <id>427</id>
+        <label>19</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>suppli chain agent decis aid system scada</title>
+        <year>2001</year>
+        <authors>anurag gupta,larry whitman,ramesh k. agarwal</authors>
+        <jconf>winter simulation conference</jconf>
+        <id>2642</id>
+        <label>19</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>schedul page migrat multiprocessor comput server</title>
+        <year>1994</year>
+        <authors>anoop gupta,rohit chandra,scott devine,ben verghese,mendel rosenblum</authors>
+        <jconf>asplos</jconf>
+        <id>107</id>
+        <label>1</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>memori system perform unix cc numa multiprocessor</title>
+        <year>1995</year>
+        <authors>anoop gupta,john chapin,stephen alan herrod,mendel rosenblum</authors>
+        <jconf>sigmetrics</jconf>
+        <id>2266</id>
+        <label>1</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>cach invalid pattern share memori multiprocessor</title>
+        <year>1992</year>
+        <authors>anoop gupta,wolf-dietrich weber</authors>
+        <jconf>ieee trans. computers</jconf>
+        <id>3868</id>
+        <label>1</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>vmp multiprocessor initi experi refin perform evlauat</title>
+        <year>1988</year>
+        <authors>anoop gupta,david r. cheriton,patrick d. boyle,hendrik a. goosen</authors>
+        <jconf>isca</jconf>
+        <id>1681</id>
+        <label>1</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>explor benefit multipl hardwar context multiprocessor architectur preliminari result</title>
+        <year>1989</year>
+        <authors>anoop gupta,wolf-dietrich weber</authors>
+        <jconf>isca</jconf>
+        <id>1712</id>
+        <label>1</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>memori consist event order scalabl share memori multiprocessor</title>
+        <year>1990</year>
+        <authors>anoop gupta,kourosh gharachorloo,daniel lenoski,james laudon,phillip b. gibbons,john l. hennessy</authors>
+        <jconf>isca</jconf>
+        <id>1684</id>
+        <label>1</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>distribut meet meet captur broadcast system</title>
+        <year>2002</year>
+        <authors>anoop gupta,ross cutler,yong rui,jonathan j. cadiz,ivan tashev,li-wei he,alex colburn,zhengyou zhang,zicheng liu,steve silverberg</authors>
+        <jconf>acm multimedia</jconf>
+        <id>1932</id>
+        <label>1</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>analysi cach invalid pattern multiprocessor</title>
+        <year>1989</year>
+        <authors>anoop gupta,wolf-dietrich weber</authors>
+        <jconf>asplos</jconf>
+        <id>120</id>
+        <label>1</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>directori base cach coher protocol dash multiprocessor</title>
+        <year>1990</year>
+        <authors>anoop gupta,daniel lenoski,james laudon,kourosh gharachorloo,john l. hennessy</authors>
+        <jconf>isca</jconf>
+        <id>1695</id>
+        <label>1</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>reduc memori traffic requir scalabl directori base cach coher scheme</title>
+        <year>1990</year>
+        <authors>anoop gupta,wolf-dietrich weber,todd c. mowry</authors>
+        <jconf>icpp (1)</jconf>
+        <id>1315</id>
+        <label>1</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>dash prototyp logic overhead perform</title>
+        <year>1993</year>
+        <authors>anoop gupta,daniel lenoski,james laudon,truman joe,david nakahira,luis stevens,john l. hennessy</authors>
+        <jconf>ieee trans. parallel distrib. syst.</jconf>
+        <id>4086</id>
+        <label>1</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>dash prototyp implement perform</title>
+        <year>1992</year>
+        <authors>anoop gupta,daniel lenoski,james laudon,truman joe,david nakahira,luis stevens,john l. hennessy</authors>
+        <jconf>isca</jconf>
+        <id>1696</id>
+        <label>1</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>stanford dash multiprocessor</title>
+        <year>1992</year>
+        <authors>anoop gupta,daniel lenoski,james laudon,kourosh gharachorloo,wolf-dietrich weber,john l. hennessy,mark horowitz,monica s. lam</authors>
+        <jconf>ieee computer</jconf>
+        <id>2910</id>
+        <label>1</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>effect trace sampl perform debug tool</title>
+        <year>1993</year>
+        <authors>anoop gupta,margaret martonosi,thomas e. anderson</authors>
+        <jconf>sigmetrics</jconf>
+        <id>2273</id>
+        <label>1</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>memspi analyz memori system bottleneck program</title>
+        <year>1992</year>
+        <authors>anoop gupta,margaret martonosi,thomas e. anderson</authors>
+        <jconf>sigmetrics</jconf>
+        <id>2272</id>
+        <label>1</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>tune memori perform sequenti parallel program</title>
+        <year>1995</year>
+        <authors>anoop gupta,margaret martonosi,thomas e. anderson</authors>
+        <jconf>ieee computer</jconf>
+        <id>2912</id>
+        <label>1</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>compar perform evalu cach coher numa coma architectur</title>
+        <year>1992</year>
+        <authors>anoop gupta,per stenstrom,truman joe</authors>
+        <jconf>isca</jconf>
+        <id>1711</id>
+        <label>1</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>tradeoff messag pass share memori implement standard cell router</title>
+        <year>1989</year>
+        <authors>anoop gupta,margaret martonosi</authors>
+        <jconf>icpp (3)</jconf>
+        <id>1342</id>
+        <label>1</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>suitabl messag pass comput implement product system</title>
+        <year>1988</year>
+        <authors>anoop gupta,milind tambe</authors>
+        <jconf>aaai</jconf>
+        <id>9</id>
+        <label>1</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>reduc memori traffic requir scalabl directori base cach coher scheme</title>
+        <year>1990</year>
+        <authors>anoop gupta,wolf-dietrich weber,todd c. mowry</authors>
+        <jconf>icpp (1)</jconf>
+        <id>1315</id>
+        <label>1</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>hive fault share memori multiprocessor</title>
+        <year>1995</year>
+        <authors>anoop gupta,john chapin,mendel rosenblum,scott devine,tirthankar lahiri,dan teodosiu</authors>
+        <jconf>sosp</jconf>
+        <id>2353</id>
+        <label>1</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>implement effici fault multiprocessor confin fault share memori multiprocessor environ</title>
+        <year>1996</year>
+        <authors>anoop gupta,mendel rosenblum,john chapin,dan teodosiu,scott devine,tirthankar lahiri</authors>
+        <jconf>commun. acm</jconf>
+        <id>2788</id>
+        <label>1</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>splash program character methodolog</title>
+        <year>1995</year>
+        <authors>anoop gupta,steven cameron woo,moriyoshi ohara,evan torrie,jaswinder pal singh</authors>
+        <jconf>isca</jconf>
+        <id>1714</id>
+        <label>1</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>benefit cach affin schedul share memori multiprocessor summari</title>
+        <year>1993</year>
+        <authors>anoop gupta,josep torrellas,andrew tucker</authors>
+        <jconf>sigmetrics</jconf>
+        <id>2277</id>
+        <label>1</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>evalu perform cach affin schedul share memori multiprocessor</title>
+        <year>1995</year>
+        <authors>anoop gupta,josep torrellas,andrew tucker</authors>
+        <jconf>j. parallel distrib. comput.</jconf>
+        <id>3515</id>
+        <label>1</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>exploit variabl grain parallel runtim</title>
+        <year>1988</year>
+        <authors>anoop gupta,andrew tucker</authors>
+        <jconf>ppopp/ppeals</jconf>
+        <id>2119</id>
+        <label>1</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>process control schedul issu multiprogram share memori multiprocessor</title>
+        <year>1989</year>
+        <authors>anoop gupta,andrew tucker</authors>
+        <jconf>sosp</jconf>
+        <id>2358</id>
+        <label>1</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>impact oper system schedul polici synchron method perform parallel applic</title>
+        <year>1991</year>
+        <authors>anoop gupta,andrew tucker,shigeru urushibara</authors>
+        <jconf>sigmetrics</jconf>
+        <id>2269</id>
+        <label>1</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>initi assess architectur product system</title>
+        <year>1984</year>
+        <authors>anoop gupta,charles forgy,allen newell,robert g. wedig</authors>
+        <jconf>aaai</jconf>
+        <id>8</id>
+        <label>1</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>static run time characterist op product system</title>
+        <year>1989</year>
+        <authors>anoop gupta,charles forgy</authors>
+        <jconf>j. parallel distrib. comput.</jconf>
+        <id>3489</id>
+        <label>1</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>perform evalu hybrid hardwar softwar distribut share memori protocol</title>
+        <year>1994</year>
+        <authors>anoop gupta,rohit chandra,kourosh gharachorloo,vijayaraghavan soundararajan</authors>
+        <jconf>international conference on supercomputing</jconf>
+        <id>1468</id>
+        <label>1</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>perform evalu memori consist model share memori multiprocessor</title>
+        <year>1991</year>
+        <authors>anoop gupta,kourosh gharachorloo,john l. hennessy</authors>
+        <jconf>asplos</jconf>
+        <id>109</id>
+        <label>1</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>design present demand view</title>
+        <year>2000</year>
+        <authors>anoop gupta,liwei he,jonathan grudin</authors>
+        <jconf>cscw</jconf>
+        <id>317</id>
+        <label>1</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>parallel algorithm architectur rule base system</title>
+        <year>1986</year>
+        <authors>anoop gupta,charles forgy,allen newell,robert g. wedig</authors>
+        <jconf>isca</jconf>
+        <id>1685</id>
+        <label>1</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>suitabl messag pass comput implement product system</title>
+        <year>1988</year>
+        <authors>anoop gupta,milind tambe</authors>
+        <jconf>aaai</jconf>
+        <id>9</id>
+        <label>1</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>toler latenc softwar control prefetch share memori multiprocessor</title>
+        <year>1991</year>
+        <authors>anoop gupta,todd c. mowry</authors>
+        <jconf>j. parallel distrib. comput.</jconf>
+        <id>3507</id>
+        <label>1</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>design analysi cach architectur textur map</title>
+        <year>1997</year>
+        <authors>anoop gupta,ziyad s. hakura</authors>
+        <jconf>isca</jconf>
+        <id>1687</id>
+        <label>1</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>perform impact flexibl stanford flash multiprocessor</title>
+        <year>1994</year>
+        <authors>anoop gupta,mark heinrich,jeffrey kuskin,david ofelt,john heinlein,joel baxter,jaswinder pal singh,richard simoni,kourosh gharachorloo,david nakahira,mark horowitz,mendel rosenblum,john l. hennessy</authors>
+        <jconf>asplos</jconf>
+        <id>111</id>
+        <label>1</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>build intellig camera manag system</title>
+        <year>2001</year>
+        <authors>anoop gupta,yong rui,li-wei he,qiong liu</authors>
+        <jconf>acm multimedia</jconf>
+        <id>1939</id>
+        <label>1</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>stanford flash multiprocessor</title>
+        <year>1994</year>
+        <authors>anoop gupta,jeffrey kuskin,david ofelt,mark heinrich,john heinlein,richard simoni,kourosh gharachorloo,john chapin,david nakahira,joel baxter,mark horowitz,mendel rosenblum,john l. hennessy</authors>
+        <jconf>isca</jconf>
+        <id>1692</id>
+        <label>1</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>comparison rete treat product matcher soar</title>
+        <year>1988</year>
+        <authors>anoop gupta,p. pandurang nayak,paul s. rosenbloom</authors>
+        <jconf>aaai</jconf>
+        <id>18</id>
+        <label>1</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>high speed implement rule base system</title>
+        <year>1989</year>
+        <authors>anoop gupta,charles forgy,allen newell</authors>
+        <jconf>acm trans. comput. syst.</jconf>
+        <id>4015</id>
+        <label>1</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>initi assess architectur product system</title>
+        <year>1984</year>
+        <authors>anoop gupta,charles forgy,allen newell,robert g. wedig</authors>
+        <jconf>aaai</jconf>
+        <id>8</id>
+        <label>1</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>parallel algorithm architectur rule base system</title>
+        <year>1986</year>
+        <authors>anoop gupta,charles forgy,allen newell,robert g. wedig</authors>
+        <jconf>isca</jconf>
+        <id>1685</id>
+        <label>1</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>parallel op encor multimax</title>
+        <year>1988</year>
+        <authors>anoop gupta,charles forgy,dirk kalp,allen newell,milind tambe</authors>
+        <jconf>icpp (1)</jconf>
+        <id>1313</id>
+        <label>1</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>soar psm e investig match parallel learn product system</title>
+        <year>1988</year>
+        <authors>anoop gupta,milind tambe,dirk kalp,charles forgy,brian milnes,allen newell</authors>
+        <jconf>ppopp/ppeals</jconf>
+        <id>2122</id>
+        <label>1</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>model commun parallel algorithm fruit interact theori system</title>
+        <year>1994</year>
+        <authors>anoop gupta,jaswinder pal singh,edward rothberg</authors>
+        <jconf>spaa</jconf>
+        <id>2367</id>
+        <label>1</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>explor benefit linear time compress</title>
+        <year>2001</year>
+        <authors>anoop gupta,liwei he</authors>
+        <jconf>acm multimedia</jconf>
+        <id>1934</id>
+        <label>1</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>auto summar audio video present</title>
+        <year>1999</year>
+        <authors>anoop gupta,liwei he,elizabeth sanocki,jonathan grudin</authors>
+        <jconf>acm multimedia (1)</jconf>
+        <id>1935</id>
+        <label>1</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>coher block data transfer flash multiprocessor</title>
+        <year>1997</year>
+        <authors>anoop gupta,john heinlein,kourosh gharachorloo,robert p. bosch jr.,mendel rosenblum</authors>
+        <jconf>ipps</jconf>
+        <id>1639</id>
+        <label>1</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>integr messag pass share memori stanford flash multiprocessor</title>
+        <year>1994</year>
+        <authors>anoop gupta,john heinlein,kourosh gharachorloo,scott dresser</authors>
+        <jconf>asplos</jconf>
+        <id>110</id>
+        <label>1</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>character cach synchron perform multiprocessor oper system</title>
+        <year>1992</year>
+        <authors>anoop gupta,josep torrellas,john l. hennessy</authors>
+        <jconf>asplos</jconf>
+        <id>117</id>
+        <label>1</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>cool object base languag parallel program</title>
+        <year>1994</year>
+        <authors>anoop gupta,rohit chandra,john l. hennessy</authors>
+        <jconf>ieee computer</jconf>
+        <id>2902</id>
+        <label>1</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>compar evalu latenc reduc toler techniqu</title>
+        <year>1991</year>
+        <authors>anoop gupta,john l. hennessy,kourosh gharachorloo,todd c. mowry,wolf-dietrich weber</authors>
+        <jconf>isca</jconf>
+        <id>1686</id>
+        <label>1</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>data local load balanc cool</title>
+        <year>1993</year>
+        <authors>anoop gupta,rohit chandra,john l. hennessy</authors>
+        <jconf>ppopp</jconf>
+        <id>2117</id>
+        <label>1</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>experi implement parallel atm share memori multiprocessor</title>
+        <year>1989</year>
+        <authors>anoop gupta,edward rothberg</authors>
+        <jconf>ijcai</jconf>
+        <id>1572</id>
+        <label>1</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>hide memori latenc dynam schedul share memori multiprocessor</title>
+        <year>1992</year>
+        <authors>anoop gupta,kourosh gharachorloo,john l. hennessy</authors>
+        <jconf>isca</jconf>
+        <id>1683</id>
+        <label>1</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>quantit analysi perform scalabl distribut share memori</title>
+        <year>1999</year>
+        <authors>anoop gupta,mark heinrich,vijayaraghavan soundararajan,john l. hennessy</authors>
+        <jconf>ieee trans. computers</jconf>
+        <id>3870</id>
+        <label>1</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>work set cach size node granular issu larg scale multiprocessor</title>
+        <year>1993</year>
+        <authors>anoop gupta,edward rothberg,jaswinder pal singh</authors>
+        <jconf>isca</jconf>
+        <id>1698</id>
+        <label>1</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>stanford dash multiprocessor hardwar softwar approach</title>
+        <year>1992</year>
+        <authors>anoop gupta</authors>
+        <jconf>parle</jconf>
+        <id>2035</id>
+        <label>1</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>parallel iccg hierarch memori multiprocessor address triangular solv bottleneck</title>
+        <year>1992</year>
+        <authors>anoop gupta,edward rothberg</authors>
+        <jconf>parallel computing</jconf>
+        <id>3676</id>
+        <label>1</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>automat extract highlight tv basebal program</title>
+        <year>2000</year>
+        <authors>anoop gupta,yong rui,alex acero</authors>
+        <jconf>acm multimedia</jconf>
+        <id>1938</id>
+        <label>1</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>techniqu improv perform spars matrix factor multiprocessor workstat</title>
+        <year>1990</year>
+        <authors>anoop gupta,edward rothberg</authors>
+        <jconf>sc</jconf>
+        <id>2218</id>
+        <label>1</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>implement product system messag pass comput</title>
+        <year>1992</year>
+        <authors>anoop gupta,anurag acharya,milind tambe</authors>
+        <jconf>ieee trans. parallel distrib. syst.</jconf>
+        <id>4061</id>
+        <label>1</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>effici block orient approach parallel spars choleski factor</title>
+        <year>1993</year>
+        <authors>anoop gupta,edward rothberg</authors>
+        <jconf>sc</jconf>
+        <id>2219</id>
+        <label>1</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>memori refer characterist multiprocessor applic mach</title>
+        <year>1988</year>
+        <authors>anoop gupta,anant agarwal</authors>
+        <jconf>sigmetrics</jconf>
+        <id>2263</id>
+        <label>1</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>build intellig camera manag system</title>
+        <year>2001</year>
+        <authors>anoop gupta,yong rui,li-wei he,qiong liu</authors>
+        <jconf>acm multimedia</jconf>
+        <id>1939</id>
+        <label>1</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>variabl compress jpeg</title>
+        <year>1994</year>
+        <authors>anoop gupta,navin chaddha,avneesh agrawal,teresa h. y. meng</authors>
+        <jconf>icmcs</jconf>
+        <id>1191</id>
+        <label>1</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>automat extract highlight tv basebal program</title>
+        <year>2000</year>
+        <authors>anoop gupta,yong rui,alex acero</authors>
+        <jconf>acm multimedia</jconf>
+        <id>1938</id>
+        <label>1</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>distanc learn distribut collabor video view</title>
+        <year>2000</year>
+        <authors>anoop gupta,jonathan j. cadiz,anand balachandran,elizabeth sanocki,jonathan grudin,gavin jancke</authors>
+        <jconf>cscw</jconf>
+        <id>315</id>
+        <label>1</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>brows digit video</title>
+        <year>2000</year>
+        <authors>anoop gupta,francis c. li,elizabeth sanocki,li-wei he,yong rui</authors>
+        <jconf>chi</jconf>
+        <id>203</id>
+        <label>1</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>run time predict product system</title>
+        <year>1992</year>
+        <authors>anoop gupta,franz barachini,hans mistelberger</authors>
+        <jconf>aaai</jconf>
+        <id>1</id>
+        <label>1</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>annot stream video web system design usag studi</title>
+        <year>1999</year>
+        <authors>anoop gupta,david bargeron,jonathan grudin,elizabeth sanocki</authors>
+        <jconf>computer networks</jconf>
+        <id>2863</id>
+        <label>1</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>compar present summari slide read listen</title>
+        <year>2000</year>
+        <authors>anoop gupta,liwei he,elizabeth sanocki,jonathan grudin</authors>
+        <jconf>chi</jconf>
+        <id>200</id>
+        <label>1</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>asynchron collabor multimedia applic demand train</title>
+        <year>2001</year>
+        <authors>anoop gupta,david bargeron,jonathan grudin,elizabeth sanocki,francis c. li</authors>
+        <jconf>hicss</jconf>
+        <id>770</id>
+        <label>1</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>perform evalu memori consist model share memori multiprocessor</title>
+        <year>1991</year>
+        <authors>anoop gupta,kourosh gharachorloo,john l. hennessy</authors>
+        <jconf>asplos</jconf>
+        <id>109</id>
+        <label>1</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>program differ memori consist model</title>
+        <year>1992</year>
+        <authors>anoop gupta,kourosh gharachorloo,sarita v. adve,john l. hennessy,mark d. hill</authors>
+        <jconf>j. parallel distrib. comput.</jconf>
+        <id>3486</id>
+        <label>1</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>techniqu enhanc perform memori consist model</title>
+        <year>1991</year>
+        <authors>anoop gupta,kourosh gharachorloo,john l. hennessy</authors>
+        <jconf>icpp (1)</jconf>
+        <id>1311</id>
+        <label>1</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>load balanc data local adapt hierarch n bodi method barn hut fast multipol rasios</title>
+        <year>1995</year>
+        <authors>anoop gupta,jaswinder pal singh,chris holt,takashi totsuka,john l. hennessy</authors>
+        <jconf>j. parallel distrib. comput.</jconf>
+        <id>3513</id>
+        <label>1</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>parallel adapt fast multipol method</title>
+        <year>1993</year>
+        <authors>anoop gupta,jaswinder pal singh,chris holt,john l. hennessy</authors>
+        <jconf>sc</jconf>
+        <id>2221</id>
+        <label>1</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>design deploi inform awar interfac</title>
+        <year>2002</year>
+        <authors>anoop gupta,jonathan j. cadiz,gina danielle venolia,gavin jancke</authors>
+        <jconf>cscw</jconf>
+        <id>316</id>
+        <label>1</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>link public space technic social issu</title>
+        <year>2001</year>
+        <authors>anoop gupta,gavin jancke,gina danielle venolia,jonathan grudin,jonathan j. cadiz</authors>
+        <jconf>chi</jconf>
+        <id>202</id>
+        <label>1</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>present local remot audienc design telep system</title>
+        <year>2000</year>
+        <authors>anoop gupta,gavin jancke,jonathan grudin</authors>
+        <jconf>chi</jconf>
+        <id>201</id>
+        <label>1</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>evolv system educ distanc</title>
+        <year>2000</year>
+        <authors>anoop gupta,stephen a. white,jonathan grudin,harry chesley,greg kimberly,elizabeth sanocki</authors>
+        <jconf>hicss</jconf>
+        <id>799</id>
+        <label>1</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>design evalu compil algorithm prefetch</title>
+        <year>1992</year>
+        <authors>anoop gupta,todd c. mowry,monica s. lam</authors>
+        <jconf>asplos</jconf>
+        <id>115</id>
+        <label>1</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>time compress system concern usag benefit</title>
+        <year>1999</year>
+        <authors>anoop gupta,nosa omoigui,liwei he,jonathan grudin,elizabeth sanocki</authors>
+        <jconf>chi</jconf>
+        <id>207</id>
+        <label>1</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>interleav multithread techniqu target multiprocessor workstat</title>
+        <year>1994</year>
+        <authors>anoop gupta,james laudon,mark horowitz</authors>
+        <jconf>asplos</jconf>
+        <id>114</id>
+        <label>1</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>auto summar audio video present</title>
+        <year>1999</year>
+        <authors>anoop gupta,liwei he,elizabeth sanocki,jonathan grudin</authors>
+        <jconf>acm multimedia (1)</jconf>
+        <id>1935</id>
+        <label>1</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>implic hierarch n bodi method multiprocessor architectur</title>
+        <year>1995</year>
+        <authors>anoop gupta,jaswinder pal singh,john l. hennessy</authors>
+        <jconf>acm trans. comput. syst.</jconf>
+        <id>4017</id>
+        <label>1</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>empir comparison kendal squar research ksr stanford dash multiprocessor</title>
+        <year>1993</year>
+        <authors>anoop gupta,jaswinder pal singh,truman joe,john l. hennessy</authors>
+        <jconf>sc</jconf>
+        <id>2222</id>
+        <label>1</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>parallel visual algorithm perform architectur implic</title>
+        <year>1994</year>
+        <authors>anoop gupta,jaswinder pal singh,marc levoy</authors>
+        <jconf>ieee computer</jconf>
+        <id>2913</id>
+        <label>1</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>scale parallel program multiprocessor methodolog exampl</title>
+        <year>1993</year>
+        <authors>anoop gupta,jaswinder pal singh,john l. hennessy</authors>
+        <jconf>ieee computer</jconf>
+        <id>2914</id>
+        <label>1</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>s futur parallel architectur</title>
+        <year>1993</year>
+        <authors>anoop gupta,david c. douglas,olaf m. lubeck,david maier,paul messina,justin r. ratner,burton j. smith,frederica darema</authors>
+        <jconf>sc</jconf>
+        <id>2206</id>
+        <label>1</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>character parallel deadlock distribut digit logic simul</title>
+        <year>1989</year>
+        <authors>anoop gupta,larry soule</authors>
+        <jconf>dac</jconf>
+        <id>393</id>
+        <label>1</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>evalu chandi misra bryant algorithm digit logic simul</title>
+        <year>1991</year>
+        <authors>anoop gupta,larry soule</authors>
+        <jconf>acm trans. model. comput. simul.</jconf>
+        <id>4040</id>
+        <label>1</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>notif share annot digit document</title>
+        <year>2002</year>
+        <authors>anoop gupta,a. j. bernheim brush,david bargeron,jonathan grudin</authors>
+        <jconf>chi</jconf>
+        <id>199</id>
+        <label>1</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>robust annot posit digit document</title>
+        <year>2001</year>
+        <authors>anoop gupta,a. j. bernheim brush,david bargeron,jonathan j. cadiz</authors>
+        <jconf>chi</jconf>
+        <id>198</id>
+        <label>1</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>impact architectur trend oper system perform</title>
+        <year>1995</year>
+        <authors>anoop gupta,mendel rosenblum,edouard bugnion,stephen alan herrod,emmett witchel</authors>
+        <jconf>sosp</jconf>
+        <id>2356</id>
+        <label>1</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>flexibl memori replic migrat cach coher dsm multiprocessor</title>
+        <year>1998</year>
+        <authors>anoop gupta,vijayaraghavan soundararajan,mark heinrich,ben verghese,kourosh gharachorloo,john l. hennessy</authors>
+        <jconf>isca</jconf>
+        <id>1710</id>
+        <label>1</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>view meet captur omni direct camera</title>
+        <year>2001</year>
+        <authors>anoop gupta,yong rui,jonathan j. cadiz</authors>
+        <jconf>chi</jconf>
+        <id>208</id>
+        <label>1</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>perform isol share isol share memori multiprocessor</title>
+        <year>1998</year>
+        <authors>anoop gupta,ben verghese,mendel rosenblum</authors>
+        <jconf>asplos</jconf>
+        <id>119</id>
+        <label>1</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>autom camera manag lectur room environ</title>
+        <year>2001</year>
+        <authors>anoop gupta,qiong liu,yong rui,jonathan j. cadiz</authors>
+        <jconf>chi</jconf>
+        <id>204</id>
+        <label>1</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>oper system support improv data local cc numa comput server</title>
+        <year>1996</year>
+        <authors>anoop gupta,ben verghese,scott devine,mendel rosenblum</authors>
+        <jconf>asplos</jconf>
+        <id>118</id>
+        <label>1</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>schedul page migrat multiprocessor comput server</title>
+        <year>1994</year>
+        <authors>anoop gupta,rohit chandra,scott devine,ben verghese,mendel rosenblum</authors>
+        <jconf>asplos</jconf>
+        <id>107</id>
+        <label>1</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>rang address network pp cach architectur data rang</title>
+        <year>2003</year>
+        <authors>abhishek gupta,anshul kothari,divyakant agrawal,subhash suri</authors>
+        <jconf>peer-to-peer computing</jconf>
+        <id>2014</id>
+        <label>20</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>approxim rang select queri peer peer system</title>
+        <year>2003</year>
+        <authors>abhishek gupta,divyakant agrawal,amr el abbadi</authors>
+        <jconf>cidr</jconf>
+        <id>214</id>
+        <label>20</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>passiv activ assist human perform simul underactu dynam task</title>
+        <year>2003</year>
+        <authors>abhishek gupta,marcia kilchenman o'malley</authors>
+        <jconf>haptics</jconf>
+        <id>763</id>
+        <label>20</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>autom multi cycl symbol time verif microprocessor base design</title>
+        <year>1994</year>
+        <authors>anurag p. gupta,daniel p. siewiorek</authors>
+        <jconf>dac</jconf>
+        <id>379</id>
+        <label>21</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>assur autom design depend</title>
+        <year>1990</year>
+        <authors>anurag p. gupta,patrick edmond,daniel p. siewiorek,audrey a. brennan</authors>
+        <jconf>dac</jconf>
+        <id>373</id>
+        <label>21</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>micon system comput design</title>
+        <year>1989</year>
+        <authors>anurag p. gupta,william p. birmingham,daniel p. siewiorek</authors>
+        <jconf>dac</jconf>
+        <id>354</id>
+        <label>21</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>xprof profil execut x window program</title>
+        <year>1992</year>
+        <authors>aloke gupta,wen-mei w. hwu</authors>
+        <jconf>sigmetrics</jconf>
+        <id>2268</id>
+        <label>22</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>execut profil window orient applic</title>
+        <year>1993</year>
+        <authors>aloke gupta,wen-mei w. hwu</authors>
+        <jconf>softw., pract. exper.</jconf>
+        <id>3819</id>
+        <label>22</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>garbag collect distribut object orient system</title>
+        <year>1993</year>
+        <authors>aloke gupta,w. kent fuchs</authors>
+        <jconf>ieee trans. knowl. data eng.</jconf>
+        <id>3979</id>
+        <label>22</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>perform analysi time warp homogen processor exponenti task time</title>
+        <year>1991</year>
+        <authors>anurag gupta,ian f. akyildiz,richard fujimoto</authors>
+        <jconf>sigmetrics</jconf>
+        <id>2267</id>
+        <label>23</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>perform analysi time warp multipl homogen processor</title>
+        <year>1991</year>
+        <authors>anurag gupta,ian f. akyildiz,richard fujimoto</authors>
+        <jconf>ieee trans. software eng.</jconf>
+        <id>4105</id>
+        <label>23</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>object orient represent product design process</title>
+        <year>1998</year>
+        <authors>ashok gupta,sreenivasa r. gorti,gerard jounghyun kim,ram d. sriram,albert wong</authors>
+        <jconf>computer-aided design</jconf>
+        <id>2800</id>
+        <label>24</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>increment load persist c languag e</title>
+        <year>1995</year>
+        <authors>amar gupta,murali vemulapati,ram d. sriram</authors>
+        <jconf>joop</jconf>
+        <id>3478</id>
+        <label>27</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>approach detect propag email anomali detect</title>
+        <year>2003</year>
+        <authors>ajay k. gupta,r. sekar</authors>
+        <jconf>raid</jconf>
+        <id>2162</id>
+        <label>25</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>specif base anomali detect approach detect network intrus</title>
+        <year>2002</year>
+        <authors>ajay k. gupta,r. sekar,j. frullo,t. shanbhag,a. tiwari,h. yang,s. zhou</authors>
+        <jconf>acm conference on computer and communications security</jconf>
+        <id>186</id>
+        <label>25</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>bring databas manag task realm expert</title>
+        <year>2003</year>
+        <authors>ajay gupta,manish bhide,mukesh k. mohania</authors>
+        <jconf>icde</jconf>
+        <id>1064</id>
+        <label>26</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>dynam access control framework base event</title>
+        <year>2003</year>
+        <authors>ajay gupta,manish bhide,sandeep pandey,mukesh k. mohania</authors>
+        <jconf>icde</jconf>
+        <id>1053</id>
+        <label>26</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>semant queri pictur vimsi model</title>
+        <year>1991</year>
+        <authors>amarnath gupta,terry e. weymouth,ramesh c. jain</authors>
+        <jconf>vldb</jconf>
+        <id>2530</id>
+        <label>2</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>system manag altern model model base mediat</title>
+        <year>2002</year>
+        <authors>amarnath gupta,bertram ludascher,maryann e. martone,xufei qian,edward ross,joshua tran,ilya zaslavsky</authors>
+        <jconf>bncod</jconf>
+        <id>153</id>
+        <label>2</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>mani face process interact graph data manag perspect</title>
+        <year>2003</year>
+        <authors>amarnath gupta,bertram ludascher</authors>
+        <jconf>omics</jconf>
+        <id>3634</id>
+        <label>2</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>formal diseas specif ontolog neuroinformat</title>
+        <year>2003</year>
+        <authors>amarnath gupta,bertram ludascher,jeffrey s. grethe,maryann e. martone</authors>
+        <jconf>neural networks</jconf>
+        <id>3626</id>
+        <label>2</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>virag video engin</title>
+        <year>1997</year>
+        <authors>amarnath gupta,arun hampapur,bradley horowitz,chiao-fe shu,charles fuller,jeffrey r. bach,monika gorkani,ramesh c. jain</authors>
+        <jconf>storage and retrieval for image and video databases (spie)</jconf>
+        <id>2373</id>
+        <label>2</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>virag imag search engin open framework imag manag</title>
+        <year>1996</year>
+        <authors>amarnath gupta,jeffrey r. bach,charles fuller,arun hampapur,bradley horowitz,rich humphrey,ramesh c. jain,chiao-fe shu</authors>
+        <jconf>storage and retrieval for image and video databases (spie)</jconf>
+        <id>2371</id>
+        <label>2</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>visual inform retriev</title>
+        <year>1997</year>
+        <authors>amarnath gupta,ramesh c. jain</authors>
+        <jconf>commun. acm</jconf>
+        <id>2772</id>
+        <label>2</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>emerg semant interact imag databas</title>
+        <year>2001</year>
+        <authors>amarnath gupta,simone santini,ramesh c. jain</authors>
+        <jconf>ieee trans. knowl. data eng.</jconf>
+        <id>3994</id>
+        <label>2</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>practic approach microscopi imag data manag midm neurosci</title>
+        <year>2003</year>
+        <authors>amarnath gupta,shenglan zhang,xufei qian,maryann e. martone</authors>
+        <jconf>ssdbm</jconf>
+        <id>2422</id>
+        <label>2</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>navig virtual inform sourc</title>
+        <year>2002</year>
+        <authors>amarnath gupta,xufei qian,bertram ludascher,maryann e. martone</authors>
+        <jconf>edbt</jconf>
+        <id>589</id>
+        <label>2</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>conceptu integr multipl partial geometr model</title>
+        <year>2002</year>
+        <authors>amarnath gupta,simone santini</authors>
+        <jconf>er</jconf>
+        <id>609</id>
+        <label>2</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>data model queri wavelet featur imag databas</title>
+        <year>2001</year>
+        <authors>amarnath gupta,simone santini</authors>
+        <jconf>multimedia information systems</jconf>
+        <id>1928</id>
+        <label>2</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>gembas geometr mediat brain analysi surfac ensembl</title>
+        <year>2002</year>
+        <authors>amarnath gupta,simone santini</authors>
+        <jconf>vldb</jconf>
+        <id>2542</id>
+        <label>2</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>queri multipl perspect video</title>
+        <year>1999</year>
+        <authors>amarnath gupta,simone santini,ramesh c. jain</authors>
+        <jconf>storage and retrieval for image and video databases (spie)</jconf>
+        <id>2386</id>
+        <label>2</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>emerg semant interact imag databas</title>
+        <year>2001</year>
+        <authors>amarnath gupta,simone santini,ramesh c. jain</authors>
+        <jconf>ieee trans. knowl. data eng.</jconf>
+        <id>3994</id>
+        <label>2</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>extend object orient data model larg imag base</title>
+        <year>1991</year>
+        <authors>amarnath gupta,terry e. weymouth,ramesh c. jain</authors>
+        <jconf>ssd</jconf>
+        <id>2401</id>
+        <label>2</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>search inform visual media</title>
+        <year>1997</year>
+        <authors>amarnath gupta,simone santini,ramesh c. jain</authors>
+        <jconf>commun. acm</jconf>
+        <id>2773</id>
+        <label>2</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>semant queri imag databas</title>
+        <year>1991</year>
+        <authors>amarnath gupta,terry e. weymouth,ramesh c. jain</authors>
+        <jconf>vdb</jconf>
+        <id>2492</id>
+        <label>2</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>semant queri pictur vimsi model</title>
+        <year>1991</year>
+        <authors>amarnath gupta,terry e. weymouth,ramesh c. jain</authors>
+        <jconf>vldb</jconf>
+        <id>2530</id>
+        <label>2</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>semiord databas complex activ recognit multi sensori environ</title>
+        <year>2000</year>
+        <authors>amarnath gupta,shailendra k. bhonsle,simone santini,ramesh c. jain</authors>
+        <jconf>icde</jconf>
+        <id>1054</id>
+        <label>2</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>user interfac emerg sement imag databas</title>
+        <year>1999</year>
+        <authors>amarnath gupta,simone santini,ramesh c. jain</authors>
+        <jconf>ds-8</jconf>
+        <id>560</id>
+        <label>2</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>interact video www vcr interfac</title>
+        <year>1996</year>
+        <authors>amarnath gupta,arun katkere,jennifer schlenzig,ramesh c. jain</authors>
+        <jconf>computer networks</jconf>
+        <id>2873</id>
+        <label>2</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>visual comput meet data model defin object multicamera video databas</title>
+        <year>1996</year>
+        <authors>amarnath gupta,patrick h. kelly,ramesh c. jain</authors>
+        <jconf>storage and retrieval for image and video databases (spie)</jconf>
+        <id>2376</id>
+        <label>2</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>model shape topolog d imag biolog specimen</title>
+        <year>2002</year>
+        <authors>amarnath gupta,pedro a. de alarcon,alberto d. pascual-montano,jose maria carazo</authors>
+        <jconf>icpr (1)</jconf>
+        <id>1361</id>
+        <label>2</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>wavelet data model imag databas</title>
+        <year>2001</year>
+        <authors>amarnath gupta,simone santini</authors>
+        <jconf>icme</jconf>
+        <id>1213</id>
+        <label>2</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>birn m semant mediat solv real world neurosci problem</title>
+        <year>2003</year>
+        <authors>amarnath gupta,bertram ludascher,maryann e. martone</authors>
+        <jconf>sigmod conference</jconf>
+        <id>2284</id>
+        <label>2</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>compil abstract scientif workflow web servic workflow</title>
+        <year>2003</year>
+        <authors>amarnath gupta,bertram ludascher,ilkay altintas</authors>
+        <jconf>ssdbm</jconf>
+        <id>2418</id>
+        <label>2</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>model execut environ distribut scientif workflow</title>
+        <year>2003</year>
+        <authors>amarnath gupta,ilkay altintas,sangeeta bhagwanani,david buttler,sandeep chandra,zhengang cheng,matthew coleman,terence critchlow,wei han,ling liu,bertram ludascher,calton pu,reagan moore,arie shoshani,mladen a. vouk</authors>
+        <jconf>ssdbm</jconf>
+        <id>2403</id>
+        <label>2</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>interpol volum data model</title>
+        <year>2003</year>
+        <authors>amarnath gupta,tianqiu wang,simone santini</authors>
+        <jconf>vldb</jconf>
+        <id>2547</id>
+        <label>2</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>xml base inform mediat digit librari</title>
+        <year>1999</year>
+        <authors>amarnath gupta,chaitanya k. baru,vincent chu,bertram ludascher,richard marciano,yannis papakonstantinou,pavel velikhov</authors>
+        <jconf>acm dl</jconf>
+        <id>539</id>
+        <label>2</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>xml base inform mediat mix</title>
+        <year>1999</year>
+        <authors>amarnath gupta,chaitanya k. baru,bertram ludascher,richard marciano,yannis papakonstantinou,pavel velikhov,vincent chu</authors>
+        <jconf>sigmod conference</jconf>
+        <id>2279</id>
+        <label>2</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>featur algebra visual databas case histogram algebra</title>
+        <year>2000</year>
+        <authors>amarnath gupta,simone santini</authors>
+        <jconf>vdb</jconf>
+        <id>2491</id>
+        <label>2</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>integr gi imageri xml base inform mediat</title>
+        <year>1999</year>
+        <authors>amarnath gupta,richard marciano,ilya zaslavsky,chaitanya k. baru</authors>
+        <jconf>integrated spatial databases</jconf>
+        <id>1739</id>
+        <label>2</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>model execut environ distribut scientif workflow</title>
+        <year>2003</year>
+        <authors>amarnath gupta,ilkay altintas,sangeeta bhagwanani,david buttler,sandeep chandra,zhengang cheng,matthew coleman,terence critchlow,wei han,ling liu,bertram ludascher,calton pu,reagan moore,arie shoshani,mladen a. vouk</authors>
+        <jconf>ssdbm</jconf>
+        <id>2403</id>
+        <label>2</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>complex visual activ recognit tempor order databas</title>
+        <year>1999</year>
+        <authors>amarnath gupta,shailendra k. bhonsle,simone santini,marcel worring,ramesh c. jain</authors>
+        <jconf>visual</jconf>
+        <id>2499</id>
+        <label>2</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>semiord databas complex activ recognit multi sensori environ</title>
+        <year>2000</year>
+        <authors>amarnath gupta,shailendra k. bhonsle,simone santini,ramesh c. jain</authors>
+        <jconf>icde</jconf>
+        <id>1054</id>
+        <label>2</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>content base imag retriev end earli year</title>
+        <year>2000</year>
+        <authors>amarnath gupta,arnold w. m. smeulders,marcel worring,simone santini,ramesh c. jain</authors>
+        <jconf>ieee trans. pattern anal. mach. intell.</jconf>
+        <id>3662</id>
+        <label>2</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>databas architectur autonom transport agent scene network incid manag aton</title>
+        <year>2000</year>
+        <authors>amarnath gupta,mohan m. trivedi,shailendra k. bhonsle</authors>
+        <jconf>icpr</jconf>
+        <id>1391</id>
+        <label>2</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>interpol volum data model</title>
+        <year>2003</year>
+        <authors>amarnath gupta,tianqiu wang,simone santini</authors>
+        <jconf>vldb</jconf>
+        <id>2547</id>
+        <label>2</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>feder neuroscientif knowledg manag system brain atlas</title>
+        <year>2001</year>
+        <authors>amarnath gupta,gully burns,klaas e. stephan,bertram ludascher,rolf kotter</authors>
+        <jconf>neurocomputing</jconf>
+        <id>3177</id>
+        <label>2</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>semant mediat approach problem comput molecular biologi</title>
+        <year>2003</year>
+        <authors>amarnath gupta,monica chagoyen,m. erdem kurul,pedro a. de alarcon,simone santini,bertram ludascher,jose maria carazo</authors>
+        <jconf>csb</jconf>
+        <id>313</id>
+        <label>2</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>birn m semant mediat solv real world neurosci problem</title>
+        <year>2003</year>
+        <authors>amarnath gupta,bertram ludascher,maryann e. martone</authors>
+        <jconf>sigmod conference</jconf>
+        <id>2284</id>
+        <label>2</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>hue preserv enhanc scheme class colour imag</title>
+        <year>1996</year>
+        <authors>amarnath gupta,bhabatosh chanda</authors>
+        <jconf>pattern recognition letters</jconf>
+        <id>3711</id>
+        <label>2</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>knowledg base integr neurosci data sourc</title>
+        <year>2000</year>
+        <authors>amarnath gupta,bertram ludascher,maryann e. martone</authors>
+        <jconf>ssdbm</jconf>
+        <id>2412</id>
+        <label>2</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>visual inform retriev</title>
+        <year>1997</year>
+        <authors>amarnath gupta,ramesh c. jain</authors>
+        <jconf>commun. acm</jconf>
+        <id>2772</id>
+        <label>2</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>queri evalu present plan spatial mediat extend xml base mediat heterogen sourc gi imageri data invit address</title>
+        <year>2001</year>
+        <authors>amarnath gupta,ilya zaslavsky,bertram ludascher,shabbar tambawala</authors>
+        <jconf>dexa workshop</jconf>
+        <id>533</id>
+        <label>2</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>model base mediat domain map</title>
+        <year>2001</year>
+        <authors>amarnath gupta,bertram ludascher,maryann e. martone</authors>
+        <jconf>icde</jconf>
+        <id>1074</id>
+        <label>2</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>model base inform integr neurosci mediat system</title>
+        <year>2000</year>
+        <authors>amarnath gupta,bertram ludascher,maryann e. martone</authors>
+        <jconf>vldb</jconf>
+        <id>2539</id>
+        <label>2</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>model interact web sourc inform mediat</title>
+        <year>1999</year>
+        <authors>amarnath gupta,bertram ludascher</authors>
+        <jconf>er (workshops)</jconf>
+        <id>607</id>
+        <label>2</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>xml base inform mediat digit librari</title>
+        <year>1999</year>
+        <authors>amarnath gupta,chaitanya k. baru,vincent chu,bertram ludascher,richard marciano,yannis papakonstantinou,pavel velikhov</authors>
+        <jconf>acm dl</jconf>
+        <id>539</id>
+        <label>2</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>xml base inform mediat mix</title>
+        <year>1999</year>
+        <authors>amarnath gupta,chaitanya k. baru,bertram ludascher,richard marciano,yannis papakonstantinou,pavel velikhov,vincent chu</authors>
+        <jconf>sigmod conference</jconf>
+        <id>2279</id>
+        <label>2</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>navig virtual inform sourc</title>
+        <year>2002</year>
+        <authors>amarnath gupta,xufei qian,bertram ludascher,maryann e. martone</authors>
+        <jconf>edbt</jconf>
+        <id>589</id>
+        <label>2</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>interpol volum model databas</title>
+        <year>2003</year>
+        <authors>amarnath gupta,tianqiu wang,simone santini</authors>
+        <jconf>er</jconf>
+        <id>611</id>
+        <label>2</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>extens model base mediatior system domain map</title>
+        <year>2001</year>
+        <authors>amarnath gupta,bertram ludascher,maryann e. martone</authors>
+        <jconf>icde demo sessions</jconf>
+        <id>1066</id>
+        <label>2</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>complex visual activ recognit tempor order databas</title>
+        <year>1999</year>
+        <authors>amarnath gupta,shailendra k. bhonsle,simone santini,marcel worring,ramesh c. jain</authors>
+        <jconf>visual</jconf>
+        <id>2499</id>
+        <label>2</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>ontolog servic curriculum develop nsdl</title>
+        <year>2002</year>
+        <authors>amarnath gupta,bertram ludascher,reagan moore</authors>
+        <jconf>jcdl</jconf>
+        <id>1833</id>
+        <label>2</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>practic approach microscopi imag data manag midm neurosci</title>
+        <year>2003</year>
+        <authors>amarnath gupta,shenglan zhang,xufei qian,maryann e. martone</authors>
+        <jconf>ssdbm</jconf>
+        <id>2422</id>
+        <label>2</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>learn object model visual semant network</title>
+        <year>1992</year>
+        <authors>a. gupta,a. bagchi</authors>
+        <jconf>ictai</jconf>
+        <id>1501</id>
+        <label>2</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>extend object orient data model larg imag base</title>
+        <year>1991</year>
+        <authors>amarnath gupta,terry e. weymouth,ramesh c. jain</authors>
+        <jconf>ssd</jconf>
+        <id>2401</id>
+        <label>2</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>extens inform model share scientif data collect</title>
+        <year>1999</year>
+        <authors>amarnath gupta,chaitanya k. baru</authors>
+        <jconf>future generation comp. syst.</jconf>
+        <id>3054</id>
+        <label>2</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>search inform visual media</title>
+        <year>1997</year>
+        <authors>amarnath gupta,simone santini,ramesh c. jain</authors>
+        <jconf>commun. acm</jconf>
+        <id>2773</id>
+        <label>2</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>integr gi imageri xml base inform mediat</title>
+        <year>1999</year>
+        <authors>amarnath gupta,richard marciano,ilya zaslavsky,chaitanya k. baru</authors>
+        <jconf>integrated spatial databases</jconf>
+        <id>1739</id>
+        <label>2</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>ontolog servic curriculum develop nsdl</title>
+        <year>2002</year>
+        <authors>amarnath gupta,bertram ludascher,reagan moore</authors>
+        <jconf>jcdl</jconf>
+        <id>1833</id>
+        <label>2</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>regist scientif inform sourc semant mediat</title>
+        <year>2002</year>
+        <authors>amarnath gupta,bertram ludascher,maryann e. martone</authors>
+        <jconf>er</jconf>
+        <id>602</id>
+        <label>2</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>regist scientif inform sourc semant mediat</title>
+        <year>2002</year>
+        <authors>amarnath gupta,bertram ludascher,maryann e. martone</authors>
+        <jconf>er</jconf>
+        <id>602</id>
+        <label>2</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>system manag altern model model base mediat</title>
+        <year>2002</year>
+        <authors>amarnath gupta,bertram ludascher,maryann e. martone,xufei qian,edward ross,joshua tran,ilya zaslavsky</authors>
+        <jconf>bncod</jconf>
+        <id>153</id>
+        <label>2</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>semant queri imag databas</title>
+        <year>1991</year>
+        <authors>amarnath gupta,terry e. weymouth,ramesh c. jain</authors>
+        <jconf>vdb</jconf>
+        <id>2492</id>
+        <label>2</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>time leav tree syntact conceptu queri xml</title>
+        <year>2002</year>
+        <authors>amarnath gupta,bertram ludascher,ilkay altintas</authors>
+        <jconf>edbt workshops</jconf>
+        <id>590</id>
+        <label>2</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>feder neuroscientif knowledg manag system brain atlas</title>
+        <year>2001</year>
+        <authors>amarnath gupta,gully burns,klaas e. stephan,bertram ludascher,rolf kotter</authors>
+        <jconf>neurocomputing</jconf>
+        <id>3177</id>
+        <label>2</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>compil abstract scientif workflow web servic workflow</title>
+        <year>2003</year>
+        <authors>amarnath gupta,bertram ludascher,ilkay altintas</authors>
+        <jconf>ssdbm</jconf>
+        <id>2418</id>
+        <label>2</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>model base mediat domain map</title>
+        <year>2001</year>
+        <authors>amarnath gupta,bertram ludascher,maryann e. martone</authors>
+        <jconf>icde</jconf>
+        <id>1074</id>
+        <label>2</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>model interact web sourc inform mediat</title>
+        <year>1999</year>
+        <authors>amarnath gupta,bertram ludascher</authors>
+        <jconf>er (workshops)</jconf>
+        <id>607</id>
+        <label>2</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>time leav tree syntact conceptu queri xml</title>
+        <year>2002</year>
+        <authors>amarnath gupta,bertram ludascher,ilkay altintas</authors>
+        <jconf>edbt workshops</jconf>
+        <id>590</id>
+        <label>2</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>effici complet test databas integr constraint check</title>
+        <year>1994</year>
+        <authors>ashish gupta,yehoshua sagiv,jeffrey d. ullman,jennifer widom</authors>
+        <jconf>ppcp</jconf>
+        <id>2116</id>
+        <label>3</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>aggreg queri process data wareh environ</title>
+        <year>1995</year>
+        <authors>ashish gupta,venky harinarayan,dallan quass</authors>
+        <jconf>vldb</jconf>
+        <id>2528</id>
+        <label>3</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>data wareh problem ar materi view answer</title>
+        <year>1996</year>
+        <authors>ashish gupta,inderpal singh mumick</authors>
+        <jconf>vldb</jconf>
+        <id>2529</id>
+        <label>3</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>comput multidimension aggreg</title>
+        <year>1996</year>
+        <authors>ashish gupta,sameet agarwal,rakesh agrawal,prasad deshpande,jeffrey f. naughton,raghu ramakrishnan,sunita sarawagi</authors>
+        <jconf>vldb</jconf>
+        <id>2520</id>
+        <label>3</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>valid constraint partial inform research overview</title>
+        <year>1994</year>
+        <authors>ashish gupta,jennifer widom,yehoshua sagiv,jeffrey d. ullman</authors>
+        <jconf>daisd</jconf>
+        <id>400</id>
+        <label>3</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>mainten mainten outer join view</title>
+        <year>1997</year>
+        <authors>ashish gupta,h. v. jagadish,inderpal singh mumick</authors>
+        <jconf>ngits</jconf>
+        <id>1976</id>
+        <label>3</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>count solut view mainten problem</title>
+        <year>1992</year>
+        <authors>ashish gupta,dinesh katiyar,inderpal singh mumick</authors>
+        <jconf>workshop on deductive databases, jicslp</jconf>
+        <id>461</id>
+        <label>3</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>gener conjunct queri view mainten integr constraint verif abstract</title>
+        <year>1992</year>
+        <authors>ashish gupta,jeffrey d. ullman</authors>
+        <jconf>workshop on deductive databases, jicslp</jconf>
+        <id>462</id>
+        <label>3</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>adapt materi view redefinit</title>
+        <year>1995</year>
+        <authors>ashish gupta,inderpal singh mumick,kenneth a. ross</authors>
+        <jconf>sigmod conference</jconf>
+        <id>2285</id>
+        <label>3</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>maintain view increment</title>
+        <year>1993</year>
+        <authors>ashish gupta,inderpal singh mumick,v. s. subrahmanian</authors>
+        <jconf>sigmod conference</jconf>
+        <id>2286</id>
+        <label>3</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>jungle integr data shape size</title>
+        <year>1998</year>
+        <authors>ashish gupta</authors>
+        <jconf>icde</jconf>
+        <id>1063</id>
+        <label>3</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>model multidimension databas</title>
+        <year>1997</year>
+        <authors>ashish gupta,rakesh agrawal,sunita sarawagi</authors>
+        <jconf>icde</jconf>
+        <id>1050</id>
+        <label>3</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>virtual databas technolog</title>
+        <year>1998</year>
+        <authors>ashish gupta,venky harinarayan,anand rajaraman</authors>
+        <jconf>icde</jconf>
+        <id>1065</id>
+        <label>3</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>optim tupl subsumpt</title>
+        <year>1995</year>
+        <authors>ashish gupta,venky harinarayan</authors>
+        <jconf>icdt</jconf>
+        <id>1085</id>
+        <label>3</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>capabl base queri rewrit mediat system</title>
+        <year>1996</year>
+        <authors>ashish gupta,yannis papakonstantinou,laura m. haas</authors>
+        <jconf>pdis</jconf>
+        <id>2052</id>
+        <label>3</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>make view maintain data wareh</title>
+        <year>1996</year>
+        <authors>ashish gupta,dallan quass,inderpal singh mumick,jennifer widom</authors>
+        <jconf>pdis</jconf>
+        <id>2053</id>
+        <label>3</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>constraint check partial inform</title>
+        <year>1994</year>
+        <authors>ashish gupta,yehoshua sagiv,jeffrey d. ullman,jennifer widom</authors>
+        <jconf>pods</jconf>
+        <id>2103</id>
+        <label>3</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>entrepreneurship inform system research abstract invit tutori</title>
+        <year>2000</year>
+        <authors>ashish gupta</authors>
+        <jconf>pods</jconf>
+        <id>2100</id>
+        <label>3</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>magic set transform nonrecurs system</title>
+        <year>1992</year>
+        <authors>ashish gupta,inderpal singh mumick</authors>
+        <jconf>pods</jconf>
+        <id>2101</id>
+        <label>3</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>local verif global integr constraint distribut databas</title>
+        <year>1993</year>
+        <authors>ashish gupta,jennifer widom</authors>
+        <jconf>sigmod conference</jconf>
+        <id>2288</id>
+        <label>3</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>adapt materi view redefinit techniqu perform studi</title>
+        <year>2001</year>
+        <authors>ashish gupta,inderpal singh mumick,jun rao,kenneth a. ross</authors>
+        <jconf>inf. syst.</jconf>
+        <id>3294</id>
+        <label>3</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>partial inform updat materi view</title>
+        <year>1995</year>
+        <authors>ashish gupta,jose a. blakeley</authors>
+        <jconf>inf. syst.</jconf>
+        <id>3293</id>
+        <label>3</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>capabl base queri rewrit mediat system</title>
+        <year>1998</year>
+        <authors>ashish gupta,yannis papakonstantinou,laura m. haas</authors>
+        <jconf>distributed and parallel databases</jconf>
+        <id>3013</id>
+        <label>3</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>mainten materi view problem techniqu applic</title>
+        <year>1995</year>
+        <authors>ashish gupta,inderpal singh mumick</authors>
+        <jconf>ieee data eng. bull.</jconf>
+        <id>2972</id>
+        <label>3</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>constraint manag distribut design databas</title>
+        <year>1994</year>
+        <authors>ashish gupta,sanjai tiwari</authors>
+        <jconf>ieee data eng. bull.</jconf>
+        <id>2973</id>
+        <label>3</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>virtual databas technolog</title>
+        <year>1997</year>
+        <authors>ashish gupta,venky harinarayan,anand rajaraman</authors>
+        <jconf>sigmod record</jconf>
+        <id>3784</id>
+        <label>3</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>distribut constraint manag collabor engin databas</title>
+        <year>1993</year>
+        <authors>ashish gupta,sanjai tiwari</authors>
+        <jconf>cikm</jconf>
+        <id>220</id>
+        <label>3</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>data integr maintain view</title>
+        <year>1996</year>
+        <authors>ashish gupta,h. v. jagadish,inderpal singh mumick</authors>
+        <jconf>edbt</jconf>
+        <id>586</id>
+        <label>3</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>queri translat scheme rapid implement wrapper</title>
+        <year>1995</year>
+        <authors>ashish gupta,yannis papakonstantinou,hector garcia-molina,jeffrey d. ullman</authors>
+        <jconf>dood</jconf>
+        <id>552</id>
+        <label>3</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>e commerc web</title>
+        <year>1998</year>
+        <authors>ashish gupta</authors>
+        <jconf>workshop on web information and data management</jconf>
+        <id>2617</id>
+        <label>3</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>algorithm handl skew parallel task schedul</title>
+        <year>1992</year>
+        <authors>ashish gupta,arun n. swami,honesty c. young</authors>
+        <jconf>j. parallel distrib. comput.</jconf>
+        <id>3514</id>
+        <label>3</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>vertex partit problem partial k tree</title>
+        <year>1996</year>
+        <authors>arvind gupta,damon kaller,sanjeev mahajan,thomas c. shermer</authors>
+        <jconf>swat</jconf>
+        <id>2452</id>
+        <label>4</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>complement partial k tree</title>
+        <year>1999</year>
+        <authors>arvind gupta,damon kaller,thomas c. shermer</authors>
+        <jconf>icalp</jconf>
+        <id>880</id>
+        <label>4</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>parallel algorithm vehicl rout problem</title>
+        <year>2003</year>
+        <authors>arvind gupta,ramesh krishnamurti</authors>
+        <jconf>parallel processing letters</jconf>
+        <id>3688</id>
+        <label>4</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>parallel algorithm vehicl rout problem</title>
+        <year>1997</year>
+        <authors>arvind gupta,ramesh krishnamurti</authors>
+        <jconf>hipc</jconf>
+        <id>801</id>
+        <label>4</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>sequenti parallel algorithm embed problem class partial k tree</title>
+        <year>1994</year>
+        <authors>arvind gupta,naomi nishimura</authors>
+        <jconf>swat</jconf>
+        <id>2453</id>
+        <label>4</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>gener match problem partial k tree</title>
+        <year>1997</year>
+        <authors>arvind gupta,damon kaller,sanjeev mahajan,thomas c. shermer</authors>
+        <jconf>contemporary trends in discrete mathematics</jconf>
+        <id>537</id>
+        <label>4</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>parallel complex tree embed problem</title>
+        <year>1995</year>
+        <authors>arvind gupta,naomi nishimura</authors>
+        <jconf>j. algorithms</jconf>
+        <id>3355</id>
+        <label>4</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>bound size planar intertwin</title>
+        <year>1997</year>
+        <authors>arvind gupta,russell impagliazzo</authors>
+        <jconf>siam j. discrete math.</jconf>
+        <id>3774</id>
+        <label>4</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>comput planar intertwin</title>
+        <year>1991</year>
+        <authors>arvind gupta,russell impagliazzo</authors>
+        <jconf>focs</jconf>
+        <id>668</id>
+        <label>4</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>vertex partit problem partial k tree</title>
+        <year>1996</year>
+        <authors>arvind gupta,damon kaller,sanjeev mahajan,thomas c. shermer</authors>
+        <jconf>swat</jconf>
+        <id>2452</id>
+        <label>4</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>linear time algorithm partial i k i tree complement</title>
+        <year>2000</year>
+        <authors>arvind gupta,damon kaller,thomas c. shermer</authors>
+        <jconf>algorithmica</jconf>
+        <id>2709</id>
+        <label>4</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>complement partial k tree</title>
+        <year>1999</year>
+        <authors>arvind gupta,damon kaller,thomas c. shermer</authors>
+        <jconf>icalp</jconf>
+        <id>880</id>
+        <label>4</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>updat chain</title>
+        <year>2002</year>
+        <authors>arvind gupta,james p. delgrande</authors>
+        <jconf>inf. process. lett.</jconf>
+        <id>3252</id>
+        <label>4</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>point base approach qualit tempor reason</title>
+        <year>1998</year>
+        <authors>arvind gupta,tim van allen,james p. delgrande</authors>
+        <jconf>pricai</jconf>
+        <id>2146</id>
+        <label>4</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>point base approach qualit tempor reason</title>
+        <year>1999</year>
+        <authors>arvind gupta,james p. delgrande,tim van allen</authors>
+        <jconf>aaai/iaai</jconf>
+        <id>5</id>
+        <label>4</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>point base approach qualit tempor reason</title>
+        <year>1999</year>
+        <authors>arvind gupta,james p. delgrande,tim van allen</authors>
+        <jconf>aaai/iaai</jconf>
+        <id>5</id>
+        <label>4</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>revis timegraph ii</title>
+        <year>1998</year>
+        <authors>arvind gupta,james p. delgrande</authors>
+        <jconf>canadian conference on ai</jconf>
+        <id>60</id>
+        <label>4</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>represent effici tempor reason</title>
+        <year>1996</year>
+        <authors>arvind gupta,james p. delgrande</authors>
+        <jconf>aaai/iaai, vol. 1</jconf>
+        <id>4</id>
+        <label>4</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>complex minimum partial truth assign implic negat free formula</title>
+        <year>1996</year>
+        <authors>arvind gupta,james p. delgrande</authors>
+        <jconf>ann. math. artif. intell.</jconf>
+        <id>2715</id>
+        <label>4</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>regular factor complement partial k tree</title>
+        <year>1995</year>
+        <authors>arvind gupta,damon kaller,thomas c. shermer</authors>
+        <jconf>wads</jconf>
+        <id>2566</id>
+        <label>4</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>chi t color problem</title>
+        <year>1995</year>
+        <authors>arvind gupta,damon kaller,thomas c. shermer</authors>
+        <jconf>stacs</jconf>
+        <id>2429</id>
+        <label>4</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>amplif comput major small major gate</title>
+        <year>1997</year>
+        <authors>arvind gupta,sanjeev mahajan</authors>
+        <jconf>computational complexity</jconf>
+        <id>2815</id>
+        <label>4</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>character complex subgraph isomorph graph bound path width</title>
+        <year>1996</year>
+        <authors>arvind gupta,naomi nishimura</authors>
+        <jconf>stacs</jconf>
+        <id>2428</id>
+        <label>4</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>find largest common embedd subtre</title>
+        <year>1995</year>
+        <authors>arvind gupta,naomi nishimura</authors>
+        <jconf>stacs</jconf>
+        <id>2427</id>
+        <label>4</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>find largest subtre smallest supertre</title>
+        <year>1998</year>
+        <authors>arvind gupta,naomi nishimura</authors>
+        <jconf>algorithmica</jconf>
+        <id>2710</id>
+        <label>4</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>find smallest supertre</title>
+        <year>1995</year>
+        <authors>arvind gupta,naomi nishimura</authors>
+        <jconf>isaac</jconf>
+        <id>1663</id>
+        <label>4</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>sequenti parallel algorithm embed problem class partial k tree</title>
+        <year>1994</year>
+        <authors>arvind gupta,naomi nishimura</authors>
+        <jconf>swat</jconf>
+        <id>2453</id>
+        <label>4</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>acycl direct hypercub mai exponenti diamet</title>
+        <year>1989</year>
+        <authors>a. gupta,hazel everett</authors>
+        <jconf>inf. process. lett.</jconf>
+        <id>3253</id>
+        <label>4</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>approxim algorithm schedul vehicl path releas handl time</title>
+        <year>2003</year>
+        <authors>arvind gupta,daya ram gaur,ramesh krishnamurti</authors>
+        <jconf>inf. process. lett.</jconf>
+        <id>3255</id>
+        <label>4</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>character complex subgraph isomorph graph bound path width</title>
+        <year>1996</year>
+        <authors>arvind gupta,naomi nishimura</authors>
+        <jconf>stacs</jconf>
+        <id>2428</id>
+        <label>4</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>comput planar intertwin</title>
+        <year>1991</year>
+        <authors>arvind gupta,russell impagliazzo</authors>
+        <jconf>focs</jconf>
+        <id>668</id>
+        <label>4</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>construct proof tree ar quasi order minor</title>
+        <year>1992</year>
+        <authors>arvind gupta</authors>
+        <jconf>lfcs</jconf>
+        <id>1884</id>
+        <label>4</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>complex subgraph isomorph class partial k tree</title>
+        <year>1996</year>
+        <authors>arvind gupta,naomi nishimura</authors>
+        <jconf>theor. comput. sci.</jconf>
+        <id>3933</id>
+        <label>4</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>parallel complex tree embed problem</title>
+        <year>1995</year>
+        <authors>arvind gupta,naomi nishimura</authors>
+        <jconf>j. algorithms</jconf>
+        <id>3355</id>
+        <label>4</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>find largest common embedd subtre</title>
+        <year>1995</year>
+        <authors>arvind gupta,naomi nishimura</authors>
+        <jconf>stacs</jconf>
+        <id>2427</id>
+        <label>4</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>construct proof tree ar quasi order minor</title>
+        <year>1992</year>
+        <authors>arvind gupta</authors>
+        <jconf>lfcs</jconf>
+        <id>1884</id>
+        <label>4</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>parallel complex tree embed problem extend abstract</title>
+        <year>1992</year>
+        <authors>arvind gupta,naomi nishimura</authors>
+        <jconf>stacs</jconf>
+        <id>2426</id>
+        <label>4</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>finit automata character minor close tree famili extend abstract</title>
+        <year>1993</year>
+        <authors>arvind gupta</authors>
+        <jconf>icalp</jconf>
+        <id>879</id>
+        <label>4</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>embed i k i connect graph pathwidth i k i</title>
+        <year>2000</year>
+        <authors>arvind gupta,naomi nishimura,andrzej proskurowski,prabhakar ragde</authors>
+        <jconf>swat</jconf>
+        <id>2454</id>
+        <label>4</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>optim parallel algorithm formula evalu</title>
+        <year>1992</year>
+        <authors>a. gupta,samuel r. buss,stephen a. cook,v. ramachandran</authors>
+        <jconf>siam j. comput.</jconf>
+        <id>3748</id>
+        <label>4</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>comparison point base approach qualit tempor reason</title>
+        <year>2001</year>
+        <authors>arvind gupta,james p. delgrande,tim van allen</authors>
+        <jconf>artif. intell.</jconf>
+        <id>2684</id>
+        <label>4</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>design implement evalu band linear solver distribut memori parallel comput</title>
+        <year>1996</year>
+        <authors>anshul gupta,fred g. gustavson,mahesh v. joshi,sivan toledo</authors>
+        <jconf>para</jconf>
+        <id>2029</id>
+        <label>5</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>design implement evalu symmetr band linear solver distribut memori parallel comput</title>
+        <year>1998</year>
+        <authors>anshul gupta,fred g. gustavson,mahesh v. joshi,sivan toledo</authors>
+        <jconf>acm trans. math. softw.</jconf>
+        <id>4042</id>
+        <label>5</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>wssmp high perform serial parallel symmetr spars linear solver</title>
+        <year>1998</year>
+        <authors>anshul gupta,mahesh v. joshi,vipin kumar</authors>
+        <jconf>para</jconf>
+        <id>2030</id>
+        <label>5</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>experi recurs perturb base algorithm symmetr indefinit linear system</title>
+        <year>1999</year>
+        <authors>anshul gupta,fred g. gustavson,alexander karaivanov,jerzy wasniewski,plamen y. yalamov</authors>
+        <jconf>euro-par</jconf>
+        <id>639</id>
+        <label>5</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>highli parallel interior point algorithm</title>
+        <year>1995</year>
+        <authors>anshul gupta,george karypis,vipin kumar</authors>
+        <jconf>ppsc</jconf>
+        <id>2136</id>
+        <label>5</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>highli scalabl parallel algorithm spars matrix factor</title>
+        <year>1997</year>
+        <authors>anshul gupta,george karypis,vipin kumar</authors>
+        <jconf>ieee trans. parallel distrib. syst.</jconf>
+        <id>4072</id>
+        <label>5</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>parallel formul interior point algorithm</title>
+        <year>1994</year>
+        <authors>anshul gupta,george karypis,vipin kumar</authors>
+        <jconf>sc</jconf>
+        <id>2212</id>
+        <label>5</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>analysi scalabl parallel algorithm architectur survei</title>
+        <year>1991</year>
+        <authors>anshul gupta,vipin kumar</authors>
+        <jconf>ics</jconf>
+        <id>1477</id>
+        <label>5</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>perform properti larg scale parallel system</title>
+        <year>1993</year>
+        <authors>anshul gupta,vipin kumar</authors>
+        <jconf>j. parallel distrib. comput.</jconf>
+        <id>3491</id>
+        <label>5</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>parallel algorithm forward back substitut direct solut spars linear system</title>
+        <year>1995</year>
+        <authors>anshul gupta,vipin kumar</authors>
+        <jconf>sc</jconf>
+        <id>2209</id>
+        <label>5</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>optim scalabl parallel spars choleski factor</title>
+        <year>1995</year>
+        <authors>anshul gupta,vipin kumar</authors>
+        <jconf>ppsc</jconf>
+        <id>2130</id>
+        <label>5</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>scalabl parallel algorithm spars choleski factor</title>
+        <year>1994</year>
+        <authors>anshul gupta,vipin kumar</authors>
+        <jconf>sc</jconf>
+        <id>2208</id>
+        <label>5</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>scalabl parallel algorithm matrix multipl</title>
+        <year>1993</year>
+        <authors>anshul gupta,vipin kumar</authors>
+        <jconf>icpp (3)</jconf>
+        <id>1314</id>
+        <label>5</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>scalabl fft parallel comput</title>
+        <year>1993</year>
+        <authors>anshul gupta,vipin kumar</authors>
+        <jconf>ieee trans. parallel distrib. syst.</jconf>
+        <id>4071</id>
+        <label>5</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>parallel analysi ic power distribut network</title>
+        <year>1999</year>
+        <authors>anshul gupta,gary s. ditlow,richard l. moore,david moran,ralph williams,tom wilkins</authors>
+        <jconf>ppsc</jconf>
+        <id>2126</id>
+        <label>5</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>experiment comparison direct spars solver packag</title>
+        <year>2001</year>
+        <authors>anshul gupta,yanto muliadi</authors>
+        <jconf>ipdps</jconf>
+        <id>1637</id>
+        <label>5</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>fast practic algorithm boolean product wit matrix problem</title>
+        <year>2000</year>
+        <authors>anshul gupta,pankaj rohatgi,ramesh c. agarwal</authors>
+        <jconf>issac</jconf>
+        <id>1770</id>
+        <label>5</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>perform scalabl precondit conjug gradient method parallel comput</title>
+        <year>1995</year>
+        <authors>anshul gupta,vipin kumar,ahmed h. sameh</authors>
+        <jconf>ieee trans. parallel distrib. syst.</jconf>
+        <id>4073</id>
+        <label>5</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>perform scalabl precondit conjug gradient method cm</title>
+        <year>1993</year>
+        <authors>anshul gupta,vipin kumar,ahmed h. sameh</authors>
+        <jconf>ppsc</jconf>
+        <id>2131</id>
+        <label>5</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>recent progress gener spars direct solver</title>
+        <year>2001</year>
+        <authors>anshul gupta</authors>
+        <jconf>international conference on computational science (1)</jconf>
+        <id>978</id>
+        <label>5</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>highli scalabl parallel algorithm spars matrix factor</title>
+        <year>1997</year>
+        <authors>anshul gupta,george karypis,vipin kumar</authors>
+        <jconf>ieee trans. parallel distrib. syst.</jconf>
+        <id>4072</id>
+        <label>5</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>improv symbol numer factor algorithm unsymmetr spars matric</title>
+        <year>2002</year>
+        <authors>anshul gupta</authors>
+        <jconf>siam j. matrix analysis applications</jconf>
+        <id>3777</id>
+        <label>5</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>recent advanc direct method solv unsymmetr spars system linear equat</title>
+        <year>2002</year>
+        <authors>anshul gupta</authors>
+        <jconf>acm trans. math. softw.</jconf>
+        <id>4041</id>
+        <label>5</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>design implement scalabl parallel direct solver spars symmetr posit definit system preliminari result</title>
+        <year>1997</year>
+        <authors>anshul gupta,fred g. gustavson,mahesh v. joshi,george karypis,vipin kumar</authors>
+        <jconf>ppsc</jconf>
+        <id>2129</id>
+        <label>5</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>fast graph partit applic spars matrix order</title>
+        <year>1996</year>
+        <authors>anshul gupta,fred g. gustavson</authors>
+        <jconf>para</jconf>
+        <id>2028</id>
+        <label>5</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>parallel algorithm tridiagon symmetr posit definit system equat</title>
+        <year>1996</year>
+        <authors>anshul gupta,fred g. gustavson</authors>
+        <jconf>para</jconf>
+        <id>2031</id>
+        <label>5</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>pspase effici scalabl parallel spars direct solver</title>
+        <year>1999</year>
+        <authors>anshul gupta,mahesh v. joshi,george karypis,vipin kumar,fred g. gustavson</authors>
+        <jconf>ppsc</jconf>
+        <id>2135</id>
+        <label>5</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>sort select structur cost</title>
+        <year>2001</year>
+        <authors>anupam gupta,amit kumar</authors>
+        <jconf>focs</jconf>
+        <id>669</id>
+        <label>6</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>tree base mpl rout</title>
+        <year>2003</year>
+        <authors>anupam gupta,amit kumar,mikkel thorup</authors>
+        <jconf>spaa</jconf>
+        <id>2364</id>
+        <label>6</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>travel pez dispens rout issu mpl</title>
+        <year>2001</year>
+        <authors>anupam gupta,amit kumar,rajeev rastogi</authors>
+        <jconf>focs</jconf>
+        <id>672</id>
+        <label>6</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>build edg failur resili network</title>
+        <year>2002</year>
+        <authors>anupam gupta,chandra chekuri,amit kumar,joseph naor,danny raz</authors>
+        <jconf>ipco</jconf>
+        <id>1618</id>
+        <label>6</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>constant factor approxim algorithm multicommod</title>
+        <year>2002</year>
+        <authors>anupam gupta,amit kumar,tim roughgarden</authors>
+        <jconf>focs</jconf>
+        <id>680</id>
+        <label>6</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>explor trade label size stack depth mpl rout</title>
+        <year>2003</year>
+        <authors>anupam gupta,amit kumar,rajeev rastogi</authors>
+        <jconf>infocom</jconf>
+        <id>1593</id>
+        <label>6</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>approxim cost share simpl approxim algorithm multicommod rent bui problem</title>
+        <year>2003</year>
+        <authors>anupam gupta,amit kumar,martin pal,tim roughgarden</authors>
+        <jconf>focs</jconf>
+        <id>671</id>
+        <label>6</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>provis virtual privat network network design problem multicommod flow</title>
+        <year>2001</year>
+        <authors>anupam gupta,jon m. kleinberg,amit kumar,rajeev rastogi,bulent yener</authors>
+        <jconf>stoc</jconf>
+        <id>2442</id>
+        <label>6</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>simpler approxim algorithm network design</title>
+        <year>2003</year>
+        <authors>anupam gupta,amit kumar,tim roughgarden</authors>
+        <jconf>stoc</jconf>
+        <id>2443</id>
+        <label>6</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>sort select structur cost</title>
+        <year>2001</year>
+        <authors>anupam gupta,amit kumar</authors>
+        <jconf>focs</jconf>
+        <id>669</id>
+        <label>6</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>tree base mpl rout</title>
+        <year>2003</year>
+        <authors>anupam gupta,amit kumar,mikkel thorup</authors>
+        <jconf>spaa</jconf>
+        <id>2364</id>
+        <label>6</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>travel pez dispens rout issu mpl</title>
+        <year>2001</year>
+        <authors>anupam gupta,amit kumar,rajeev rastogi</authors>
+        <jconf>focs</jconf>
+        <id>672</id>
+        <label>6</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>bound geometri fractal low distort embed</title>
+        <year>2003</year>
+        <authors>anupam gupta,robert krauthgamer,james r. lee</authors>
+        <jconf>focs</jconf>
+        <id>670</id>
+        <label>6</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>constant factor approxim algorithm class classif problem</title>
+        <year>2000</year>
+        <authors>anupam gupta,eva tardos</authors>
+        <jconf>stoc</jconf>
+        <id>2444</id>
+        <label>6</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>cut tree l embed graph</title>
+        <year>1999</year>
+        <authors>anupam gupta,ilan newman,yuri rabinovich,alistair sinclair</authors>
+        <jconf>focs</jconf>
+        <id>673</id>
+        <label>6</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>embed tree metric low dimension euclidean space</title>
+        <year>1999</year>
+        <authors>anupam gupta</authors>
+        <jconf>stoc</jconf>
+        <id>2441</id>
+        <label>6</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>embed k outerplanar graph l</title>
+        <year>2003</year>
+        <authors>anupam gupta,chandra chekuri,ilan newman,yuri rabinovich,alistair sinclair</authors>
+        <jconf>soda</jconf>
+        <id>2339</id>
+        <label>6</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>improv bandwidth approxim tree</title>
+        <year>2000</year>
+        <authors>anupam gupta</authors>
+        <jconf>soda</jconf>
+        <id>2343</id>
+        <label>6</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>count invers list</title>
+        <year>2003</year>
+        <authors>anupam gupta,francis zane</authors>
+        <jconf>soda</jconf>
+        <id>2346</id>
+        <label>6</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>improv bandwidth approxim tree chordal graph</title>
+        <year>2001</year>
+        <authors>anupam gupta</authors>
+        <jconf>j. algorithms</jconf>
+        <id>3354</id>
+        <label>6</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>improv result direct multicut</title>
+        <year>2003</year>
+        <authors>anupam gupta</authors>
+        <jconf>soda</jconf>
+        <id>2345</id>
+        <label>6</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>steiner point tree metric don t realli</title>
+        <year>2001</year>
+        <authors>anupam gupta</authors>
+        <jconf>soda</jconf>
+        <id>2344</id>
+        <label>6</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>lower bound embed edit distanc norm space</title>
+        <year>2003</year>
+        <authors>anupam gupta,alexandr andoni,michel deza,piotr indyk,sofya raskhodnikova</authors>
+        <jconf>soda</jconf>
+        <id>2338</id>
+        <label>6</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>approxim algorithm unsplitt flow problem</title>
+        <year>2002</year>
+        <authors>anupam gupta,amit chakrabarti,chandra chekuri,amit kumar</authors>
+        <jconf>approx</jconf>
+        <id>82</id>
+        <label>6</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>elementari proof theorem johnson lindenstrauss</title>
+        <year>2003</year>
+        <authors>anupam gupta,sanjoy dasgupta</authors>
+        <jconf>random struct. algorithms</jconf>
+        <id>3730</id>
+        <label>6</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>bound geometri fractal low distort embed</title>
+        <year>2003</year>
+        <authors>anupam gupta,robert krauthgamer,james r. lee</authors>
+        <jconf>focs</jconf>
+        <id>670</id>
+        <label>6</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>lower bound embed edit distanc norm space</title>
+        <year>2003</year>
+        <authors>anupam gupta,alexandr andoni,michel deza,piotr indyk,sofya raskhodnikova</authors>
+        <jconf>soda</jconf>
+        <id>2338</id>
+        <label>6</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>embed k outerplanar graph l</title>
+        <year>2003</year>
+        <authors>anupam gupta,chandra chekuri,ilan newman,yuri rabinovich,alistair sinclair</authors>
+        <jconf>soda</jconf>
+        <id>2339</id>
+        <label>6</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>explor trade label size stack depth mpl rout</title>
+        <year>2003</year>
+        <authors>anupam gupta,amit kumar,rajeev rastogi</authors>
+        <jconf>infocom</jconf>
+        <id>1593</id>
+        <label>6</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>improv bandwidth approxim tree chordal graph</title>
+        <year>2001</year>
+        <authors>anupam gupta</authors>
+        <jconf>j. algorithms</jconf>
+        <id>3354</id>
+        <label>6</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>improv result direct multicut</title>
+        <year>2003</year>
+        <authors>anupam gupta</authors>
+        <jconf>soda</jconf>
+        <id>2345</id>
+        <label>6</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>cover steiner problem</title>
+        <year>2003</year>
+        <authors>anupam gupta,aravind srinivasan</authors>
+        <jconf>fsttcs</jconf>
+        <id>708</id>
+        <label>6</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>approxim cost share simpl approxim algorithm multicommod rent bui problem</title>
+        <year>2003</year>
+        <authors>anupam gupta,amit kumar,martin pal,tim roughgarden</authors>
+        <jconf>focs</jconf>
+        <id>671</id>
+        <label>6</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>approxim algorithm unsplitt flow problem</title>
+        <year>2002</year>
+        <authors>anupam gupta,amit chakrabarti,chandra chekuri,amit kumar</authors>
+        <jconf>approx</jconf>
+        <id>82</id>
+        <label>6</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>simpler approxim algorithm network design</title>
+        <year>2003</year>
+        <authors>anupam gupta,amit kumar,tim roughgarden</authors>
+        <jconf>stoc</jconf>
+        <id>2443</id>
+        <label>6</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>load balanc prioriti queue distribut memori machin</title>
+        <year>1994</year>
+        <authors>ajay k. gupta,andreas g. photiou</authors>
+        <jconf>parle</jconf>
+        <id>2036</id>
+        <label>7</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>compact hypercub properti recognit</title>
+        <year>1991</year>
+        <authors>ajay k. gupta,alfred j. boals,jahangir a. hashmi,naveed a. sherwani</authors>
+        <jconf>icci</jconf>
+        <id>969</id>
+        <label>7</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>effici approxim algorithm hypercub schedul</title>
+        <year>1991</year>
+        <authors>ajay k. gupta,alfred j. boals,jahangir a. hashmi,naveed a. sherwani</authors>
+        <jconf>icci</jconf>
+        <id>970</id>
+        <label>7</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>optim embed incomplet hypercub</title>
+        <year>1991</year>
+        <authors>ajay k. gupta,alfred j. boals,naveed a. sherwani</authors>
+        <jconf>ipps</jconf>
+        <id>1636</id>
+        <label>7</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>latin cube parallel arrai access</title>
+        <year>1994</year>
+        <authors>ajay k. gupta,cong fan,jiuqiang liu</authors>
+        <jconf>ipps</jconf>
+        <id>1634</id>
+        <label>7</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>embed ternari tree boolean hypercub</title>
+        <year>1992</year>
+        <authors>ajay k. gupta,hong wang</authors>
+        <jconf>spdp</jconf>
+        <id>2369</id>
+        <label>7</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>load balanc tree embed</title>
+        <year>1992</year>
+        <authors>ajay k. gupta,susanne e. hambrusch</authors>
+        <jconf>parallel computing</jconf>
+        <id>3668</id>
+        <label>7</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>embed complet binari tree butterfli network</title>
+        <year>1991</year>
+        <authors>ajay k. gupta,susanne e. hambrusch</authors>
+        <jconf>ieee trans. computers</jconf>
+        <id>3867</id>
+        <label>7</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>optim dimension layout complet binari tree</title>
+        <year>1987</year>
+        <authors>ajay k. gupta,susanne e. hambrusch</authors>
+        <jconf>inf. process. lett.</jconf>
+        <id>3258</id>
+        <label>7</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>develop parallel distribut integr packag part</title>
+        <year>1995</year>
+        <authors>ajay k. gupta,elise de doncker,patricia ealy,kyle rathbun</authors>
+        <jconf>hpcn europe</jconf>
+        <id>823</id>
+        <label>7</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>method load balanc distribut adapt integr</title>
+        <year>1996</year>
+        <authors>ajay k. gupta,elise de doncker,patricia ealy</authors>
+        <jconf>hpcn europe</jconf>
+        <id>822</id>
+        <label>7</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>effici embed ternari tree hypercub</title>
+        <year>2003</year>
+        <authors>ajay k. gupta,donald nelson,hong wang</authors>
+        <jconf>j. parallel distrib. comput.</jconf>
+        <id>3492</id>
+        <label>7</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>multivari integr hypercub mesh network</title>
+        <year>1998</year>
+        <authors>ajay k. gupta,elise de doncker</authors>
+        <jconf>parallel computing</jconf>
+        <id>3667</id>
+        <label>7</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>coars grain precondit conjug gradient solver larg spars system</title>
+        <year>1995</year>
+        <authors>ajay k. gupta,elise de doncker</authors>
+        <jconf>ppsc</jconf>
+        <id>2127</id>
+        <label>7</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>parint softwar packag parallel integr</title>
+        <year>1996</year>
+        <authors>ajay k. gupta,elise de doncker,jay ball,patricia ealy,alan genz</authors>
+        <jconf>international conference on supercomputing</jconf>
+        <id>1473</id>
+        <label>7</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>mutual exclus hypercub</title>
+        <year>1993</year>
+        <authors>ajay gupta,steven c. bruell,sukumar ghosh</authors>
+        <jconf>j. parallel distrib. comput.</jconf>
+        <id>3488</id>
+        <label>7</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>schedul task multiprocessor system evolutionari strategi</title>
+        <year>1994</year>
+        <authors>ajay k. gupta,garrison w. greenwood,kelly mcsweeney</authors>
+        <jconf>international conference on evolutionary computation</jconf>
+        <id>1090</id>
+        <label>7</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>gener compress tree machin</title>
+        <year>1992</year>
+        <authors>ajay k. gupta,hong wang</authors>
+        <jconf>ipps</jconf>
+        <id>1638</id>
+        <label>7</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>effici design boltzmann machin</title>
+        <year>1990</year>
+        <authors>ajay gupta,wolfgang maass</authors>
+        <jconf>nips</jconf>
+        <id>1980</id>
+        <label>7</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>multipl network embed hypercub</title>
+        <year>1993</year>
+        <authors>ajay k. gupta,susanne e. hambrusch</authors>
+        <jconf>j. parallel distrib. comput.</jconf>
+        <id>3490</id>
+        <label>7</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>parallel organ perform inform system</title>
+        <year>1994</year>
+        <authors>ajay k. gupta,dalia motzkin</authors>
+        <jconf>sac</jconf>
+        <id>2194</id>
+        <label>7</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>complet distinguish fsm equival check</title>
+        <year>2001</year>
+        <authors>aarti gupta,pranav ashar,sharad malik</authors>
+        <jconf>acm trans. design autom. electr. syst.</jconf>
+        <id>4018</id>
+        <label>8</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>formal valid methodolog simul coverag</title>
+        <year>1997</year>
+        <authors>aarti gupta,sharad malik,pranav ashar</authors>
+        <jconf>dac</jconf>
+        <id>378</id>
+        <label>8</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>flexibl parallel polygon render</title>
+        <year>1990</year>
+        <authors>aarti gupta,allan l. fisher</authors>
+        <jconf>icpp (3)</jconf>
+        <id>1312</id>
+        <label>8</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>parametr circuit represent induct boolean function</title>
+        <year>1993</year>
+        <authors>aarti gupta,allan l. fisher</authors>
+        <jconf>cav</jconf>
+        <id>177</id>
+        <label>8</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>tradeoff canon sequenti function represent</title>
+        <year>1994</year>
+        <authors>aarti gupta,allan l. fisher</authors>
+        <jconf>iccd</jconf>
+        <id>958</id>
+        <label>8</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>dynam detect remov inact claus sat applic imag comput</title>
+        <year>2001</year>
+        <authors>aarti gupta,anubhav gupta,zijiang yang,pranav ashar</authors>
+        <jconf>dac</jconf>
+        <id>376</id>
+        <label>8</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>parametr circuit represent induct boolean function</title>
+        <year>1993</year>
+        <authors>aarti gupta,allan l. fisher</authors>
+        <jconf>cav</jconf>
+        <id>177</id>
+        <label>8</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>represent symbol manipul linearli induct boolean function</title>
+        <year>1993</year>
+        <authors>aarti gupta,allan l. fisher</authors>
+        <jconf>iccad</jconf>
+        <id>927</id>
+        <label>8</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>sat base imag comput applic reachabl analysi</title>
+        <year>2000</year>
+        <authors>aarti gupta,zijiang yang,pranav ashar,anubhav gupta</authors>
+        <jconf>fmcad</jconf>
+        <id>664</id>
+        <label>8</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>tradeoff canon sequenti function represent</title>
+        <year>1994</year>
+        <authors>aarti gupta,allan l. fisher</authors>
+        <jconf>iccd</jconf>
+        <id>958</id>
+        <label>8</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>formal hardwar verif method survei</title>
+        <year>1992</year>
+        <authors>aarti gupta</authors>
+        <jconf>formal methods in system design</jconf>
+        <id>3056</id>
+        <label>8</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>properti specif wit graph gener guid simul</title>
+        <year>2001</year>
+        <authors>aarti gupta,albert e. casavant,s. liu,akira mukaiyama,kazutoshi wakabayashi,pranav ashar</authors>
+        <jconf>date</jconf>
+        <id>426</id>
+        <label>8</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>properti specif testbench gener guid simul</title>
+        <year>2002</year>
+        <authors>aarti gupta,albert e. casavant,pranav ashar,x. g. liu,akira mukaiyama,kazutoshi wakabayashi</authors>
+        <jconf>vlsi design</jconf>
+        <id>2553</id>
+        <label>8</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>verif schedul presenc loop uninterpret symbol simul</title>
+        <year>1999</year>
+        <authors>aarti gupta,pranav ashar,anand raghunathan,subhrajit bhattacharya</authors>
+        <jconf>iccd</jconf>
+        <id>945</id>
+        <label>8</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>abstract bdd complement sat base bmc diver</title>
+        <year>2003</year>
+        <authors>aarti gupta,malay k. ganai,chao wang,zijiang yang,pranav ashar</authors>
+        <jconf>cav</jconf>
+        <id>178</id>
+        <label>8</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>learn bdd sat base bound model check</title>
+        <year>2003</year>
+        <authors>aarti gupta,malay k. ganai,chao wang,zijiang yang,pranav ashar</authors>
+        <jconf>dac</jconf>
+        <id>375</id>
+        <label>8</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>combin strength circuit base cnf base algorithm high perform sat solver</title>
+        <year>2002</year>
+        <authors>aarti gupta,malay k. ganai,pranav ashar,lintao zhang,sharad malik</authors>
+        <jconf>dac</jconf>
+        <id>374</id>
+        <label>8</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>partit base decis heurist imag comput sat bdd</title>
+        <year>2001</year>
+        <authors>aarti gupta,zijiang yang,pranav ashar,lintao zhang,sharad malik</authors>
+        <jconf>iccad</jconf>
+        <id>930</id>
+        <label>8</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>formal hardwar verif method survei</title>
+        <year>1992</year>
+        <authors>aarti gupta</authors>
+        <jconf>formal methods in system design</jconf>
+        <id>3056</id>
+        <label>8</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>exploit retim guid simul base valid methodolog</title>
+        <year>1999</year>
+        <authors>aarti gupta,pranav ashar,sharad malik</authors>
+        <jconf>charme</jconf>
+        <id>192</id>
+        <label>8</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>complet distinguish fsm equival check</title>
+        <year>1996</year>
+        <authors>aarti gupta,pranav ashar,sharad malik</authors>
+        <jconf>iccad</jconf>
+        <id>909</id>
+        <label>8</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>activ schema integr architectur heterogen databas system</title>
+        <year>1993</year>
+        <authors>amar gupta,m. p. reddy,michael siegel</authors>
+        <jconf>ride-ims</jconf>
+        <id>2172</id>
+        <label>9</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>formul global integr constraint dure deriv global schema</title>
+        <year>1995</year>
+        <authors>amar gupta,m. p. reddy,bandreddi e. prasad</authors>
+        <jconf>data knowl. eng.</jconf>
+        <id>2986</id>
+        <label>9</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>methodolog integr heterogen databas</title>
+        <year>1994</year>
+        <authors>amar gupta,m. p. reddy,bandreddi e. prasad,p. g. reddy</authors>
+        <jconf>ieee trans. knowl. data eng.</jconf>
+        <id>3993</id>
+        <label>9</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>taxonomi classifi commerci approach inform integr heterogen environ</title>
+        <year>1990</year>
+        <authors>amar gupta,stuart e. madnick</authors>
+        <jconf>ieee data eng. bull.</jconf>
+        <id>2971</id>
+        <label>9</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>integr framework support distribut cad internet</title>
+        <year>2001</year>
+        <authors>amar gupta,sanjeev vadhavkar,feniosky pena-mora,jason yeung</authors>
+        <jconf>wetice</jconf>
+        <id>2611</id>
+        <label>9</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>direct web e commerc applic secur</title>
+        <year>2001</year>
+        <authors>amar gupta,bhavani m. thuraisingham,chris clifton,elisa bertino,elena ferrari</authors>
+        <jconf>wetice</jconf>
+        <id>2614</id>
+        <label>9</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>applic descript neural network base forecast techniqu inventori control applic</title>
+        <year>1998</year>
+        <authors>amar gupta,kanti bansal,sanjeev vadhavkar</authors>
+        <jconf>data min. knowl. discov.</jconf>
+        <id>2959</id>
+        <label>9</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>data mine techniqu optim inventori electron commerc</title>
+        <year>2000</year>
+        <authors>amar gupta,anjali dhond,sanjeev vadhavkar</authors>
+        <jconf>kdd</jconf>
+        <id>1852</id>
+        <label>9</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>inform explos bad data mine data fusion provid wai</title>
+        <year>2002</year>
+        <authors>amar gupta,peter van der putten,joost n. kok</authors>
+        <jconf>sdm</jconf>
+        <id>2228</id>
+        <label>9</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>configur administ system dynam address assign</title>
+        <year>2002</year>
+        <authors>amar gupta,paul huck,michael butler,michael feng</authors>
+        <jconf>acm trans. internet techn.</jconf>
+        <id>4037</id>
+        <label>9</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>detect courtesi amount block bank check</title>
+        <year>1995</year>
+        <authors>amar gupta,arun agarwal,len granowetter,karim hussein,patrick shen-pei wang</authors>
+        <jconf>icdar</jconf>
+        <id>994</id>
+        <label>9</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>integr architectur recognit total unconstrain handwritten numer</title>
+        <year>1993</year>
+        <authors>amar gupta,m. v. nagendraprasad,a. liu,patrick shen-pei wang,s. ayyadurai</authors>
+        <jconf>ijprai</jconf>
+        <id>3199</id>
+        <label>9</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>adapt modular neural network applic unconstrain charact recognit</title>
+        <year>1994</year>
+        <authors>amar gupta,lik mui,arun agarwal,patrick shen-pei wang</authors>
+        <jconf>ijprai</jconf>
+        <id>3211</id>
+        <label>9</label>
+        <organization>null</organization>
+    </publication>
+</person>

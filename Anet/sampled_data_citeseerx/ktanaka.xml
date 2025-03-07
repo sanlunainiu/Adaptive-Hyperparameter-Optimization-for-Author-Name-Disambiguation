@@ -1,0 +1,1564 @@
+<?xml version="1.0" encoding="utf-8"?>
+<person>
+    <personID>43571907</personID>
+    <FullName>kenichiro tanaka</FullName>
+    <FirstName>kenichiro</FirstName>
+    <LastName>tanaka</LastName>
+    <publication>
+        <title>ubiquit servic orient network uson approach ubiquit world base pp technolog</title>
+        <year>2002</year>
+        <authors>kenichiro tanaka,michiharu takemoto,hiroshi sunaga,hiroaki matsumura,eiji shinohara</authors>
+        <jconf>peer-to-peer computing</jconf>
+        <id>2015</id>
+        <label>10</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>multimedia commun network architectur model high speed network</title>
+        <year>1994</year>
+        <authors>kenichiro tanaka,choong seon hong,takeshi yoneda,shinkuro honda,yutaka matsushita</authors>
+        <jconf>lcn</jconf>
+        <id>1867</id>
+        <label>10</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>advanc process environ manag continu semistructur featur multimedia content</title>
+        <year>2000</year>
+        <authors>katsumi tanaka,shojiro nishio,yasuo ariki,shinji shimojo,masahiko tsukamoto,masatoshi arikawa,keishi tajima,kaname harumoto</authors>
+        <jconf>adbis-dasfaa</jconf>
+        <id>48</id>
+        <label>1</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>schema virtual object orient databas</title>
+        <year>1988</year>
+        <authors>katsumi tanaka,masatoshi yoshikawa,kozo ishihara</authors>
+        <jconf>icde</jconf>
+        <id>1079</id>
+        <label>1</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>interact classif web document organ map search engin</title>
+        <year>1999</year>
+        <authors>katsumi tanaka,kenji hatano,ryouichi sano,yiwei duan</authors>
+        <jconf>dasfaa</jconf>
+        <id>409</id>
+        <label>1</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>abstract complex databas object gener reduct unif set type object extend abstract</title>
+        <year>1988</year>
+        <authors>katsumi tanaka,masatoshi yoshikawa</authors>
+        <jconf>icdt</jconf>
+        <id>1087</id>
+        <label>1</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>mwm retriev automat present manual data mobil termin</title>
+        <year>2002</year>
+        <authors>katsumi tanaka,masaki shikata,akiyo nadamoto,kazutoshi sumiya</authors>
+        <jconf>dexa</jconf>
+        <id>508</id>
+        <label>1</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>som base inform organ text video data</title>
+        <year>1997</year>
+        <authors>katsumi tanaka,kenji hatano,qing qian</authors>
+        <jconf>dasfaa</jconf>
+        <id>408</id>
+        <label>1</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>imag retriev web context fill gap imag keyword usag keyword</title>
+        <year>2003</year>
+        <authors>katsumi tanaka,koji zettsu,yutaka kidawara</authors>
+        <jconf>dexa</jconf>
+        <id>516</id>
+        <label>1</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>webcarrousel restructur web search result passiv view mobil environ</title>
+        <year>2001</year>
+        <authors>katsumi tanaka,akiyo nadamoto,hiroyuki kondo</authors>
+        <jconf>dasfaa</jconf>
+        <id>422</id>
+        <label>1</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>queri multipl perspect video camera metaphor</title>
+        <year>2001</year>
+        <authors>katsumi tanaka,toshihiko hata,tatsuo hirose,yoshihiro nakanishi</authors>
+        <jconf>dasfaa</jconf>
+        <id>407</id>
+        <label>1</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>semant structur video data index</title>
+        <year>1998</year>
+        <authors>katsumi tanaka,koji zettsu,kuniaki uehara</authors>
+        <jconf>amcp</jconf>
+        <id>74</id>
+        <label>1</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>webcarousel automat present semant restructur web search result mobil environ</title>
+        <year>2001</year>
+        <authors>katsumi tanaka,akiyo nadamoto,hiroyuki kondo</authors>
+        <jconf>dexa</jconf>
+        <id>498</id>
+        <label>1</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>time stamp author graph video databas</title>
+        <year>1997</year>
+        <authors>katsumi tanaka,koji zettsu,kuniaki uehara,nobuo kimura</authors>
+        <jconf>dexa</jconf>
+        <id>517</id>
+        <label>1</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>associ present metadata digit archiv object virtual space synchron multimedia content</title>
+        <year>2000</year>
+        <authors>katsumi tanaka,kengo koiso,akiyo nadamoto</authors>
+        <jconf>kyoto international conference on digital libraries</jconf>
+        <id>1865</id>
+        <label>1</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>tv program gener system digest video scene script markup languag</title>
+        <year>2001</year>
+        <authors>katsumi tanaka,yukari shirota,takako hashimoto,akiyo nadamoto,taeko hattori,atsushi iizawa,kazutoshi sumiya</authors>
+        <jconf>hicss</jconf>
+        <id>797</id>
+        <label>1</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>queri pair hypertext link</title>
+        <year>1991</year>
+        <authors>katsumi tanaka,n. nishikawa,s. hirayama,k. nanba</authors>
+        <jconf>icde</jconf>
+        <id>1078</id>
+        <label>1</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>queri pair hypertext link</title>
+        <year>1991</year>
+        <authors>katsumi tanaka,n. nishikawa,s. hirayama,k. nanba</authors>
+        <jconf>icde</jconf>
+        <id>1078</id>
+        <label>1</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>historychart visual languag histor databas</title>
+        <year>1989</year>
+        <authors>katsumi tanaka,eitetsu ohmoto</authors>
+        <jconf>dasfaa</jconf>
+        <id>424</id>
+        <label>1</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>increment data organ ancient document databas</title>
+        <year>1995</year>
+        <authors>katsumi tanaka,shinichi ueshima,kazuhiro ohtsuki,jun-ya morishita,qing qian,hiroaki oiso</authors>
+        <jconf>dasfaa</jconf>
+        <id>425</id>
+        <label>1</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>encapsul multimedia content copyright protect mechan distribut object</title>
+        <year>1997</year>
+        <authors>katsumi tanaka,yutaka kidawara,kuniaki uehara</authors>
+        <jconf>dexa</jconf>
+        <id>475</id>
+        <label>1</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>file organ suitabl relat databas oper</title>
+        <year>1978</year>
+        <authors>katsumi tanaka,chung le viet,yahiko kambayashi,shuzo yajima</authors>
+        <jconf>mathematical studies of information processing</jconf>
+        <id>1967</id>
+        <label>1</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>file organ suitabl relat databas oper</title>
+        <year>1978</year>
+        <authors>katsumi tanaka,chung le viet,yahiko kambayashi,shuzo yajima</authors>
+        <jconf>mathematical studies of information processing</jconf>
+        <id>1967</id>
+        <label>1</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>similar retriev human motion multi stream time seri data</title>
+        <year>1999</year>
+        <authors>katsumi tanaka,takeshi yabe</authors>
+        <jconf>dante</jconf>
+        <id>402</id>
+        <label>1</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>queri video data spatio tempor relationship move object trace</title>
+        <year>2002</year>
+        <authors>katsumi tanaka,chikashi yajima,yoshihiro nakanishi</authors>
+        <jconf>vdb</jconf>
+        <id>2497</id>
+        <label>1</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>problem relat databas design</title>
+        <year>1978</year>
+        <authors>katsumi tanaka,yahiko kambayashi,shuzo yajima</authors>
+        <jconf>data base design techniques i</jconf>
+        <id>443</id>
+        <label>1</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>organ quasi consecut retriev file</title>
+        <year>1979</year>
+        <authors>katsumi tanaka,yahiko kambayashi,shuzo yajima</authors>
+        <jconf>inf. syst.</jconf>
+        <id>3297</id>
+        <label>1</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>model structur multipl perspect video brows</title>
+        <year>2001</year>
+        <authors>katsumi tanaka,yoshihiro nakanishi,tatsuo hirose</authors>
+        <jconf>er</jconf>
+        <id>608</id>
+        <label>1</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>skim multipl perspect video tempo spatial import measur</title>
+        <year>2000</year>
+        <authors>katsumi tanaka,toshihiko hata,tatsuo hirose</authors>
+        <jconf>vdb</jconf>
+        <id>2493</id>
+        <label>1</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>behavior analysi object orient databas method structur execut tree reachabl extend abstract</title>
+        <year>1989</year>
+        <authors>katsumi tanaka,richard hull,masatoshi yoshikawa</authors>
+        <jconf>fodo</jconf>
+        <id>684</id>
+        <label>1</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>schema virtual object orient databas</title>
+        <year>1988</year>
+        <authors>katsumi tanaka,masatoshi yoshikawa,kozo ishihara</authors>
+        <jconf>icde</jconf>
+        <id>1079</id>
+        <label>1</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>logic integr local independ relat databas distribut databas</title>
+        <year>1981</year>
+        <authors>katsumi tanaka,yahiko kambayashi</authors>
+        <jconf>vldb</jconf>
+        <id>2546</id>
+        <label>1</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>spatial view lod base access control vrml object databas</title>
+        <year>1997</year>
+        <authors>katsumi tanaka,masaki kamiura,hiroaki oiso,keishi tajima</authors>
+        <jconf>wwca</jconf>
+        <id>2656</id>
+        <label>1</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>organ quasi consecut retriev file</title>
+        <year>1979</year>
+        <authors>katsumi tanaka,yahiko kambayashi,shuzo yajima</authors>
+        <jconf>inf. syst.</jconf>
+        <id>3297</id>
+        <label>1</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>ovid design implement video object databas system</title>
+        <year>1993</year>
+        <authors>katsumi tanaka,eitetsu oomoto</authors>
+        <jconf>ieee trans. knowl. data eng.</jconf>
+        <id>3989</id>
+        <label>1</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>level schemata gener link hypertext databas model</title>
+        <year>1992</year>
+        <authors>katsumi tanaka,qing qian</authors>
+        <jconf>future databases</jconf>
+        <id>728</id>
+        <label>1</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>abstract inherit hyperlink object orient hypertext databas system textlink gem</title>
+        <year>1995</year>
+        <authors>katsumi tanaka,qing qian,masaaki tanizaki</authors>
+        <jconf>ieice transactions</jconf>
+        <id>3111</id>
+        <label>1</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>relat data languag simplifi binari relat handl capabl</title>
+        <year>1977</year>
+        <authors>katsumi tanaka,yahiko kambayashi,shuzo yajima</authors>
+        <jconf>vldb</jconf>
+        <id>2531</id>
+        <label>1</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>abstract characterist data relat databas</title>
+        <year>1979</year>
+        <authors>katsumi tanaka,chung le viet,yahiko kambayashi,shuzo yajima</authors>
+        <jconf>compsac</jconf>
+        <id>282</id>
+        <label>1</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>semant aspect data depend applic relat databas design</title>
+        <year>1979</year>
+        <authors>katsumi tanaka,yahiko kambayashi,shuzo yajima</authors>
+        <jconf>compsac</jconf>
+        <id>267</id>
+        <label>1</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>test join depend preserv modifi chase method</title>
+        <year>1981</year>
+        <authors>katsumi tanaka,yahiko kambayashi</authors>
+        <jconf>mfcs</jconf>
+        <id>1902</id>
+        <label>1</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>dynam zone retriev landmark comput spatial data</title>
+        <year>2000</year>
+        <authors>katsumi tanaka,hiroaki kawagishi,kengo koiso</authors>
+        <jconf>digital cities</jconf>
+        <id>536</id>
+        <label>1</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>infolod landmark brows retriev spatial data</title>
+        <year>1999</year>
+        <authors>katsumi tanaka,kengo koiso,takahiro matsumoto,hiroaki kawagishi</authors>
+        <jconf>codas</jconf>
+        <id>250</id>
+        <label>1</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>webscan discov notifi import chang web site</title>
+        <year>2001</year>
+        <authors>katsumi tanaka,qiang ma,shinya miyazaki</authors>
+        <jconf>dexa</jconf>
+        <id>504</id>
+        <label>1</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>infolod landmark spatial present attribut inform comput repres object spatial data</title>
+        <year>2000</year>
+        <authors>katsumi tanaka,kengo koiso,takehisa mori,hiroaki kawagishi,takahiro matsumoto</authors>
+        <jconf>int. j. cooperative inf. syst.</jconf>
+        <id>3123</id>
+        <label>1</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>ad method relat databas construct</title>
+        <year>1991</year>
+        <authors>katsumi tanaka,norio sanada</authors>
+        <jconf>compsac</jconf>
+        <id>281</id>
+        <label>1</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>dynam theori incent multi agent system</title>
+        <year>1997</year>
+        <authors>katsumi tanaka,yoav shoham</authors>
+        <jconf>ijcai (1)</jconf>
+        <id>1573</id>
+        <label>1</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>advanc applic futur research issu oodb</title>
+        <year>1991</year>
+        <authors>katsumi tanaka</authors>
+        <jconf>dasfaa</jconf>
+        <id>423</id>
+        <label>1</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>cost model copyright manag d digit content multilevel complex object</title>
+        <year>2000</year>
+        <authors>katsumi tanaka,yutaka kidawara,yuichi sugiyama</authors>
+        <jconf>systems and computers in japan</jconf>
+        <id>3735</id>
+        <label>1</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>tree structur data organ consecut retriev properti</title>
+        <year>1981</year>
+        <authors>katsumi tanaka</authors>
+        <jconf>fodo</jconf>
+        <id>685</id>
+        <label>1</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>context depend web bookmark usag queri</title>
+        <year>2002</year>
+        <authors>katsumi tanaka,shinsuke nakajima,satoshi oyama,kazutoshi sumiya</authors>
+        <jconf>wise</jconf>
+        <id>2621</id>
+        <label>1</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>tea time museum croquet brows search environ digit librari</title>
+        <year>2003</year>
+        <authors>katsumi tanaka</authors>
+        <jconf>c5</jconf>
+        <id>156</id>
+        <label>1</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>hypermedia broadcast tempor link</title>
+        <year>1998</year>
+        <authors>katsumi tanaka,kazutoshi sumiya,reiko noda</authors>
+        <jconf>dexa</jconf>
+        <id>510</id>
+        <label>1</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>tempor link mechan hypermedia broadcast</title>
+        <year>2001</year>
+        <authors>katsumi tanaka,kazutoshi sumiya,reiko noda</authors>
+        <jconf>systems and computers in japan</jconf>
+        <id>3737</id>
+        <label>1</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>cut queri unit www netnew e mail</title>
+        <year>1998</year>
+        <authors>katsumi tanaka,keishi tajima,yoshiaki mizuuchi,masatsugu kitagawa</authors>
+        <jconf>hypertext</jconf>
+        <id>849</id>
+        <label>1</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>altern object object orient databas</title>
+        <year>1989</year>
+        <authors>katsumi tanaka,tae-soo chang</authors>
+        <jconf>dasfaa</jconf>
+        <id>405</id>
+        <label>1</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>algebra retriev fragmentarili index video</title>
+        <year>2000</year>
+        <authors>katsumi tanaka,keishi tajima,takashi sogo,sujeet pradhan</authors>
+        <jconf>new generation comput.</jconf>
+        <id>3623</id>
+        <label>1</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>natur join object orient databas</title>
+        <year>1989</year>
+        <authors>katsumi tanaka,tae-soo chang</authors>
+        <jconf>dood</jconf>
+        <id>553</id>
+        <label>1</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>scoopcast dynam video product deliveri index live video stream</title>
+        <year>1999</year>
+        <authors>katsumi tanaka,kazutoshi sumiya,tomoaki kawaguchi,akihiro doi,kuniaki uehara</authors>
+        <jconf>icsc</jconf>
+        <id>1483</id>
+        <label>1</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>queri model retriev relev interv video stream</title>
+        <year>1999</year>
+        <authors>katsumi tanaka,sujeet pradhan,keishi tajima</authors>
+        <jconf>icmcs, vol. 2</jconf>
+        <id>1212</id>
+        <label>1</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>navig depend web view defin control semant unit web page</title>
+        <year>1999</year>
+        <authors>katsumi tanaka,hidenari kiyomitsu</authors>
+        <jconf>icsc</jconf>
+        <id>1480</id>
+        <label>1</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>uncertainti manag object orient databas system</title>
+        <year>1991</year>
+        <authors>katsumi tanaka,susumu kobayashi,tomomi sakanoue</authors>
+        <jconf>dexa</jconf>
+        <id>512</id>
+        <label>1</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>dynam gener virtual space increment queri formul spatial brows</title>
+        <year>1998</year>
+        <authors>katsumi tanaka,kengo koiso,kenji kawakatsu,takehisa mori</authors>
+        <jconf>dexa workshop</jconf>
+        <id>524</id>
+        <label>1</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>spatial present aggreg georeferenc data</title>
+        <year>1999</year>
+        <authors>katsumi tanaka,kengo koiso,takahiro matsumoto</authors>
+        <jconf>dasfaa</jconf>
+        <id>413</id>
+        <label>1</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>discoveri semant relationship web page base web topic structur</title>
+        <year>2001</year>
+        <authors>katsumi tanaka,takeshi matsukura,hiroyuki kondo,yoichi hirata</authors>
+        <jconf>ds-9</jconf>
+        <id>558</id>
+        <label>1</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>local filter search web page</title>
+        <year>2003</year>
+        <authors>katsumi tanaka,qiang ma,chiyako matsumoto</authors>
+        <jconf>apweb</jconf>
+        <id>91</id>
+        <label>1</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>web inform retriev base local degre</title>
+        <year>2002</year>
+        <authors>katsumi tanaka,chiyako matsumoto,qiang ma</authors>
+        <jconf>dexa</jconf>
+        <id>497</id>
+        <label>1</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>queri model synthes answer interv index video unit</title>
+        <year>2001</year>
+        <authors>katsumi tanaka,sujeet pradhan,keishi tajima</authors>
+        <jconf>ieee trans. knowl. data eng.</jconf>
+        <id>3990</id>
+        <label>1</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>back tv inform visual interfac base tv program metaphor</title>
+        <year>2000</year>
+        <authors>katsumi tanaka,akiyo nadamoto,machiko kusahara,taeko hattori,hiroyuki kondo,kazutoshi sumiya</authors>
+        <jconf>ieee international conference on multimedia and expo (iii)</jconf>
+        <id>1219</id>
+        <label>1</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>algebra approach retriev meaning video interv fragmentarili index video shot</title>
+        <year>2000</year>
+        <authors>katsumi tanaka,sujeet pradhan,takashi sogo,keishi tajima</authors>
+        <jconf>vdb</jconf>
+        <id>2495</id>
+        <label>1</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>compar web browser cwb brows compar web page</title>
+        <year>2003</year>
+        <authors>katsumi tanaka,akiyo nadamoto</authors>
+        <jconf>www</jconf>
+        <id>2660</id>
+        <label>1</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>techniqu discoveri logic document web</title>
+        <year>1999</year>
+        <authors>katsumi tanaka,keishi tajima</authors>
+        <jconf>dante</jconf>
+        <id>401</id>
+        <label>1</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>util prototyp object powerdomain support public author video databas</title>
+        <year>1996</year>
+        <authors>katsumi tanaka,sujeet pradhan,keishi tajima</authors>
+        <jconf>codas</jconf>
+        <id>253</id>
+        <label>1</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>web reconfigur spatio tempor page person rule base access</title>
+        <year>2001</year>
+        <authors>katsumi tanaka,hidenari kiyomitsu,atsunori takeuchi</authors>
+        <jconf>saint</jconf>
+        <id>2198</id>
+        <label>1</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>comput tupl sequenc object histori</title>
+        <year>1986</year>
+        <authors>katsumi tanaka,seymour ginsburg</authors>
+        <jconf>acm trans. database syst.</jconf>
+        <id>4024</id>
+        <label>1</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>comput tupl sequenc object histori extend abstract</title>
+        <year>1985</year>
+        <authors>katsumi tanaka,seymour ginsburg</authors>
+        <jconf>fodo</jconf>
+        <id>683</id>
+        <label>1</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>interv queri object histori</title>
+        <year>1995</year>
+        <authors>katsumi tanaka,seymour ginsburg</authors>
+        <jconf>theor. comput. sci.</jconf>
+        <id>3932</id>
+        <label>1</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>relat data languag simplifi binari relat handl capabl</title>
+        <year>1977</year>
+        <authors>katsumi tanaka,yahiko kambayashi,shuzo yajima</authors>
+        <jconf>vldb</jconf>
+        <id>2531</id>
+        <label>1</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>interv queri object histori extend abstract</title>
+        <year>1984</year>
+        <authors>katsumi tanaka,seymour ginsburg</authors>
+        <jconf>vldb</jconf>
+        <id>2527</id>
+        <label>1</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>access control author cg data multipl detail level</title>
+        <year>2000</year>
+        <authors>katsumi tanaka,keishi tajima,kazuya yoda</authors>
+        <jconf>systems and computers in japan</jconf>
+        <id>3738</id>
+        <label>1</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>special issu web inform system engin confer wise</title>
+        <year>2001</year>
+        <authors>katsumi tanaka,m. tamer ozsu,hans-jorg schek,yanchun zhang</authors>
+        <jconf>world wide web</jconf>
+        <id>4155</id>
+        <label>1</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>behavior analysi object orient databas method structur execut tree reachabl extend abstract</title>
+        <year>1989</year>
+        <authors>katsumi tanaka,richard hull,masatoshi yoshikawa</authors>
+        <jconf>fodo</jconf>
+        <id>684</id>
+        <label>1</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>gener databas manag system technolog panel</title>
+        <year>1989</year>
+        <authors>katsumi tanaka,michael l. brodie,francois bancilhon,craig harris,michael kifer,yoshifumi masunaga,earl d. saberdoti</authors>
+        <jconf>dood</jconf>
+        <id>551</id>
+        <label>1</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>qualiti base synchron method multimedia object</title>
+        <year>2002</year>
+        <authors>katsuya tanaka,naokazu nemoto,makoto takizawa</authors>
+        <jconf>inf. sci.</jconf>
+        <id>3316</id>
+        <label>2</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>inform flow control object role base access control model</title>
+        <year>2001</year>
+        <authors>katsuya tanaka,keiji izaki,makoto takizawa</authors>
+        <jconf>dexa</jconf>
+        <id>472</id>
+        <label>2</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>object base order deliveri messag object base system</title>
+        <year>1999</year>
+        <authors>katsuya tanaka,hiroaki higaki,makoto takizawa</authors>
+        <jconf>dexa</jconf>
+        <id>515</id>
+        <label>2</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>protocol object base checkpoint</title>
+        <year>2000</year>
+        <authors>katsuya tanaka,makoto takizawa</authors>
+        <jconf>dexa</jconf>
+        <id>513</id>
+        <label>2</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>quorum base lock protocol nest invoc method</title>
+        <year>2001</year>
+        <authors>katsuya tanaka,makoto takizawa</authors>
+        <jconf>dexa</jconf>
+        <id>514</id>
+        <label>2</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>qualiti base synchron method multimedia object</title>
+        <year>2000</year>
+        <authors>katsuya tanaka,naokazu nemoto,makoto takizawa</authors>
+        <jconf>dexa</jconf>
+        <id>500</id>
+        <label>2</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>signific checkpoint distribut system</title>
+        <year>1996</year>
+        <authors>katsuya tanaka,hiroaki higaki,makoto takizawa</authors>
+        <jconf>dexa</jconf>
+        <id>511</id>
+        <label>2</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>remot rapid manufactur action media advanc user interfac</title>
+        <year>1999</year>
+        <authors>katsuya tanaka,mamoru mitsuishi,yasuyoshi yokokohji,takaaki nagao</authors>
+        <jconf>icra</jconf>
+        <id>1448</id>
+        <label>2</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>access control model object orient system</title>
+        <year>2000</year>
+        <authors>katsuya tanaka,keiji izaki,makoto takizawa</authors>
+        <jconf>dbsec</jconf>
+        <id>447</id>
+        <label>2</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>quorum base replic object</title>
+        <year>2000</year>
+        <authors>katsuya tanaka,makoto takizawa</authors>
+        <jconf>dexa workshop</jconf>
+        <id>531</id>
+        <label>2</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>protocol pseudo activ replic wide area network</title>
+        <year>1999</year>
+        <authors>katsuya tanaka,hiroaki higaki,makoto takizawa</authors>
+        <jconf>dexa workshop</jconf>
+        <id>523</id>
+        <label>2</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>qo base method compens multimedia object</title>
+        <year>2001</year>
+        <authors>katsuya tanaka,motokazu yokoyama,makoto takizawa</authors>
+        <jconf>dexa workshop</jconf>
+        <id>532</id>
+        <label>2</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>author model base object orient concept</title>
+        <year>2001</year>
+        <authors>katsuya tanaka,keiji izaki,makoto takizawa</authors>
+        <jconf>icoin</jconf>
+        <id>1235</id>
+        <label>2</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>replica manag object base system</title>
+        <year>2001</year>
+        <authors>katsuya tanaka,makoto takizawa</authors>
+        <jconf>icoin</jconf>
+        <id>1250</id>
+        <label>2</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>group protocol deliv request replica</title>
+        <year>2002</year>
+        <authors>katsuya tanaka,keijirou arai,makoto takizawa</authors>
+        <jconf>icoin (2)</jconf>
+        <id>1231</id>
+        <label>2</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>object causal order group protocol distribut multimedia system</title>
+        <year>2001</year>
+        <authors>katsuya tanaka,kenichi shimamura,makoto takizawa</authors>
+        <jconf>icoin</jconf>
+        <id>1249</id>
+        <label>2</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>causal messag object base system</title>
+        <year>2001</year>
+        <authors>katsuya tanaka,youhei timura,makoto takizawa</authors>
+        <jconf>icoin</jconf>
+        <id>1251</id>
+        <label>2</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>protocol pseudo activ replic wide area network</title>
+        <year>1999</year>
+        <authors>katsuya tanaka,hiroaki higaki,makoto takizawa</authors>
+        <jconf>icpp workshops</jconf>
+        <id>1355</id>
+        <label>2</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>checkpoint distribut object base system</title>
+        <year>1999</year>
+        <authors>katsuya tanaka,hiroaki higaki,makoto takizawa</authors>
+        <jconf>icpp workshops</jconf>
+        <id>1360</id>
+        <label>2</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>quorum base protocol group commun</title>
+        <year>1999</year>
+        <authors>katsuya tanaka,hiroaki higaki,makoto takizawa</authors>
+        <jconf>icpp workshops</jconf>
+        <id>1359</id>
+        <label>2</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>qualiti base lock mode multimedia object</title>
+        <year>1999</year>
+        <authors>katsuya tanaka,michiaki katsumoto,hiroaki higaki,makoto takizawa</authors>
+        <jconf>icpp workshops</jconf>
+        <id>1356</id>
+        <label>2</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>quorum base lock protocol replica object base system</title>
+        <year>2001</year>
+        <authors>katsuya tanaka,makoto takizawa</authors>
+        <jconf>isads</jconf>
+        <id>1674</id>
+        <label>2</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>asynchron checkpoint protocol object base system</title>
+        <year>2000</year>
+        <authors>katsuya tanaka,makoto takizawa</authors>
+        <jconf>isorc</jconf>
+        <id>1759</id>
+        <label>2</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>group protocol object base system</title>
+        <year>2001</year>
+        <authors>katsuya tanaka,youhei timura,makoto takizawa</authors>
+        <jconf>isorc</jconf>
+        <id>1760</id>
+        <label>2</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>pseudo activ replic protocol reliabl replica group</title>
+        <year>2000</year>
+        <authors>katsuya tanaka,naokazu nemoto,hiroaki higaki,makoto takizawa</authors>
+        <jconf>icdcs workshop on group communications and computations</jconf>
+        <id>1046</id>
+        <label>2</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>group protocol exchang multimedia object group</title>
+        <year>2000</year>
+        <authors>katsuya tanaka,kenichi shimamura,makoto takizawa</authors>
+        <jconf>icdcs workshop on group communications and computations</jconf>
+        <id>1048</id>
+        <label>2</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>group commun protocol object base system</title>
+        <year>2000</year>
+        <authors>katsuya tanaka,youhei timura,makoto takizawa</authors>
+        <jconf>icdcs workshop on group communications and computations</jconf>
+        <id>1049</id>
+        <label>2</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>inform flow control role base model distribut object</title>
+        <year>2001</year>
+        <authors>katsuya tanaka,keiji izaki,makoto takizawa</authors>
+        <jconf>icpads</jconf>
+        <id>1262</id>
+        <label>2</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>checkpoint protocol object base system</title>
+        <year>2000</year>
+        <authors>katsuya tanaka,makoto takizawa</authors>
+        <jconf>icpads</jconf>
+        <id>1282</id>
+        <label>2</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>optim nest invoc replica object base system</title>
+        <year>2001</year>
+        <authors>katsuya tanaka,makoto takizawa</authors>
+        <jconf>icpads</jconf>
+        <id>1283</id>
+        <label>2</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>distribut checkpoint base influenti messag</title>
+        <year>1996</year>
+        <authors>katsuya tanaka,makoto takizawa</authors>
+        <jconf>icpads</jconf>
+        <id>1284</id>
+        <label>2</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>group protocol quorum base replic</title>
+        <year>2000</year>
+        <authors>katsuya tanaka,keijirou arai,makoto takizawa</authors>
+        <jconf>icpads</jconf>
+        <id>1254</id>
+        <label>2</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>qo base method compens multimedia object</title>
+        <year>2001</year>
+        <authors>katsuya tanaka,motokazu yokoyama,makoto takizawa</authors>
+        <jconf>icpads</jconf>
+        <id>1293</id>
+        <label>2</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>causal preced relat messag object base system</title>
+        <year>2001</year>
+        <authors>katsuya tanaka,youhei timura,makoto takizawa</authors>
+        <jconf>icpads</jconf>
+        <id>1285</id>
+        <label>2</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>reliabl nest invoc method distribut object base system</title>
+        <year>2001</year>
+        <authors>katsuya tanaka,makoto takizawa</authors>
+        <jconf>doa</jconf>
+        <id>548</id>
+        <label>2</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>pseudo activ replic distribut object wide area network</title>
+        <year>1999</year>
+        <authors>katsuya tanaka,hiroaki higaki,makoto takizawa</authors>
+        <jconf>doa</jconf>
+        <id>546</id>
+        <label>2</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>quorum base lock protocol replic object</title>
+        <year>1999</year>
+        <authors>katsuya tanaka,hiroaki higaki,makoto takizawa</authors>
+        <jconf>doa</jconf>
+        <id>547</id>
+        <label>2</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>implement fuzzi set theoret data structur system abstract</title>
+        <year>1977</year>
+        <authors>kokichi tanaka,masaharu mizumoto,motohide umano</authors>
+        <jconf>vldb</jconf>
+        <id>2540</id>
+        <label>3</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>fuzzi automata</title>
+        <year>1969</year>
+        <authors>kokichi tanaka,masaharu mizumoto,jun'ichi toyoda</authors>
+        <jconf>j. comput. syst. sci.</jconf>
+        <id>3426</id>
+        <label>3</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>interact languag</title>
+        <year>1976</year>
+        <authors>kokichi tanaka,yoshinori ezawa,masaharu mizumoto,jun'ichi toyoda</authors>
+        <jconf>j. comput. syst. sci.</jconf>
+        <id>3417</id>
+        <label>3</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>properti fuzzi set type</title>
+        <year>1976</year>
+        <authors>kokichi tanaka,masaharu mizumoto</authors>
+        <jconf>information and control</jconf>
+        <id>3083</id>
+        <label>3</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>fuzzi set oper</title>
+        <year>1981</year>
+        <authors>kokichi tanaka,masaharu mizumoto</authors>
+        <jconf>information and control</jconf>
+        <id>3084</id>
+        <label>3</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>relat data graph properti</title>
+        <year>1977</year>
+        <authors>kokichi tanaka,t. tsuji,jun'ichi toyoda</authors>
+        <jconf>j. comput. syst. sci.</jconf>
+        <id>3428</id>
+        <label>3</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>variou kind automata weight</title>
+        <year>1975</year>
+        <authors>kokichi tanaka,masaharu mizumoto,jun'ichi toyoda</authors>
+        <jconf>j. comput. syst. sci.</jconf>
+        <id>3427</id>
+        <label>3</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>loopi belief propag probabilist imag process</title>
+        <year>2003</year>
+        <authors>kazuyuki tanaka,j. inoue,d. m. titterington</authors>
+        <jconf>nnsp</jconf>
+        <id>1994</id>
+        <label>4</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>cluster ztp recoveri imag</title>
+        <year>1997</year>
+        <authors>kazu. tanaka,tadashi morita</authors>
+        <jconf>pattern recognition letters</jconf>
+        <id>3717</id>
+        <label>4</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>statist mechan algorithm mrf model base variat principl</title>
+        <year>1996</year>
+        <authors>kazuyuki tanaka,mikako ichioka</authors>
+        <jconf>icpr</jconf>
+        <id>1390</id>
+        <label>4</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>fix point theori weak order arithmet</title>
+        <year>1990</year>
+        <authors>kazuyuki tanaka,naoki shioji</authors>
+        <jconf>ann. pure appl. logic</jconf>
+        <id>2731</id>
+        <label>4</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>coupl markov random field model phase line field region field</title>
+        <year>2003</year>
+        <authors>kazuyuki tanaka,daiki furusato,tsuyoshi horiguchi</authors>
+        <jconf>systems and computers in japan</jconf>
+        <id>3740</id>
+        <label>4</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>automat hyperparamet estim probabilist imag restor algorithm base gibb microcanon distribut</title>
+        <year>2005</year>
+        <authors>kazuyuki tanaka</authors>
+        <jconf>systems and computers in japan</jconf>
+        <id>3739</id>
+        <label>4</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>weak axiom determinaci subsystem analysi ii sigma game</title>
+        <year>1991</year>
+        <authors>kazuyuki tanaka</authors>
+        <jconf>ann. pure appl. logic</jconf>
+        <id>2732</id>
+        <label>4</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>embed theorem wkl standard method</title>
+        <year>1997</year>
+        <authors>kazuyuki tanaka</authors>
+        <jconf>ann. pure appl. logic</jconf>
+        <id>2733</id>
+        <label>4</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>negat limit circuit complex symmetr function</title>
+        <year>1996</year>
+        <authors>keisuke tanaka,tetsuro nishino,robert beals</authors>
+        <jconf>inf. process. lett.</jconf>
+        <id>3277</id>
+        <label>5</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>complex negat limit boolean network</title>
+        <year>1994</year>
+        <authors>keisuke tanaka,tetsuro nishino</authors>
+        <jconf>stoc</jconf>
+        <id>2448</id>
+        <label>5</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>negat limit circuit complex cliqu function</title>
+        <year>1995</year>
+        <authors>keisuke tanaka,tetsuro nishino</authors>
+        <jconf>ieice transactions</jconf>
+        <id>3110</id>
+        <label>5</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>quantum public kei cryptosystem</title>
+        <year>2000</year>
+        <authors>keisuke tanaka,tatsuaki okamoto,shigenori uchiyama</authors>
+        <jconf>crypto</jconf>
+        <id>309</id>
+        <label>5</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>quantum public kei cryptosystem</title>
+        <year>2000</year>
+        <authors>keisuke tanaka,tatsuaki okamoto,shigenori uchiyama</authors>
+        <jconf>crypto</jconf>
+        <id>309</id>
+        <label>5</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>exponenti gap remov negat gate</title>
+        <year>2002</year>
+        <authors>keisuke tanaka,shao chin sung</authors>
+        <jconf>inf. process. lett.</jconf>
+        <id>3276</id>
+        <label>5</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>limit negat bound depth circuit extens markov s theorem</title>
+        <year>2003</year>
+        <authors>keisuke tanaka,shao chin sung</authors>
+        <jconf>isaac</jconf>
+        <id>1671</id>
+        <label>5</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>exponenti gap remov negat gate</title>
+        <year>2002</year>
+        <authors>keisuke tanaka,shao chin sung</authors>
+        <jconf>inf. process. lett.</jconf>
+        <id>3276</id>
+        <label>5</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>quantum public kei cryptosystem</title>
+        <year>2000</year>
+        <authors>keisuke tanaka,tatsuaki okamoto,shigenori uchiyama</authors>
+        <jconf>crypto</jconf>
+        <id>309</id>
+        <label>5</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>quantum bit commit small storag base quantum wai permut</title>
+        <year>2003</year>
+        <authors>keisuke tanaka</authors>
+        <jconf>new generation comput.</jconf>
+        <id>3622</id>
+        <label>5</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>complex negat limit circuit</title>
+        <year>1995</year>
+        <authors>keisuke tanaka,robert beals,tetsuro nishino</authors>
+        <jconf>stoc</jconf>
+        <id>2430</id>
+        <label>5</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>negat limit circuit complex symmetr function</title>
+        <year>1996</year>
+        <authors>keisuke tanaka,tetsuro nishino,robert beals</authors>
+        <jconf>inf. process. lett.</jconf>
+        <id>3277</id>
+        <label>5</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>complex negat limit boolean network</title>
+        <year>1998</year>
+        <authors>keisuke tanaka,robert beals,tetsuro nishino</authors>
+        <jconf>siam j. comput.</jconf>
+        <id>3744</id>
+        <label>5</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>approxim special case common subtre edit distanc</title>
+        <year>1996</year>
+        <authors>keisuke tanaka,magnus m. halldorsson</authors>
+        <jconf>isaac</jconf>
+        <id>1664</id>
+        <label>5</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>rsa famili trap door permut common domain applic</title>
+        <year>2004</year>
+        <authors>keisuke tanaka,ryotaro hayashi,tatsuaki okamoto</authors>
+        <jconf>public key cryptography</jconf>
+        <id>2086</id>
+        <label>5</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>approxim special case common subtre edit distanc</title>
+        <year>1996</year>
+        <authors>keisuke tanaka,magnus m. halldorsson</authors>
+        <jconf>isaac</jconf>
+        <id>1664</id>
+        <label>5</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>genet algorithm nk landscap effect select drift mutat recombin</title>
+        <year>2003</year>
+        <authors>kiyoshi tanaka,hernan e. aguirre</authors>
+        <jconf>evoworkshops</jconf>
+        <id>647</id>
+        <label>6</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>halfton imag gener improv multiobject genet algorithm</title>
+        <year>2001</year>
+        <authors>kiyoshi tanaka,hernan e. aguirre,tatsuo sugimura,shinjiro oshita</authors>
+        <jconf>emo</jconf>
+        <id>598</id>
+        <label>6</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>parallel vari mutat determinist adapt ga</title>
+        <year>2002</year>
+        <authors>kiyoshi tanaka,hernan e. aguirre</authors>
+        <jconf>ppsn</jconf>
+        <id>2142</id>
+        <label>6</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>cooper crossov mutat oper genet algorithm</title>
+        <year>1999</year>
+        <authors>kiyoshi tanaka,hernan e. aguirre,tatsuo sugimura</authors>
+        <jconf>gecco</jconf>
+        <id>738</id>
+        <label>6</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>genet algorithm nk landscap effect select drift mutat recombin</title>
+        <year>2003</year>
+        <authors>kiyoshi tanaka,hernan e. aguirre</authors>
+        <jconf>evoworkshops</jconf>
+        <id>647</id>
+        <label>6</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>halfton imag gener improv multiobject genet algorithm</title>
+        <year>2001</year>
+        <authors>kiyoshi tanaka,hernan e. aguirre,tatsuo sugimura,shinjiro oshita</authors>
+        <jconf>emo</jconf>
+        <id>598</id>
+        <label>6</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>parallel vari mutat determinist adapt ga</title>
+        <year>2002</year>
+        <authors>kiyoshi tanaka,hernan e. aguirre</authors>
+        <jconf>ppsn</jconf>
+        <id>2142</id>
+        <label>6</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>web page color modif barrier free color vision genet algorithm</title>
+        <year>2003</year>
+        <authors>kiyoshi tanaka,manabu ichikawa,shoji kondo,koji hiroshima,kazuo ichikawa,shoko tanabe,kiichiro fukami</authors>
+        <jconf>gecco</jconf>
+        <id>743</id>
+        <label>6</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>improv imag halfton techniqu ga concurr inter block evalu</title>
+        <year>2003</year>
+        <authors>kiyoshi tanaka,emi myodo,hernan e. aguirre</authors>
+        <jconf>gecco</jconf>
+        <id>748</id>
+        <label>6</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>understand mechan assembl instruct manual integr vision languag process simul</title>
+        <year>1999</year>
+        <authors>kazuaki tanaka,norihiro abe,hirokazu taki</authors>
+        <jconf>icra</jconf>
+        <id>1463</id>
+        <label>7</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>surfac model gener relic slice imag approach automat restor</title>
+        <year>2001</year>
+        <authors>kazuaki tanaka,yasuhiro watanabe,norihiro abe,hirokazu taki,yoshimasu kinoshita,akira yokota</authors>
+        <jconf>ichim (1)</jconf>
+        <id>1106</id>
+        <label>7</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>system understand mechan assembl instruct manual virtual space</title>
+        <year>1999</year>
+        <authors>kazuaki tanaka,norihiro abe,hirokazu taki</authors>
+        <jconf>ismis</jconf>
+        <id>1748</id>
+        <label>7</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>measur fragment mri relic restor virtual realiti technolog</title>
+        <year>2000</year>
+        <authors>kazuaki tanaka,yasuhiro watanabe,norihiro abe,hirokazu taki,yoshimasu kinoshita,akira yokota</authors>
+        <jconf>systems and computers in japan</jconf>
+        <id>3741</id>
+        <label>7</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>multipl visual featur identif integr d recoveri rotat object</title>
+        <year>1998</year>
+        <authors>kazuaki tanaka,tetsuo ohtsuka,jiang yu zheng,norihiro abe</authors>
+        <jconf>systems and computers in japan</jconf>
+        <id>3736</id>
+        <label>7</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>dynam parallel distribut compens takagi sugeno fuzzi system lmi approach</title>
+        <year>2000</year>
+        <authors>kazuo tanaka,jing li,hua o. wang,david niemann</authors>
+        <jconf>inf. sci.</jconf>
+        <id>3315</id>
+        <label>8</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>conveni notat system organ structur basi connect stack</title>
+        <year>1984</year>
+        <authors>kazuo tanaka,hidetsugu abe,yoshihiro kudo,tohru yamasaki,masahiro sasaki,shin-ichi sasaki</authors>
+        <jconf>journal of chemical information and computer sciences</jconf>
+        <id>3389</id>
+        <label>8</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>memori base learner model applic game coach</title>
+        <year>1988</year>
+        <authors>kazuo tanaka,kazunari kubota</authors>
+        <jconf>ecai</jconf>
+        <id>564</id>
+        <label>8</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>advanc fuzzi control trailer type mobil robot stabil analysi model base fuzzi control</title>
+        <year>1994</year>
+        <authors>kazuo tanaka</authors>
+        <jconf>ictai</jconf>
+        <id>1508</id>
+        <label>8</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>dual design problem multipl lyapunov function</title>
+        <year>2001</year>
+        <authors>kazuo tanaka,tsuyoshi hori,hua o. wang</authors>
+        <jconf>fuzz-ieee</jconf>
+        <id>733</id>
+        <label>8</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>provid visual rich resiz imag user interfac compon</title>
+        <year>2000</year>
+        <authors>kenichiro tanaka,scott e. hudson</authors>
+        <jconf>uist</jconf>
+        <id>2478</id>
+        <label>9</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>link messag real paper paper pda</title>
+        <year>1999</year>
+        <authors>kenichiro tanaka,jeremy m. heiner,scott e. hudson</authors>
+        <jconf>acm symposium on user interface software and technology</jconf>
+        <id>2477</id>
+        <label>9</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>inform percol ambient inform displai decor object</title>
+        <year>1999</year>
+        <authors>kenichiro tanaka,jeremy m. heiner,scott e. hudson</authors>
+        <jconf>acm symposium on user interface software and technology</jconf>
+        <id>2476</id>
+        <label>9</label>
+        <organization>null</organization>
+    </publication>
+</person>

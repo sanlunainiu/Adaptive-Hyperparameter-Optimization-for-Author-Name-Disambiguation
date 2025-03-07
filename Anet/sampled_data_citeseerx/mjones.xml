@@ -1,0 +1,1501 @@
+<?xml version="1.0" encoding="utf-8"?>
+<person>
+    <personID>28165296</personID>
+    <FullName>matthew c. jones</FullName>
+    <FirstName>matthew</FirstName>
+    <LastName>jones</LastName>
+    <publication>
+        <title>multiview project object orient view technolog applic</title>
+        <year>1996</year>
+        <authors>matthew c. jones,elke a. rundensteiner,harumi a. kuno,young-gook ra,viviane crestana-taube,pedro jose marron</authors>
+        <jconf>sigmod conference</jconf>
+        <id>2298</id>
+        <label>10</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>symbol intersect detect method improv spatial intersect join</title>
+        <year>1998</year>
+        <authors>matthew c. jones,yun-wu huang,elke a. rundensteiner</authors>
+        <jconf>geoinformatica</jconf>
+        <id>3073</id>
+        <label>10</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>improv spatial intersect join symbol intersect detect</title>
+        <year>1997</year>
+        <authors>matthew c. jones,yun-wu huang,elke a. rundensteiner</authors>
+        <jconf>ssd</jconf>
+        <id>2402</id>
+        <label>10</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>view materi techniqu complex hierarch object</title>
+        <year>1997</year>
+        <authors>matthew c. jones,elke a. rundensteiner</authors>
+        <jconf>cikm</jconf>
+        <id>222</id>
+        <label>10</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>schema independ xml databas system</title>
+        <year>2001</year>
+        <authors>matthew b. jones,chad berkley,jivka bojilova,daniel higgins metacat</authors>
+        <jconf>ssdbm</jconf>
+        <id>2404</id>
+        <label>11</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>manag heterogen ecolog data morpho</title>
+        <year>2002</year>
+        <authors>matthew b. jones,daniel higgins metacat,chad berkley</authors>
+        <jconf>ssdbm</jconf>
+        <id>2419</id>
+        <label>11</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>manag scientif metadata</title>
+        <year>2001</year>
+        <authors>matthew b. jones,chad berkley,jivka bojilova,mark schildhauer</authors>
+        <jconf>ieee internet computing</jconf>
+        <id>3233</id>
+        <label>11</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>base structur motion linear class d model</title>
+        <year>2002</year>
+        <authors>michael jones,sing bing kang</authors>
+        <jconf>international journal of computer vision</jconf>
+        <id>3134</id>
+        <label>12</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>mont carlo algorithm fast project cluster</title>
+        <year>2002</year>
+        <authors>michael jones,cecilia magdalena procopiuc,pankaj k. agarwal,t. m. murali</authors>
+        <jconf>sigmod conference</jconf>
+        <id>2295</id>
+        <label>12</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>verifi transact order properti unbound bu network combin deduct algorithm method</title>
+        <year>2000</year>
+        <authors>michael d. jones,ganesh gopalakrishnan</authors>
+        <jconf>fmcad</jconf>
+        <id>665</id>
+        <label>13</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>verifi transact order properti unbound bu network combin deduct algorithm method</title>
+        <year>2000</year>
+        <authors>michael d. jones,ganesh gopalakrishnan</authors>
+        <jconf>fmcad</jconf>
+        <id>665</id>
+        <label>13</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>increment proof produc consum properti pci protocol</title>
+        <year>2002</year>
+        <authors>michael d. jones,dominique cansell,ganesh gopalakrishnan,dominique mery,airy weinzoepflen</authors>
+        <jconf>zb</jconf>
+        <id>2663</id>
+        <label>13</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>simplifi improv qualifi type</title>
+        <year>1995</year>
+        <authors>mark p. jones</authors>
+        <jconf>fpca</jconf>
+        <id>693</id>
+        <label>1</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>reactiv object</title>
+        <year>2002</year>
+        <authors>mark p. jones,johan nordlander,magnus carlsson,richard b. kieburtz,andrew p. black</authors>
+        <jconf>symposium on object-oriented real-time distributed computing</jconf>
+        <id>1758</id>
+        <label>1</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>parameter signatur express modular structur</title>
+        <year>1996</year>
+        <authors>mark p. jones</authors>
+        <jconf>popl</jconf>
+        <id>2110</id>
+        <label>1</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>type pars natur languag</title>
+        <year>1995</year>
+        <authors>mark p. jones,paul hudak,sebastian shaumyan</authors>
+        <jconf>functional programming</jconf>
+        <id>691</id>
+        <label>1</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>monad transform modular interpret</title>
+        <year>1995</year>
+        <authors>mark p. jones,sheng liang,paul hudak</authors>
+        <jconf>popl</jconf>
+        <id>2114</id>
+        <label>1</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>system constructor class overload implicit higher order polymorph</title>
+        <year>1993</year>
+        <authors>mark p. jones</authors>
+        <jconf>fpca</jconf>
+        <id>692</id>
+        <label>1</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>type pars natur languag</title>
+        <year>1995</year>
+        <authors>mark p. jones,paul hudak,sebastian shaumyan</authors>
+        <jconf>functional programming</jconf>
+        <id>691</id>
+        <label>1</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>theori qualifi type</title>
+        <year>1992</year>
+        <authors>mark p. jones</authors>
+        <jconf>esop</jconf>
+        <id>622</id>
+        <label>1</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>type class function depend</title>
+        <year>2000</year>
+        <authors>mark p. jones</authors>
+        <jconf>esop</jconf>
+        <id>621</id>
+        <label>1</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>comput lattic applic type class</title>
+        <year>1992</year>
+        <authors>mark p. jones</authors>
+        <jconf>j. funct. program.</jconf>
+        <id>3439</id>
+        <label>1</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>dictionari free overload partial evalu</title>
+        <year>1995</year>
+        <authors>mark p. jones</authors>
+        <jconf>lisp and symbolic computation</jconf>
+        <id>3555</id>
+        <label>1</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>dictionari free overload partial evalu</title>
+        <year>1994</year>
+        <authors>mark p. jones</authors>
+        <jconf>pepm</jconf>
+        <id>2072</id>
+        <label>1</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>function program overload higher order polymorph</title>
+        <year>1995</year>
+        <authors>mark p. jones</authors>
+        <jconf>advanced functional programming</jconf>
+        <id>57</id>
+        <label>1</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>class polymorph type infer</title>
+        <year>1997</year>
+        <authors>mark p. jones</authors>
+        <jconf>popl</jconf>
+        <id>2111</id>
+        <label>1</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>ml type explicit polymorph qualifi type</title>
+        <year>1994</year>
+        <authors>mark p. jones</authors>
+        <jconf>tacs</jconf>
+        <id>2456</id>
+        <label>1</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>integr program properti valid</title>
+        <year>2000</year>
+        <authors>mark p. jones</authors>
+        <jconf>mpc</jconf>
+        <id>1964</id>
+        <label>1</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>program constructor class abstract</title>
+        <year>1995</year>
+        <authors>mark p. jones</authors>
+        <jconf>plilp</jconf>
+        <id>2093</id>
+        <label>1</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>program constructor class preliminari summari</title>
+        <year>1992</year>
+        <authors>mark p. jones</authors>
+        <jconf>functional programming</jconf>
+        <id>690</id>
+        <label>1</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>comput lattic applic type class</title>
+        <year>1992</year>
+        <authors>mark p. jones</authors>
+        <jconf>j. funct. program.</jconf>
+        <id>3439</id>
+        <label>1</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>dictionari free overload partial evalu</title>
+        <year>1994</year>
+        <authors>mark p. jones</authors>
+        <jconf>pepm</jconf>
+        <id>2072</id>
+        <label>1</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>function program overload higher order polymorph</title>
+        <year>1995</year>
+        <authors>mark p. jones</authors>
+        <jconf>advanced functional programming</jconf>
+        <id>57</id>
+        <label>1</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>monad transform modular interpret</title>
+        <year>1995</year>
+        <authors>mark p. jones,sheng liang,paul hudak</authors>
+        <jconf>popl</jconf>
+        <id>2114</id>
+        <label>1</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>class polymorph type infer</title>
+        <year>1997</year>
+        <authors>mark p. jones</authors>
+        <jconf>popl</jconf>
+        <id>2111</id>
+        <label>1</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>implement type class</title>
+        <year>1993</year>
+        <authors>mark p. jones,john peterson</authors>
+        <jconf>pldi</jconf>
+        <id>2090</id>
+        <label>1</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>implement type class</title>
+        <year>1993</year>
+        <authors>mark p. jones,john peterson</authors>
+        <jconf>pldi</jconf>
+        <id>2090</id>
+        <label>1</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>simplifi improv qualifi type</title>
+        <year>1995</year>
+        <authors>mark p. jones</authors>
+        <jconf>fpca</jconf>
+        <id>693</id>
+        <label>1</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>parameter signatur express modular structur</title>
+        <year>1996</year>
+        <authors>mark p. jones</authors>
+        <jconf>popl</jconf>
+        <id>2110</id>
+        <label>1</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>system constructor class overload implicit higher order polymorph</title>
+        <year>1993</year>
+        <authors>mark p. jones</authors>
+        <jconf>fpca</jconf>
+        <id>692</id>
+        <label>1</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>theori qualifi type</title>
+        <year>1994</year>
+        <authors>mark p. jones</authors>
+        <jconf>sci. comput. program.</jconf>
+        <id>3742</id>
+        <label>1</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>theori qualifi type</title>
+        <year>1992</year>
+        <authors>mark p. jones</authors>
+        <jconf>esop</jconf>
+        <id>622</id>
+        <label>1</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>ml type explicit polymorph qualifi type</title>
+        <year>1994</year>
+        <authors>mark p. jones</authors>
+        <jconf>tacs</jconf>
+        <id>2456</id>
+        <label>1</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>type class function depend</title>
+        <year>2000</year>
+        <authors>mark p. jones</authors>
+        <jconf>esop</jconf>
+        <id>621</id>
+        <label>1</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>oper system direct millennium</title>
+        <year>1997</year>
+        <authors>michael b. jones,william j. bolosky,richard draves,robert p. fitzgerald,christopher w. fraser,todd b. knoblock,richard f. rashid</authors>
+        <jconf>workshop on hot topics in operating systems</jconf>
+        <id>808</id>
+        <label>2</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>cpu reserv time constraint effici predict schedul independ activ</title>
+        <year>1997</year>
+        <authors>michael b. jones,daniela rosu,marcel-catalin rosu</authors>
+        <jconf>sosp</jconf>
+        <id>2355</id>
+        <label>2</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>support user centric modular real time resourc manag rialto oper system</title>
+        <year>1995</year>
+        <authors>michael b. jones,paul j. leach,richard draves</authors>
+        <jconf>nossdav</jconf>
+        <id>2002</id>
+        <label>2</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>futur distribut embed real time applic adapt challeng research paradigm panel</title>
+        <year>1995</year>
+        <authors>michael b. jones,aloysius k. mok,constance l. heitmeyer,kevin jeffay,c. douglas locke,ragunathan rajkumar</authors>
+        <jconf>icdcs</jconf>
+        <id>1036</id>
+        <label>2</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>modular real time resourc manag rialto oper system</title>
+        <year>1995</year>
+        <authors>michael b. jones,paul j. leach,richard draves,joseph s. barrera iii</authors>
+        <jconf>hotos</jconf>
+        <id>812</id>
+        <label>2</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>mach matchmak kernel languag support object orient distribut system</title>
+        <year>1986</year>
+        <authors>michael b. jones,richard f. rashid</authors>
+        <jconf>oopsla</jconf>
+        <id>2009</id>
+        <label>2</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>overview rialto real time architectur</title>
+        <year>1996</year>
+        <authors>michael b. jones,daniel l. mcculley,alessandro forin,paul j. leach,daniela rosu,daniel l. roberts</authors>
+        <jconf>acm sigops european workshop</jconf>
+        <id>2304</id>
+        <label>2</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>problem mai problem result latenc studi window nt</title>
+        <year>1999</year>
+        <authors>michael b. jones,john regehr</authors>
+        <jconf>ieee real time technology and applications symposium</jconf>
+        <id>2179</id>
+        <label>2</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>problem mai problem result latenc studi window nt</title>
+        <year>1999</year>
+        <authors>michael b. jones,john regehr</authors>
+        <jconf>workshop on hot topics in operating systems</jconf>
+        <id>813</id>
+        <label>2</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>predict requir soft modem</title>
+        <year>2001</year>
+        <authors>michael b. jones,stefan saroiu</authors>
+        <jconf>sigmetrics/performance</jconf>
+        <id>2270</id>
+        <label>2</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>case studi predict applic schedul rialto nt</title>
+        <year>2001</year>
+        <authors>michael b. jones,john regehr,stefan saroiu</authors>
+        <jconf>ieee real time technology and applications symposium</jconf>
+        <id>2180</id>
+        <label>2</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>cpu reserv time constraint effici predict schedul independ activ</title>
+        <year>1997</year>
+        <authors>michael b. jones,daniela rosu,marcel-catalin rosu</authors>
+        <jconf>sosp</jconf>
+        <id>2355</id>
+        <label>2</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>predict requir soft modem</title>
+        <year>2001</year>
+        <authors>michael b. jones,stefan saroiu</authors>
+        <jconf>sigmetrics/performance</jconf>
+        <id>2270</id>
+        <label>2</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>overlook scalabl servic overlai network</title>
+        <year>2002</year>
+        <authors>michael b. jones,marvin theimer</authors>
+        <jconf>icdcs</jconf>
+        <id>1039</id>
+        <label>2</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>problem mai problem result latenc studi window nt</title>
+        <year>1999</year>
+        <authors>michael b. jones,john regehr</authors>
+        <jconf>workshop on hot topics in operating systems</jconf>
+        <id>813</id>
+        <label>2</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>case studi predict applic schedul rialto nt</title>
+        <year>2001</year>
+        <authors>michael b. jones,john regehr,stefan saroiu</authors>
+        <jconf>ieee real time technology and applications symposium</jconf>
+        <id>2180</id>
+        <label>2</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>bring c librari multi thread futur</title>
+        <year>1991</year>
+        <authors>m. b. jones</authors>
+        <jconf>usenix winter</jconf>
+        <id>2483</id>
+        <label>2</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>matchmak interfac specif languag distribut process</title>
+        <year>1985</year>
+        <authors>michael b. jones,richard f. rashid,mary r. thompson</authors>
+        <jconf>popl</jconf>
+        <id>2112</id>
+        <label>2</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>evalu scalabl applic level multicast built peer peer overlai</title>
+        <year>2003</year>
+        <authors>michael b. jones,miguel castro,anne-marie kermarrec,antony i. t. rowstron,marvin theimer,helen j. wang,alec wolman</authors>
+        <jconf>infocom</jconf>
+        <id>1583</id>
+        <label>2</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>adapt real time resourc manag support composit independ author time critic servic</title>
+        <year>1993</year>
+        <authors>michael b. jones</authors>
+        <jconf>workshop on workstation operating systems</jconf>
+        <id>811</id>
+        <label>2</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>skipnet scalabl overlai network practic local properti</title>
+        <year>2003</year>
+        <authors>michael b. jones,nicholas j. a. harvey,stefan saroiu,marvin theimer,alec wolman</authors>
+        <jconf>usenix symposium on internet technologies and systems</jconf>
+        <id>2487</id>
+        <label>2</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>interposit agent transpar interpos user code system interfac</title>
+        <year>1993</year>
+        <authors>michael b. jones</authors>
+        <jconf>sosp</jconf>
+        <id>2354</id>
+        <label>2</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>consum real time system</title>
+        <year>1996</year>
+        <authors>michael b. jones</authors>
+        <jconf>acm comput. surv.</jconf>
+        <id>2933</id>
+        <label>2</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>adapt real time resourc manag support composit independ author time critic servic</title>
+        <year>1993</year>
+        <authors>michael b. jones</authors>
+        <jconf>workshop on workstation operating systems</jconf>
+        <id>811</id>
+        <label>2</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>adapt real time resourc manag support modular composit digit multimedia servic</title>
+        <year>1993</year>
+        <authors>michael b. jones</authors>
+        <jconf>nossdav</jconf>
+        <id>2001</id>
+        <label>2</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>interposit agent transpar interpos user code system interfac</title>
+        <year>1993</year>
+        <authors>michael b. jones</authors>
+        <jconf>sosp</jconf>
+        <id>2354</id>
+        <label>2</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>interposit agent transpar interpos user code system interfac</title>
+        <year>1999</year>
+        <authors>michael b. jones</authors>
+        <jconf>secure internet programming</jconf>
+        <id>577</id>
+        <label>2</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>toolkit interpos user code system interfac abstract</title>
+        <year>1992</year>
+        <authors>michael b. jones</authors>
+        <jconf>operating systems review</jconf>
+        <id>3789</id>
+        <label>2</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>simpl effici implement small databas</title>
+        <year>1987</year>
+        <authors>michael b. jones,andrew birrell,edward wobber</authors>
+        <jconf>sosp</jconf>
+        <id>2352</id>
+        <label>2</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>oper system direct millennium</title>
+        <year>1997</year>
+        <authors>michael b. jones,william j. bolosky,richard draves,robert p. fitzgerald,christopher w. fraser,todd b. knoblock,richard f. rashid</authors>
+        <jconf>workshop on hot topics in operating systems</jconf>
+        <id>808</id>
+        <label>2</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>herald achiev global event notif servic</title>
+        <year>2001</year>
+        <authors>michael b. jones,luis-felipe cabrera,marvin theimer</authors>
+        <jconf>hotos</jconf>
+        <id>809</id>
+        <label>2</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>activ hardwar</title>
+        <year>1999</year>
+        <authors>mark t. jones,david c. lee,scott f. midkiff,peter m. athanas</authors>
+        <jconf>iwan</jconf>
+        <id>1811</id>
+        <label>3</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>commun electron textil system</title>
+        <year>2003</year>
+        <authors>mark t. jones,zahi nakad,thomas martin</authors>
+        <jconf>communications in computing</jconf>
+        <id>213</id>
+        <label>3</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>solut larg spars system linear equat massiv parallel applic</title>
+        <year>1992</year>
+        <authors>mark t. jones,paul e. plassmann</authors>
+        <jconf>sc</jconf>
+        <id>2211</id>
+        <label>3</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>implement api distribut adapt comput system</title>
+        <year>1999</year>
+        <authors>mark jones,luke scharf,jonathan scott,chris twaddle,matthew yaconis,kuan yao,peter athanas,brian schott</authors>
+        <jconf>fccm</jconf>
+        <id>652</id>
+        <label>3</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>task distribut sensor network</title>
+        <year>2002</year>
+        <authors>mark t. jones,shashank mehrotra,jae h. park</authors>
+        <jconf>ijhpca</jconf>
+        <id>3138</id>
+        <label>3</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>stage multisplit method overlap block</title>
+        <year>1996</year>
+        <authors>mark t. jones,daniel b. szyld</authors>
+        <jconf>numerical lin. alg. with applic.</jconf>
+        <id>3625</id>
+        <label>3</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>examin commun requir remot scientif visual</title>
+        <year>2003</year>
+        <authors>mark t. jones,mukta nandwani,jae h. park,yanhua yi,paul e. plassmann</authors>
+        <jconf>communications in computing</jconf>
+        <id>212</id>
+        <label>3</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>model piezoelectr crystal intel delta</title>
+        <year>1993</year>
+        <authors>mark t. jones,tom canfield,paul e. plassmann,michael tang</authors>
+        <jconf>ppsc</jconf>
+        <id>2123</id>
+        <label>3</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>configur comput scientif simul</title>
+        <year>2003</year>
+        <authors>mark t. jones,jae h. park,yanhua yi,paul e. plassmann</authors>
+        <jconf>pdpta</jconf>
+        <id>2063</id>
+        <label>3</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>vector parallel vector implement lanczo s method gener eigenvalu problem</title>
+        <year>1989</year>
+        <authors>mark t. jones,merrell l. patrick</authors>
+        <jconf>ppsc</jconf>
+        <id>2132</id>
+        <label>3</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>piezoelectr materi wearabl electron textil</title>
+        <year>2002</year>
+        <authors>mark t. jones,joshua nathaniel edmison,zahi nakad,thomas martin</authors>
+        <jconf>iswc</jconf>
+        <id>1780</id>
+        <label>3</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>parallel algorithm mesh smooth</title>
+        <year>1997</year>
+        <authors>mark t. jones,lori a. freitag,paul e. plassmann</authors>
+        <jconf>ppsc</jconf>
+        <id>2128</id>
+        <label>3</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>parallel algorithm mesh smooth</title>
+        <year>1999</year>
+        <authors>mark t. jones,lori a. freitag,paul e. plassmann</authors>
+        <jconf>siam j. scientific computing</jconf>
+        <id>3779</id>
+        <label>3</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>parallel heurist improv balanc graph color</title>
+        <year>1996</year>
+        <authors>mark t. jones,robert k. gjertsen jr.,paul e. plassmann</authors>
+        <jconf>j. parallel distrib. comput.</jconf>
+        <id>3487</id>
+        <label>3</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>algorithm fortran subroutin comput improv incomplet choleski factor</title>
+        <year>1995</year>
+        <authors>mark t. jones,paul e. plassmann</authors>
+        <jconf>acm trans. math. softw.</jconf>
+        <id>4044</id>
+        <label>3</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>improv incomplet choleski factor</title>
+        <year>1995</year>
+        <authors>mark t. jones,paul e. plassmann</authors>
+        <jconf>acm trans. math. softw.</jconf>
+        <id>4043</id>
+        <label>3</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>parallel heurist improv balanc graph color</title>
+        <year>1996</year>
+        <authors>mark t. jones,robert k. gjertsen jr.,paul e. plassmann</authors>
+        <jconf>j. parallel distrib. comput.</jconf>
+        <id>3487</id>
+        <label>3</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>parallel algorithm adapt mesh refin</title>
+        <year>1997</year>
+        <authors>mark t. jones,paul e. plassmann</authors>
+        <jconf>siam j. scientific computing</jconf>
+        <id>3780</id>
+        <label>3</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>parallel solut unstructur spars system linear equat</title>
+        <year>1993</year>
+        <authors>mark t. jones,paul e. plassmann</authors>
+        <jconf>ppsc</jconf>
+        <id>2134</id>
+        <label>3</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>recent result model type ii superconductor massiv parallel comput</title>
+        <year>1993</year>
+        <authors>mark t. jones,paul e. plassmann</authors>
+        <jconf>ppsc</jconf>
+        <id>2133</id>
+        <label>3</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>scalabl iter solut spars linear system</title>
+        <year>1994</year>
+        <authors>mark t. jones,paul e. plassmann</authors>
+        <jconf>parallel computing</jconf>
+        <id>3671</id>
+        <label>3</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>spatial hypertext reader tool digit librari</title>
+        <year>2002</year>
+        <authors>matt jones,george buchanan,ann blandford,harold w. thimbleby</authors>
+        <jconf>visual interfaces to digital libraries</jconf>
+        <id>1829</id>
+        <label>4</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>sort search small screen devic</title>
+        <year>2002</year>
+        <authors>matt jones,george buchanan,harold w. thimbleby</authors>
+        <jconf>mobile hci</jconf>
+        <id>1906</id>
+        <label>4</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>hyperat hci web author</title>
+        <year>1997</year>
+        <authors>matt jones,yin leng theng,cecile rigny,harold w. thimbleby</authors>
+        <jconf>bcs hci</jconf>
+        <id>141</id>
+        <label>4</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>rel durat larg vocabulari speech recognit</title>
+        <year>1993</year>
+        <authors>m. jones,philip c. woodland</authors>
+        <jconf>eurospeech</jconf>
+        <id>1612</id>
+        <label>4</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>digit librari convers express profoundli disabl user commun</title>
+        <year>2002</year>
+        <authors>matt jones,hayley dunlop,sally jo cunningham</authors>
+        <jconf>jcdl</jconf>
+        <id>1832</id>
+        <label>4</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>sort search small screen devic</title>
+        <year>2002</year>
+        <authors>matt jones,george buchanan,harold w. thimbleby</authors>
+        <jconf>mobile hci</jconf>
+        <id>1906</id>
+        <label>4</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>hyperat hci web author</title>
+        <year>1997</year>
+        <authors>matt jones,yin leng theng,cecile rigny,harold w. thimbleby</authors>
+        <jconf>bcs hci</jconf>
+        <id>141</id>
+        <label>4</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>data structur design interfac</title>
+        <year>2002</year>
+        <authors>matt jones,gary marsden,harold w. thimbleby,paul gillary</authors>
+        <jconf>personal and ubiquitous computing</jconf>
+        <id>3725</id>
+        <label>4</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>explor small screen digit librari access greenston digit librari</title>
+        <year>2002</year>
+        <authors>matt jones,george buchanan,gary marsden</authors>
+        <jconf>ecdl</jconf>
+        <id>613</id>
+        <label>4</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>obituari fax</title>
+        <year>2002</year>
+        <authors>matt jones,harold w. thimbleby</authors>
+        <jconf>personal and ubiquitous computing</jconf>
+        <id>3726</id>
+        <label>4</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>improv mobil internet usabl</title>
+        <year>2001</year>
+        <authors>matt jones,george buchanan,sarah farrant,harold w. thimbleby,gary marsden,michael j. pazzani</authors>
+        <jconf>www</jconf>
+        <id>2657</id>
+        <label>4</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>usabl analysi markov model</title>
+        <year>2001</year>
+        <authors>matt jones,harold w. thimbleby,paul a. cairns</authors>
+        <jconf>acm trans. comput.-hum. interact.</jconf>
+        <id>4014</id>
+        <label>4</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>improv web interact small displai</title>
+        <year>1999</year>
+        <authors>matt jones,gary marsden,norliza mohd-nasir,kevin boone,george buchanan</authors>
+        <jconf>computer networks</jconf>
+        <id>2871</id>
+        <label>4</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>improv web search small screen devic</title>
+        <year>2003</year>
+        <authors>matt jones,george buchanan,harold w. thimbleby</authors>
+        <jconf>interacting with computers</jconf>
+        <id>3331</id>
+        <label>4</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>success user interfac design effici comput algorithm</title>
+        <year>2000</year>
+        <authors>matt jones,gary marsden,harold thimbleby,paul gillary</authors>
+        <jconf>chi extended abstracts</jconf>
+        <id>205</id>
+        <label>4</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>mobil devic vari pace search</title>
+        <year>2003</year>
+        <authors>matt jones,preeti jain,george buchanan,gary marsden</authors>
+        <jconf>mobile hci</jconf>
+        <id>1907</id>
+        <label>4</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>mobil devic vari pace search</title>
+        <year>2003</year>
+        <authors>matt jones,preeti jain,george buchanan,gary marsden</authors>
+        <jconf>mobile hci</jconf>
+        <id>1907</id>
+        <label>4</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>children design partner tester children s digit librari</title>
+        <year>2000</year>
+        <authors>matt jones,yin leng theng,norliza mohd-nasir,harold w. thimbleby,george buchanan,david bainbridge,noel cassidy</authors>
+        <jconf>ecdl</jconf>
+        <id>616</id>
+        <label>4</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>children design partner tester children s digit librari</title>
+        <year>2000</year>
+        <authors>matt jones,yin leng theng,norliza mohd-nasir,harold w. thimbleby,george buchanan,david bainbridge,noel cassidy</authors>
+        <jconf>ecdl</jconf>
+        <id>616</id>
+        <label>4</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>spatial hypertext reader tool digit librari</title>
+        <year>2002</year>
+        <authors>matt jones,george buchanan,ann blandford,harold w. thimbleby</authors>
+        <jconf>visual interfaces to digital libraries</jconf>
+        <id>1829</id>
+        <label>4</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>design children s digit librari children</title>
+        <year>2000</year>
+        <authors>matt jones,yin leng theng,norliza mohd-nasir,harold w. thimbleby,george buchanan</authors>
+        <jconf>acm dl</jconf>
+        <id>542</id>
+        <label>4</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>design children s digit librari children</title>
+        <year>2000</year>
+        <authors>matt jones,yin leng theng,norliza mohd-nasir,harold w. thimbleby,george buchanan</authors>
+        <jconf>acm dl</jconf>
+        <id>542</id>
+        <label>4</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>explor small screen digit librari access greenston digit librari</title>
+        <year>2002</year>
+        <authors>matt jones,george buchanan,gary marsden</authors>
+        <jconf>ecdl</jconf>
+        <id>613</id>
+        <label>4</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>evalu webtwig site outlin handheld web access</title>
+        <year>1999</year>
+        <authors>matt jones,george buchanan,norliza mohd-nasir</authors>
+        <jconf>huc</jconf>
+        <id>850</id>
+        <label>4</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>don t emancip exagger rhetor realiti reengin</title>
+        <year>1994</year>
+        <authors>matthew jones</authors>
+        <jconf>transforming organizations with information technology</jconf>
+        <id>1553</id>
+        <label>5</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>groupwar social infrastructur commun</title>
+        <year>2001</year>
+        <authors>matthew jones,seamas kelly</authors>
+        <jconf>commun. acm</jconf>
+        <id>2777</id>
+        <label>5</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>limit knowabl organiz design knowledg system develop</title>
+        <year>1992</year>
+        <authors>matthew jones,geoff walsham</authors>
+        <jconf>the impact of computer supported technologies in information systems development</jconf>
+        <id>1555</id>
+        <label>5</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>structur develop structur analysi develop execut inform system</title>
+        <year>1993</year>
+        <authors>matthew jones,joe nandhakumar</authors>
+        <jconf>human, organizational, and social dimensions of information systems development</jconf>
+        <id>1554</id>
+        <label>5</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>long wind road collabor organis chang</title>
+        <year>1998</year>
+        <authors>matthew r. jones,helena karsten</authors>
+        <jconf>cscw</jconf>
+        <id>319</id>
+        <label>5</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>import nearest nearshor softwar outsourc global discours</title>
+        <year>2002</year>
+        <authors>matthew jones,pamela abbott</authors>
+        <jconf>global and organizational discourse about information technology</jconf>
+        <id>1551</id>
+        <label>5</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>interorganiz system trust strateg allianc</title>
+        <year>1999</year>
+        <authors>matthew jones,marios v. karahannas</authors>
+        <jconf>icis</jconf>
+        <id>1178</id>
+        <label>5</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>move finger social theori wg confer paper</title>
+        <year>2000</year>
+        <authors>matthew jones</authors>
+        <jconf>organizational and social perspectives on it</jconf>
+        <id>1552</id>
+        <label>5</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>probabilist parser appli softwar test document</title>
+        <year>1992</year>
+        <authors>mark a. jones,jason eisner</authors>
+        <jconf>aaai</jconf>
+        <id>10</id>
+        <label>6</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>conceptu depend montagu grammar step concili</title>
+        <year>1982</year>
+        <authors>mark a. jones,david scott warren</authors>
+        <jconf>aaai</jconf>
+        <id>11</id>
+        <label>6</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>kitss knowledg base translat system test scenario</title>
+        <year>1993</year>
+        <authors>mark a. jones,van e. kelly</authors>
+        <jconf>aaai</jconf>
+        <id>12</id>
+        <label>6</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>flexibl list manag directori</title>
+        <year>1998</year>
+        <authors>mark a. jones,h. v. jagadish,divesh srivastava,dimitra vista</authors>
+        <jconf>cikm</jconf>
+        <id>221</id>
+        <label>6</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>descript logic kbse system experi report</title>
+        <year>1994</year>
+        <authors>mark a. jones,premkumar t. devanbu</authors>
+        <jconf>icse</jconf>
+        <id>1489</id>
+        <label>6</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>descript logic kbse system</title>
+        <year>1997</year>
+        <authors>mark a. jones,premkumar t. devanbu</authors>
+        <jconf>acm trans. softw. eng. methodol.</jconf>
+        <id>4060</id>
+        <label>6</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>activ base pars</title>
+        <year>1983</year>
+        <authors>mark a. jones</authors>
+        <jconf>ijcai</jconf>
+        <id>1567</id>
+        <label>6</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>feedback coindex mechan connectionist architectur</title>
+        <year>1987</year>
+        <authors>mark a. jones</authors>
+        <jconf>ijcai</jconf>
+        <id>1568</id>
+        <label>6</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>model base match line draw linear combin prototyp</title>
+        <year>1995</year>
+        <authors>michael j. jones,tomaso a. poggio</authors>
+        <jconf>iccv</jconf>
+        <id>987</id>
+        <label>7</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>multidimension morphabl model</title>
+        <year>1998</year>
+        <authors>michael j. jones,tomaso a. poggio</authors>
+        <jconf>iccv</jconf>
+        <id>988</id>
+        <label>7</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>robust real time face detect</title>
+        <year>2001</year>
+        <authors>michael j. jones,paul a. viola</authors>
+        <jconf>iccv</jconf>
+        <id>993</id>
+        <label>7</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>cluster base statist model object detect</title>
+        <year>1999</year>
+        <authors>michael j. jones,thomas d. rikert,paul a. viola</authors>
+        <jconf>iccv</jconf>
+        <id>992</id>
+        <label>7</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>fast robust classif asymmetr adaboost detector cascad</title>
+        <year>2001</year>
+        <authors>michael j. jones,paul a. viola</authors>
+        <jconf>nips</jconf>
+        <id>1984</id>
+        <label>7</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>statist color model applic skin detect</title>
+        <year>2002</year>
+        <authors>michael j. jones,james m. rehg</authors>
+        <jconf>international journal of computer vision</jconf>
+        <id>3133</id>
+        <label>7</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>hierarch morphabl model</title>
+        <year>1998</year>
+        <authors>michael j. jones,tomaso a. poggio</authors>
+        <jconf>cvpr</jconf>
+        <id>343</id>
+        <label>7</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>statist color model applic skin detect</title>
+        <year>1999</year>
+        <authors>michael j. jones,james m. rehg</authors>
+        <jconf>cvpr</jconf>
+        <id>344</id>
+        <label>7</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>volum express artist model render volum dataset</title>
+        <year>2001</year>
+        <authors>mark w. jones,steve m. f. treavett,min chen,richard satherley</authors>
+        <jconf>computer graphics international</jconf>
+        <id>191</id>
+        <label>8</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>shape represent space fill voxel distanc field</title>
+        <year>2001</year>
+        <authors>mark w. jones,richard satherley</authors>
+        <jconf>shape modeling international</jconf>
+        <id>2336</id>
+        <label>8</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>voxelis model volum graphic</title>
+        <year>2000</year>
+        <authors>mark w. jones,richard satherley</authors>
+        <jconf>vmv</jconf>
+        <id>2559</id>
+        <label>8</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>approach construct surfac contour data</title>
+        <year>1994</year>
+        <authors>mark w. jones,min chen</authors>
+        <jconf>comput. graph. forum</jconf>
+        <id>2832</id>
+        <label>8</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>facial reconstruct volumetr data</title>
+        <year>2001</year>
+        <authors>mark w. jones</authors>
+        <jconf>vmv</jconf>
+        <id>2558</id>
+        <label>8</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>volum express artist model render volum dataset</title>
+        <year>2001</year>
+        <authors>mark w. jones,steve m. f. treavett,min chen,richard satherley</authors>
+        <jconf>computer graphics international</jconf>
+        <id>191</id>
+        <label>8</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>voxelis model volum graphic</title>
+        <year>2000</year>
+        <authors>mark w. jones,richard satherley</authors>
+        <jconf>vmv</jconf>
+        <id>2559</id>
+        <label>8</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>melt object</title>
+        <year>2003</year>
+        <authors>mark w. jones</authors>
+        <jconf>wscg</jconf>
+        <id>2653</id>
+        <label>8</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>approach construct surfac contour data</title>
+        <year>1994</year>
+        <authors>mark w. jones,min chen</authors>
+        <jconf>comput. graph. forum</jconf>
+        <id>2832</id>
+        <label>8</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>shape represent space fill voxel distanc field</title>
+        <year>2001</year>
+        <authors>mark w. jones,richard satherley</authors>
+        <jconf>shape modeling international</jconf>
+        <id>2336</id>
+        <label>8</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>product volum data triangular mesh voxelis</title>
+        <year>1996</year>
+        <authors>mark w. jones</authors>
+        <jconf>comput. graph. forum</jconf>
+        <id>2831</id>
+        <label>8</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>hypertextur complex volum object</title>
+        <year>2002</year>
+        <authors>mark w. jones,richard satherley</authors>
+        <jconf>the visual computer</jconf>
+        <id>4140</id>
+        <label>8</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>hypertextur complex volum object</title>
+        <year>2001</year>
+        <authors>mark w. jones,richard satherley</authors>
+        <jconf>wscg</jconf>
+        <id>2654</id>
+        <label>8</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>facial reconstruct volumetr data</title>
+        <year>2001</year>
+        <authors>mark w. jones</authors>
+        <jconf>vmv</jconf>
+        <id>2558</id>
+        <label>8</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>vector citi vector distanc transform</title>
+        <year>2001</year>
+        <authors>mark w. jones,richard satherley</authors>
+        <jconf>computer vision and image understanding</jconf>
+        <id>2943</id>
+        <label>8</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>product volum data triangular mesh voxelis</title>
+        <year>1996</year>
+        <authors>mark w. jones</authors>
+        <jconf>comput. graph. forum</jconf>
+        <id>2831</id>
+        <label>8</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>volum distort morph disk field</title>
+        <year>1996</year>
+        <authors>mark w. jones,min chen,peter townsend</authors>
+        <jconf>computers &amp; graphics</jconf>
+        <id>2820</id>
+        <label>8</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>enhanc instruct capabl intellig tutor system</title>
+        <year>1992</year>
+        <authors>marlene jones,permanand mohan,jim e. greer</authors>
+        <jconf>intelligent tutoring systems</jconf>
+        <id>1799</id>
+        <label>9</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>comput analog</title>
+        <year>1986</year>
+        <authors>marlene jones,ken wellsch</authors>
+        <jconf>ecai</jconf>
+        <id>565</id>
+        <label>9</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>ai approach educ editori</title>
+        <year>1986</year>
+        <authors>marlene jones</authors>
+        <jconf>computational intelligence</jconf>
+        <id>2840</id>
+        <label>9</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>bring marketplac success experi minimalist design</title>
+        <year>1995</year>
+        <authors>marlene jones,carl gutwin,patrick brackett,kim massie adolphe</authors>
+        <jconf>j. ucs</jconf>
+        <id>3543</id>
+        <label>9</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>student model genet graph approach</title>
+        <year>1988</year>
+        <authors>marlene jones,barbara brecht</authors>
+        <jconf>international journal of man-machine studies</jconf>
+        <id>3154</id>
+        <label>9</label>
+        <organization>null</organization>
+    </publication>
+</person>

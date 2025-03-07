@@ -1,0 +1,853 @@
+<?xml version="1.0" encoding="utf-8"?>
+<person>
+    <personID>46330233</personID>
+    <FullName>jerome martin</FullName>
+    <FirstName>jerome</FirstName>
+    <LastName>martin</LastName>
+    <publication>
+        <title>base approach gestur recognit</title>
+        <year>1997</year>
+        <authors>jerome martin,james l. crowley</authors>
+        <jconf>iciap (2)</jconf>
+        <id>1110</id>
+        <label>10</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>smart offic design intellig environ</title>
+        <year>2001</year>
+        <authors>jerome martin,christophe le gal,augustin lux,james l. crowley</authors>
+        <jconf>ieee intelligent systems</jconf>
+        <id>3042</id>
+        <label>10</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>statist gestur recognit model paramet trajectori</title>
+        <year>1999</year>
+        <authors>jerome martin,daniela hall,james l. crowley</authors>
+        <jconf>gesture workshop</jconf>
+        <id>761</id>
+        <label>10</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>probabilist sensor percept recognit activ</title>
+        <year>2000</year>
+        <authors>jerome martin,olivier chomat,james l. crowley</authors>
+        <jconf>eccv (1)</jconf>
+        <id>566</id>
+        <label>10</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>extend uml deploy diagram form perform engin perspect</title>
+        <year>2003</year>
+        <authors>juan luis anciano martin,ramon puigjaner</authors>
+        <jconf>software engineering research and practice</jconf>
+        <id>2234</id>
+        <label>11</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>unifi system builder interact block usbib soft real time system</title>
+        <year>2002</year>
+        <authors>juan luis anciano martin,nunzio nicolo savino vazquez,carlos juiz</authors>
+        <jconf>workshop on software and performance</jconf>
+        <id>2628</id>
+        <label>11</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>predict behaviour tier applic deal distribut object technolog databas</title>
+        <year>2000</year>
+        <authors>juan luis anciano martin,nunzio nicolo savino vazquez,sophie dumas,jose antonio corbacho,ramon puigjaner,didier boudigue,georges gardarin</authors>
+        <jconf>perform. eval.</jconf>
+        <id>3684</id>
+        <label>11</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>extend smart predict behaviour pl sql applic</title>
+        <year>1998</year>
+        <authors>juan luis anciano martin,nunzio nicolo savino vazquez,jose antonio corbacho,ramon puigjaner</authors>
+        <jconf>computer performance evaluation (tools)</jconf>
+        <id>303</id>
+        <label>11</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>tomorrow nrc univers ottawa question answer system</title>
+        <year>1999</year>
+        <authors>joel d. martin,chris lankester</authors>
+        <jconf>trec</jconf>
+        <id>2463</id>
+        <label>12</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>extract keyphras spoken audio document</title>
+        <year>2001</year>
+        <authors>joel d. martin,alain desilets,berry de bruijn</authors>
+        <jconf>sigir workshop: information retrieval techniques for speech applications</jconf>
+        <id>2252</id>
+        <label>12</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>focus attent observ learn import context</title>
+        <year>1989</year>
+        <authors>joel d. martin</authors>
+        <jconf>ijcai</jconf>
+        <id>1571</id>
+        <label>12</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>develop multimod interfac theoret framework guid propag network</title>
+        <year>1995</year>
+        <authors>jean-claude martin,r. veldman,dominique beroule</authors>
+        <jconf>multimodal human-computer communication</jconf>
+        <id>239</id>
+        <label>13</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>tempor code typolog cooper modal</title>
+        <year>1995</year>
+        <authors>jean-claude martin,dominique beroule</authors>
+        <jconf>artif. intell. rev.</jconf>
+        <id>2697</id>
+        <label>13</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>unifi framework construct multimod experi applic</title>
+        <year>1998</year>
+        <authors>jean-claude martin,adam cheyer,luc julia</authors>
+        <jconf>cooperative multimodal communication</jconf>
+        <id>237</id>
+        <label>13</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>csp model java multithread</title>
+        <year>2000</year>
+        <authors>jeremy m. r. martin,peter h. welch</authors>
+        <jconf>pdse</jconf>
+        <id>2070</id>
+        <label>14</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>tool check csp sat properti</title>
+        <year>2000</year>
+        <authors>jeremy m. r. martin</authors>
+        <jconf>comput. j.</jconf>
+        <id>2854</id>
+        <label>14</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>sp system architectur</title>
+        <year>1995</year>
+        <authors>joanne l. martin,tilak agerwala,jamshed h. mirza,david c. sadler,daniel m. dias,marc snir</authors>
+        <jconf>ibm systems journal</jconf>
+        <id>3098</id>
+        <label>15</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>sp system architectur</title>
+        <year>1999</year>
+        <authors>joanne l. martin,tilak agerwala,jamshed h. mirza,david c. sadler,daniel m. dias,marc snir</authors>
+        <jconf>ibm systems journal</jconf>
+        <id>3099</id>
+        <label>15</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>autom segment dual echo mr head data</title>
+        <year>1991</year>
+        <authors>john martin,guido gerig,ron kikinis,olaf kubler,martha elizabeth shenton,ferenc a. jolesz</authors>
+        <jconf>ipmi</jconf>
+        <id>1619</id>
+        <label>16</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>character neuropatholog shape deform</title>
+        <year>1998</year>
+        <authors>john martin,alex pentland,stan sclaroff,ron kikinis</authors>
+        <jconf>ieee trans. pattern anal. mach. intell.</jconf>
+        <id>3658</id>
+        <label>16</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>slow revolv door motiv retain student employe</title>
+        <year>2000</year>
+        <authors>jerry martin,debbie durant,henry moeller,jim osborn,virginia redmond,court sansom</authors>
+        <jconf>siguccs</jconf>
+        <id>2309</id>
+        <label>1</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>desk train art scienc prayer</title>
+        <year>1997</year>
+        <authors>jerry martin</authors>
+        <jconf>siguccs</jconf>
+        <id>2322</id>
+        <label>1</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>doe faculti realli inform technolog</title>
+        <year>2001</year>
+        <authors>jerry martin</authors>
+        <jconf>siguccs</jconf>
+        <id>2312</id>
+        <label>1</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>manag network</title>
+        <year>1990</year>
+        <authors>jerry martin</authors>
+        <jconf>siguccs</jconf>
+        <id>2313</id>
+        <label>1</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>seamless integr client server applic conclus mani sigucc paper project</title>
+        <year>1998</year>
+        <authors>jerry martin</authors>
+        <jconf>siguccs</jconf>
+        <id>2324</id>
+        <label>1</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>s gold thar network search treasur wrong place</title>
+        <year>1991</year>
+        <authors>jerry martin</authors>
+        <jconf>siguccs</jconf>
+        <id>2314</id>
+        <label>1</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>train desk student end task</title>
+        <year>1999</year>
+        <authors>jerry martin</authors>
+        <jconf>siguccs</jconf>
+        <id>2325</id>
+        <label>1</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>s gold thar network search treasur wrong place</title>
+        <year>1992</year>
+        <authors>jerry martin</authors>
+        <jconf>siguccs</jconf>
+        <id>2315</id>
+        <label>1</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>network inform center nic horizon</title>
+        <year>1993</year>
+        <authors>jerry martin,susan calcari,priscilla huston,jan eveleth,linda j. hutchison</authors>
+        <jconf>siguccs</jconf>
+        <id>2308</id>
+        <label>1</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>s gold thar network search treasur wrong place</title>
+        <year>1993</year>
+        <authors>jerry martin</authors>
+        <jconf>siguccs</jconf>
+        <id>2317</id>
+        <label>1</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>network client server applic network</title>
+        <year>1992</year>
+        <authors>jerry martin</authors>
+        <jconf>siguccs</jconf>
+        <id>2316</id>
+        <label>1</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>solut campu park problem</title>
+        <year>1994</year>
+        <authors>jerry martin</authors>
+        <jconf>siguccs</jconf>
+        <id>2318</id>
+        <label>1</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>move total client server oper</title>
+        <year>1996</year>
+        <authors>jerry martin</authors>
+        <jconf>siguccs</jconf>
+        <id>2321</id>
+        <label>1</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>seamless integr client server applic</title>
+        <year>1995</year>
+        <authors>jerry martin</authors>
+        <jconf>siguccs</jconf>
+        <id>2319</id>
+        <label>1</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>ar readi distanc educ</title>
+        <year>1997</year>
+        <authors>jerry martin</authors>
+        <jconf>siguccs</jconf>
+        <id>2323</id>
+        <label>1</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>desktop videoconferenc step</title>
+        <year>1996</year>
+        <authors>jerry martin</authors>
+        <jconf>siguccs</jconf>
+        <id>2320</id>
+        <label>1</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>comput understand convent metaphor languag</title>
+        <year>1992</year>
+        <authors>james h. martin</authors>
+        <jconf>cognitive science</jconf>
+        <id>2884</id>
+        <label>2</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>metabank knowledg base metaphor languag convent</title>
+        <year>1994</year>
+        <authors>james h. martin</authors>
+        <jconf>computational intelligence</jconf>
+        <id>2841</id>
+        <label>2</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>corpu base static branch predict</title>
+        <year>1995</year>
+        <authors>james h. martin,brad calder,dirk grunwald,donald c. lindsay,michael mozer,benjamin g. zorn</authors>
+        <jconf>pldi</jconf>
+        <id>2089</id>
+        <label>2</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>repres unix domain metaphor</title>
+        <year>2000</year>
+        <authors>james h. martin</authors>
+        <jconf>artif. intell. rev.</jconf>
+        <id>2696</id>
+        <label>2</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>evid base static branch predict machin learn</title>
+        <year>1997</year>
+        <authors>james h. martin,brad calder,dirk grunwald,michael p. jones,donald c. lindsay,michael mozer,benjamin g. zorn</authors>
+        <jconf>acm trans. program. lang. syst.</jconf>
+        <id>4058</id>
+        <label>2</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>berkelei unix consult project</title>
+        <year>2000</year>
+        <authors>james h. martin,robert wilensky,david n. chin,marc luria,james mayfield,dekai wu</authors>
+        <jconf>artif. intell. rev.</jconf>
+        <id>2698</id>
+        <label>2</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>prototyp system extract object softwar specif</title>
+        <year>1990</year>
+        <authors>james martin,carl h. block,megan r. macmillan,david e. monarchi</authors>
+        <jconf>acm sigbdp conference on trends and directions in expert systems</jconf>
+        <id>2238</id>
+        <label>2</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>express rhetor relat instruct text case studi purpos relat</title>
+        <year>1995</year>
+        <authors>james h. martin,keith vander linden</authors>
+        <jconf>computational linguistics</jconf>
+        <id>2886</id>
+        <label>2</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>understand metaphor</title>
+        <year>1987</year>
+        <authors>james h. martin</authors>
+        <jconf>ijcai</jconf>
+        <id>1570</id>
+        <label>2</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>repres regular metaphor lexicon</title>
+        <year>1988</year>
+        <authors>james h. martin</authors>
+        <jconf>coling</jconf>
+        <id>254</id>
+        <label>2</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>convent metaphor lexicon</title>
+        <year>1991</year>
+        <authors>james h. martin</authors>
+        <jconf>siglex workshop</jconf>
+        <id>2262</id>
+        <label>2</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>berkelei unix consult project</title>
+        <year>1988</year>
+        <authors>james h. martin,robert wilensky,david n. chin,marc luria,james mayfield,dekai wu</authors>
+        <jconf>computational linguistics</jconf>
+        <id>2887</id>
+        <label>2</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>norvig s paradigm artifici intellig program instructor s perspect</title>
+        <year>1993</year>
+        <authors>james h. martin</authors>
+        <jconf>artif. intell.</jconf>
+        <id>2687</id>
+        <label>2</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>system network build rhetor structur</title>
+        <year>1992</year>
+        <authors>james h. martin,keith vander linden,susanna cumming</authors>
+        <jconf>nlg</jconf>
+        <id>1986</id>
+        <label>2</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>introduct special issu liter languag</title>
+        <year>1992</year>
+        <authors>james h. martin,dan fass,elizabeth a. hinkelman</authors>
+        <jconf>computational intelligence</jconf>
+        <id>2839</id>
+        <label>2</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>parallel simul high speed wormhol rout network</title>
+        <year>1996</year>
+        <authors>jay martin,rajive l. bagrodia,yuan chen,mario gerla,bruce kwan,prasasth palnati,simon walton</authors>
+        <jconf>workshop on parallel and distributed simulation</jconf>
+        <id>2017</id>
+        <label>3</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>compar studi effect spatial divers ad hoc network demand rout protocol</title>
+        <year>2002</year>
+        <authors>jay martin,sonia furman,rajive l. bagrodia</authors>
+        <jconf>icpp workshops</jconf>
+        <id>1354</id>
+        <label>3</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>direct virtual carrier sens direct antenna mobil ad hoc network</title>
+        <year>2002</year>
+        <authors>jay martin,mineo takai,rajive l. bagrodia,aifeng ren</authors>
+        <jconf>mobihoc</jconf>
+        <id>1963</id>
+        <label>3</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>effect wireless physic layer model mobil ad hoc network</title>
+        <year>2001</year>
+        <authors>jay martin,mineo takai,rajive l. bagrodia</authors>
+        <jconf>mobihoc</jconf>
+        <id>1962</id>
+        <label>3</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>parssec parallel simul environ complex system</title>
+        <year>1998</year>
+        <authors>jay martin,rajive l. bagrodia,richard a. meyer,mineo takai,yuan chen,xiang zeng,ha yoon song</authors>
+        <jconf>ieee computer</jconf>
+        <id>2898</id>
+        <label>3</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>compos object orient environ parallel discret event simul</title>
+        <year>1995</year>
+        <authors>jay martin,rajive l. bagrodia</authors>
+        <jconf>winter simulation conference</jconf>
+        <id>2645</id>
+        <label>3</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>slow memori rise cost optim</title>
+        <year>2000</year>
+        <authors>jay martin,richard a. meyer,rajive l. bagrodia</authors>
+        <jconf>pads</jconf>
+        <id>2022</id>
+        <label>3</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>ahead real time hybrid compon network</title>
+        <year>2001</year>
+        <authors>jay martin,kaixin xu,mineo takai,rajive l. bagrodia</authors>
+        <jconf>workshop on parallel and distributed simulation</jconf>
+        <id>2023</id>
+        <label>3</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>person network start</title>
+        <year>1994</year>
+        <authors>judy h. martin,robert minato,john major,andrea l. mox,marlene r. pratto,martie skinner</authors>
+        <jconf>siguccs</jconf>
+        <id>2329</id>
+        <label>4</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>global greensboro guilford countri school uncg</title>
+        <year>1994</year>
+        <authors>judy h. martin,marlene r. pratto,jonathan thyer,martie skinner</authors>
+        <jconf>siguccs</jconf>
+        <id>2332</id>
+        <label>4</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>person network doe support garden grow</title>
+        <year>1994</year>
+        <authors>judy h. martin,robert minato,john major,andrea l. mox,marlene r. pratto,martie skinner</authors>
+        <jconf>siguccs</jconf>
+        <id>2330</id>
+        <label>4</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>year life person network</title>
+        <year>1994</year>
+        <authors>judy h. martin,robert minato,john major,andrea l. mox,marlene r. pratto,martie skinner</authors>
+        <jconf>siguccs</jconf>
+        <id>2331</id>
+        <label>4</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>progress report year coast coast consult</title>
+        <year>1995</year>
+        <authors>judy h. martin,john major,robert minato,andrea l. mox,marlene r. pratto,martie skinner</authors>
+        <jconf>siguccs</jconf>
+        <id>2311</id>
+        <label>4</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>manag chao avail drive consult crazi</title>
+        <year>1993</year>
+        <authors>judy h. martin,martie skinner</authors>
+        <jconf>siguccs</jconf>
+        <id>2326</id>
+        <label>4</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>minim byzantin storag</title>
+        <year>2002</year>
+        <authors>jean-philippe martin,lorenzo alvisi,michael dahlin</authors>
+        <jconf>disc</jconf>
+        <id>2578</id>
+        <label>5</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>small byzantin quorum system</title>
+        <year>2002</year>
+        <authors>jean-philippe martin,lorenzo alvisi,michael dahlin</authors>
+        <jconf>dsn</jconf>
+        <id>561</id>
+        <label>5</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>gener product line product famili</title>
+        <year>2002</year>
+        <authors>jean-philippe martin,don s. batory,roberto e. lopez-herrejon</authors>
+        <jconf>ase</jconf>
+        <id>1846</id>
+        <label>5</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>minim byzantin storag</title>
+        <year>2002</year>
+        <authors>jean-philippe martin,lorenzo alvisi,michael dahlin</authors>
+        <jconf>disc</jconf>
+        <id>2578</id>
+        <label>5</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>separ agreement execut byzantin fault toler servic</title>
+        <year>2003</year>
+        <authors>jean-philippe martin,jian yin,arun venkataramani,lorenzo alvisi,michael dahlin</authors>
+        <jconf>sosp</jconf>
+        <id>2359</id>
+        <label>5</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>small byzantin quorum system</title>
+        <year>2002</year>
+        <authors>jean-philippe martin,lorenzo alvisi,michael dahlin</authors>
+        <jconf>dsn</jconf>
+        <id>561</id>
+        <label>5</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>practic approach confidenti byzantin fault toler</title>
+        <year>2003</year>
+        <authors>jean-philippe martin,jian yin,arun venkataramani,lorenzo alvisi,michael dahlin</authors>
+        <jconf>future directions in distributed computing</jconf>
+        <id>21</id>
+        <label>5</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>separ agreement execut byzantin fault toler servic</title>
+        <year>2003</year>
+        <authors>jean-philippe martin,jian yin,arun venkataramani,lorenzo alvisi,michael dahlin</authors>
+        <jconf>sosp</jconf>
+        <id>2359</id>
+        <label>5</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>analyz xfig rigi tool suit</title>
+        <year>2000</year>
+        <authors>johannes martin,kenny wong,bruce winter,hausi a. muller</authors>
+        <jconf>wcre</jconf>
+        <id>2577</id>
+        <label>6</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>analyz xfig rigi tool suit</title>
+        <year>2000</year>
+        <authors>johannes martin,kenny wong,bruce winter,hausi a. muller</authors>
+        <jconf>wcre</jconf>
+        <id>2577</id>
+        <label>6</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>strategi migrat c java</title>
+        <year>2001</year>
+        <authors>johannes martin,hausi a. muller</authors>
+        <jconf>csmr</jconf>
+        <id>332</id>
+        <label>6</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>leverag ibm visual ag c revers engin task</title>
+        <year>1999</year>
+        <authors>johannes martin</authors>
+        <jconf>cascon</jconf>
+        <id>171</id>
+        <label>6</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>chime customiz hyperlink insert mainten engin softwar engin environ</title>
+        <year>1999</year>
+        <authors>johannes martin,premkumar t. devanbu,yih-farn chen,emden r. gansner,hausi a. muller</authors>
+        <jconf>icse</jconf>
+        <id>1488</id>
+        <label>6</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>chime customiz hyperlink insert mainten engin softwar engin environ</title>
+        <year>1999</year>
+        <authors>johannes martin,premkumar t. devanbu,yih-farn chen,emden r. gansner,hausi a. muller</authors>
+        <jconf>icse</jconf>
+        <id>1488</id>
+        <label>6</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>dynam compon program visual</title>
+        <year>2002</year>
+        <authors>johannes martin,ludger martin,anke giesl</authors>
+        <jconf>wcre</jconf>
+        <id>2576</id>
+        <label>6</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>develop mainten web site bachelor program</title>
+        <year>2003</year>
+        <authors>johannes martin,holger m. kienle,anke weber,hausi a. muller</authors>
+        <jconf>wse</jconf>
+        <id>2655</id>
+        <label>6</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>code migrat transform experi report</title>
+        <year>1998</year>
+        <authors>johannes martin,kostas kontogiannis,kenny wong,richard gregory,hausi a. muller,john mylopoulos</authors>
+        <jconf>cascon</jconf>
+        <id>170</id>
+        <label>6</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>c java migrat experi</title>
+        <year>2002</year>
+        <authors>johannes martin,hausi a. muller</authors>
+        <jconf>csmr</jconf>
+        <id>333</id>
+        <label>6</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>strategi migrat c java</title>
+        <year>2001</year>
+        <authors>johannes martin,hausi a. muller</authors>
+        <jconf>csmr</jconf>
+        <id>332</id>
+        <label>6</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>c java migrat experi</title>
+        <year>2002</year>
+        <authors>johannes martin,hausi a. muller</authors>
+        <jconf>csmr</jconf>
+        <id>333</id>
+        <label>6</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>design process model support concurr project develop network sme</title>
+        <year>1999</year>
+        <authors>j. martin,a. alzaga</authors>
+        <jconf>pro-ve</jconf>
+        <id>1549</id>
+        <label>7</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>acquir combin overlap concept</title>
+        <year>1994</year>
+        <authors>joel d. martin,dorrit billman</authors>
+        <jconf>machine learning</jconf>
+        <id>3563</id>
+        <label>8</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>dp supervis unsupervis cluster</title>
+        <year>1994</year>
+        <authors>joel d. martin</authors>
+        <jconf>ecml</jconf>
+        <id>575</id>
+        <label>8</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>reduc redund learn</title>
+        <year>1989</year>
+        <authors>joel d. martin</authors>
+        <jconf>ml</jconf>
+        <id>1224</id>
+        <label>8</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>variabl bia categori learn</title>
+        <year>1991</year>
+        <authors>joel d. martin,dorrit billman</authors>
+        <jconf>ml</jconf>
+        <id>1225</id>
+        <label>8</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>increment deploy rtt base congest avoid high speed tcp internet connect</title>
+        <year>2000</year>
+        <authors>jim martin,arne a. nilsson,injong rhee</authors>
+        <jconf>sigmetrics</jconf>
+        <id>2271</id>
+        <label>9</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>servic level agreement ip network</title>
+        <year>2002</year>
+        <authors>jim martin,arne a. nilsson</authors>
+        <jconf>infocom</jconf>
+        <id>1607</id>
+        <label>9</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>delai base congest avoid tcp</title>
+        <year>2003</year>
+        <authors>jim martin,arne a. nilsson,injong rhee</authors>
+        <jconf>ieee/acm trans. netw.</jconf>
+        <id>4054</id>
+        <label>9</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>end end congest avoid tcp ip</title>
+        <year>1998</year>
+        <authors>jim martin,arne a. nilsson</authors>
+        <jconf>hpn</jconf>
+        <id>838</id>
+        <label>9</label>
+        <organization>null</organization>
+    </publication>
+</person>

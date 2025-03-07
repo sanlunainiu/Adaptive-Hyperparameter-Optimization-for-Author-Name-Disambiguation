@@ -1,0 +1,4282 @@
+<?xml version="1.0" encoding="utf-8"?>
+<person>
+    <personID>25877694</personID>
+    <FullName>cris chen</FullName>
+    <FirstName>cris</FirstName>
+    <LastName>chen</LastName>
+    <publication>
+        <title>object orient softwar test research develop</title>
+        <year>1998</year>
+        <authors>cris chen,david chenho kung,pei hsia,yasufumi toyoshima,jerry gao</authors>
+        <jconf>hase</jconf>
+        <id>764</id>
+        <label>10</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>chang impact identif object orient softwar mainten</title>
+        <year>1994</year>
+        <authors>cris chen,david chenho kung,jerry gao,pei hsia,f. wen,yasufumi toyoshima</authors>
+        <jconf>icsm</jconf>
+        <id>1492</id>
+        <label>10</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>test strategi object orient program</title>
+        <year>1995</year>
+        <authors>cris chen,david chenho kung,jerry gao,pei hsia,yasufumi toyoshima</authors>
+        <jconf>compsac</jconf>
+        <id>269</id>
+        <label>10</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>develop integr test environ world wide web technolog</title>
+        <year>1997</year>
+        <authors>cris chen,jerry gao,yasufumi toyoshima,david k. leung</authors>
+        <jconf>compsac</jconf>
+        <id>263</id>
+        <label>10</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>object state test object orient program</title>
+        <year>1995</year>
+        <authors>cris chen,jerry z. gao,david chenho kung,pei hsia,yasufumi toyoshima</authors>
+        <jconf>compsac</jconf>
+        <id>264</id>
+        <label>10</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>formal approach scenario analysi</title>
+        <year>1994</year>
+        <authors>cris chen,pei hsia,jayarajan samuel,jerry gao,david chenho kung,yasufumi toyoshima</authors>
+        <jconf>ieee software</jconf>
+        <id>3812</id>
+        <label>10</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>regress test object orient program</title>
+        <year>1996</year>
+        <authors>chris chen,david chenho kung,jerry gao,pei hsia,yasufumi toyoshima</authors>
+        <jconf>journal of systems and software</jconf>
+        <id>3535</id>
+        <label>10</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>develop object orient softwar test mainten environ</title>
+        <year>1995</year>
+        <authors>chris chen,david chenho kung,jerry gao,pei hsia,yasufumi toyoshima,young-si kim,young-kee song</authors>
+        <jconf>commun. acm</jconf>
+        <id>2778</id>
+        <label>10</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>engin internet global softwar product</title>
+        <year>1999</year>
+        <authors>chris chen,jerry gao,yasufumi toyoshima,david k. leung</authors>
+        <jconf>ieee computer</jconf>
+        <id>2907</id>
+        <label>10</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>optim power ground network wire size space base sequenti network simplex algorithm</title>
+        <year>2002</year>
+        <authors>charlie chung-ping chen,ting-yuan wang</authors>
+        <jconf>isqed</jconf>
+        <id>1769</id>
+        <label>11</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>thermal adi linear time chip level dynam thermal simul algorithm base altern direct implicit adi method</title>
+        <year>2001</year>
+        <authors>charlie chung-ping chen,ting-yuan wang</authors>
+        <jconf>ispd</jconf>
+        <id>1766</id>
+        <label>11</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>thermal adi linear time chip level dynam thermal simul algorithm base altern direct implicit adi method</title>
+        <year>2003</year>
+        <authors>charlie chung-ping chen,ting-yuan wang</authors>
+        <jconf>ieee trans. vlsi syst.</jconf>
+        <id>4137</id>
+        <label>11</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>thermal power integr base power ground network optim</title>
+        <year>2004</year>
+        <authors>charlie chung-ping chen,ting-yuan wang,jeng-liang tsai</authors>
+        <jconf>date</jconf>
+        <id>438</id>
+        <label>11</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>inductwis induct wise interconnect simul extractor</title>
+        <year>2003</year>
+        <authors>charlie chung-ping chen,tsung-hao chen,clement luk</authors>
+        <jconf>ieee trans. on cad of integrated circuits and systems</jconf>
+        <id>3920</id>
+        <label>11</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>inductwis induct wise interconnect simul extractor</title>
+        <year>2002</year>
+        <authors>charlie chung-ping chen,tsung-hao chen,clement luk,hyungsuk kim</authors>
+        <jconf>iccad</jconf>
+        <id>919</id>
+        <label>11</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>nois awar repeat insert wire size chip interconnect hierarch moment match</title>
+        <year>1999</year>
+        <authors>chung-ping chen,noel menezes</authors>
+        <jconf>dac</jconf>
+        <id>370</id>
+        <label>11</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>optim uniform wire size elmor delai model</title>
+        <year>1996</year>
+        <authors>chung-ping chen,hai zhou,d. f. wong</authors>
+        <jconf>iccad</jconf>
+        <id>925</id>
+        <label>11</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>suprem substrat power deliveri reluct enhanc macromodel evalu</title>
+        <year>2003</year>
+        <authors>charlie chung-ping chen,tsung-hao chen,clement luk</authors>
+        <jconf>iccad</jconf>
+        <id>918</id>
+        <label>11</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>futur soc design challeng solut invit</title>
+        <year>2002</year>
+        <authors>charlie chung-ping chen,ed cheng</authors>
+        <jconf>isqed</jconf>
+        <id>1768</id>
+        <label>11</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>linear time hierarch capacit extract multipol expans</title>
+        <year>2001</year>
+        <authors>charlie chung-ping chen,saisanthosh balakrishnan,jong hyuk park,hyungsuk kim,yu-min lee</authors>
+        <jconf>iccd</jconf>
+        <id>946</id>
+        <label>11</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>hiprim hierarch passiv reserv interconnect macromodel engin rlkc power deliveri</title>
+        <year>2002</year>
+        <authors>charlie chung-ping chen,yahong cao,yu-min lee,tsung-hao chen</authors>
+        <jconf>dac</jconf>
+        <id>357</id>
+        <label>11</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>effici larg scale power grid analysi base precondit krylov subspac iter method</title>
+        <year>2001</year>
+        <authors>charlie chung-ping chen,tsung-hao chen</authors>
+        <jconf>dac</jconf>
+        <id>361</id>
+        <label>11</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>fast exact simultan gate wire size lagrangian relax</title>
+        <year>1998</year>
+        <authors>chung-ping chen,chris c. n. chu,d. f. wong</authors>
+        <jconf>iccad</jconf>
+        <id>914</id>
+        <label>11</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>rc rc model order reduct accur order moment</title>
+        <year>2001</year>
+        <authors>charlie chung-ping chen,pradeepsunder ganesh</authors>
+        <jconf>iccd</jconf>
+        <id>957</id>
+        <label>11</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>fast exact simultan gate wire size lagrangian relax</title>
+        <year>1999</year>
+        <authors>chung-ping chen,chris c. n. chu,martin d. f. wong</authors>
+        <jconf>ieee trans. on cad of integrated circuits and systems</jconf>
+        <id>3919</id>
+        <label>11</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>fast perform driven optim buffer clock tree base lagrangian relax</title>
+        <year>1996</year>
+        <authors>chung-ping chen,yao-wen chang,d. f. wong</authors>
+        <jconf>dac</jconf>
+        <id>362</id>
+        <label>11</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>realiz reduct electromagnet coupl rlmc interconnect</title>
+        <year>2004</year>
+        <authors>charlie chung-ping chen,rong jiang</authors>
+        <jconf>date</jconf>
+        <id>432</id>
+        <label>11</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>hiprim hierarch passiv reserv interconnect macromodel engin rlkc power deliveri</title>
+        <year>2002</year>
+        <authors>charlie chung-ping chen,yahong cao,yu-min lee,tsung-hao chen</authors>
+        <jconf>dac</jconf>
+        <id>357</id>
+        <label>11</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>score spice compat reluct extract</title>
+        <year>2004</year>
+        <authors>charlie chung-ping chen,rong jiang</authors>
+        <jconf>date</jconf>
+        <id>431</id>
+        <label>11</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>linear time hierarch capacit extract multipol expans</title>
+        <year>2001</year>
+        <authors>charlie chung-ping chen,saisanthosh balakrishnan,jong hyuk park,hyungsuk kim,yu-min lee</authors>
+        <jconf>iccd</jconf>
+        <id>946</id>
+        <label>11</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>power grid transient simul linear time base transmiss line model altern direct implicit method</title>
+        <year>2001</year>
+        <authors>charlie chung-ping chen,yu-min lee</authors>
+        <jconf>iccad</jconf>
+        <id>932</id>
+        <label>11</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>power grid transient simul linear time base transmiss line model altern direct implicit method</title>
+        <year>2002</year>
+        <authors>charlie chung-ping chen,yu-min lee</authors>
+        <jconf>ieee trans. on cad of integrated circuits and systems</jconf>
+        <id>3921</id>
+        <label>11</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>optim space capacit pad gener clock structur</title>
+        <year>2001</year>
+        <authors>charlie chung-ping chen,yu-min lee,hing yin lai</authors>
+        <jconf>asp-dac</jconf>
+        <id>105</id>
+        <label>11</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>power grid transient simul linear time base d altern direct implicit method</title>
+        <year>2003</year>
+        <authors>charlie chung-ping chen,yu-min lee</authors>
+        <jconf>date</jconf>
+        <id>433</id>
+        <label>11</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>power grid transient simul linear time base d altern direct implicit method</title>
+        <year>2003</year>
+        <authors>charlie chung-ping chen,yu-min lee</authors>
+        <jconf>ieee trans. on cad of integrated circuits and systems</jconf>
+        <id>3922</id>
+        <label>11</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>spec base repeat insert wire size chip interconnect</title>
+        <year>1999</year>
+        <authors>chung-ping chen,noel menezes</authors>
+        <jconf>vlsi design</jconf>
+        <id>2554</id>
+        <label>11</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>gener fdtd adi uncondition stabl full wave maxwel s equat solver vlsi interconnect model</title>
+        <year>2000</year>
+        <authors>charlie chung-ping chen,tae-woo lee,narayanan murugesan,susan c. hagness</authors>
+        <jconf>iccad</jconf>
+        <id>920</id>
+        <label>11</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>model d thermal adi linear time chip level transient thermal simul</title>
+        <year>2002</year>
+        <authors>charlie chung-ping chen,ting-yuan wang</authors>
+        <jconf>ieee trans. on cad of integrated circuits and systems</jconf>
+        <id>3925</id>
+        <label>11</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>d thermal adi effici chip level transient thermal simul</title>
+        <year>2003</year>
+        <authors>charlie chung-ping chen,ting-yuan wang,yu-min lee</authors>
+        <jconf>ispd</jconf>
+        <id>1767</id>
+        <label>11</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>systemat approach design plan mechan assembl</title>
+        <year>1993</year>
+        <authors>c. l. philip chen,c. a. wichman</authors>
+        <jconf>ai edam</jconf>
+        <id>2689</id>
+        <label>12</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>task assign load balanc autonom vehicl flexibl manufactur system</title>
+        <year>1987</year>
+        <authors>chun-erh chen,c. s. george lee,clare d. mcgillem</authors>
+        <jconf>ieee j. robotics and automation</jconf>
+        <id>4099</id>
+        <label>12</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>cluster number select small set sampl bayesian ying yang model</title>
+        <year>2002</year>
+        <authors>c. l. philip chen,ping guo,michael r. lyu</authors>
+        <jconf>ieee trans. neural networks</jconf>
+        <id>4011</id>
+        <label>12</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>featur sequenc rapid design system genet algorithm</title>
+        <year>1996</year>
+        <authors>c. l. philip chen,hilmi n. kamhawi,steven r. leclair</authors>
+        <jconf>j. intelligent manufacturing</jconf>
+        <id>3450</id>
+        <label>12</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>genet learn algorithm gener parsimoni function link network</title>
+        <year>2003</year>
+        <authors>c. l. philip chen,chandrakumar bhumireddy</authors>
+        <jconf>neural networks and computational intelligence</jconf>
+        <id>1968</id>
+        <label>12</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>fuzz fuzzi base concept format system integr human categor numer cluster</title>
+        <year>1997</year>
+        <authors>c. l. philip chen,y. lu</authors>
+        <jconf>ieee trans. systems, man, and cybernetics, part b</jconf>
+        <id>4114</id>
+        <label>12</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>increment adapt implement function link process function approxim time seri predict system identif</title>
+        <year>1998</year>
+        <authors>c. l. philip chen,steven r. leclair,yoh-han pao</authors>
+        <jconf>neurocomputing</jconf>
+        <id>3178</id>
+        <label>12</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>integr design manufactur solv setup gener featur sequenc unsupervis learn approach</title>
+        <year>1994</year>
+        <authors>c. l. philip chen,steven r. leclair</authors>
+        <jconf>computer-aided design</jconf>
+        <id>2795</id>
+        <label>12</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>effici map algorithm schedul robot invers dynam comput multiprocessor system</title>
+        <year>1990</year>
+        <authors>c. l. philip chen,c. s. george lee</authors>
+        <jconf>ieee trans. systems, man, and cybernetics</jconf>
+        <id>4118</id>
+        <label>12</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>regular paramet estim feedforward neural network</title>
+        <year>2003</year>
+        <authors>c. l. philip chen,ping guo,michael r. lyu</authors>
+        <jconf>ieee trans. systems, man, and cybernetics, part b</jconf>
+        <id>4117</id>
+        <label>12</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>extract rule aggreg feedforward neural network</title>
+        <year>2002</year>
+        <authors>c. l. philip chen,vincent a. schmidt</authors>
+        <jconf>ic-ai</jconf>
+        <id>871</id>
+        <label>12</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>optim distribut call admiss control adapt multimedia wireless mobil network</title>
+        <year>2000</year>
+        <authors>c. l. philip chen,yang xiao,yan wang</authors>
+        <jconf>mascots</jconf>
+        <id>1891</id>
+        <label>12</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>qo adapt multimedia wireless mobil network</title>
+        <year>2001</year>
+        <authors>c. l. philip chen,yang xiao</authors>
+        <jconf>mascots</jconf>
+        <id>1890</id>
+        <label>12</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>integr neural network rule base system design plan mechan assembl</title>
+        <year>1993</year>
+        <authors>c. l. philip chen,yoh-han pao</authors>
+        <jconf>ieee trans. systems, man, and cybernetics</jconf>
+        <id>4115</id>
+        <label>12</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>freehand draw system fuzzi logic concept</title>
+        <year>1996</year>
+        <authors>c. l. philip chen,sen xie</authors>
+        <jconf>computer-aided design</jconf>
+        <id>2799</id>
+        <label>12</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>rapid supervis learn neural network function interpol approxim</title>
+        <year>1996</year>
+        <authors>c. l. philip chen</authors>
+        <jconf>ieee trans. neural networks</jconf>
+        <id>4010</id>
+        <label>12</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>effici algorithm reconstruct d object orthograph project</title>
+        <year>1994</year>
+        <authors>c. l. philip chen,qing-wen yan,zesheng tang</authors>
+        <jconf>computer-aided design</jconf>
+        <id>2809</id>
+        <label>12</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>necessari condit graph visibl graph simpl polygon</title>
+        <year>2002</year>
+        <authors>chiuyuan chen</authors>
+        <jconf>theor. comput. sci.</jconf>
+        <id>3927</id>
+        <label>13</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>ani maxim planar graph onli separ triangl hamiltonian</title>
+        <year>2003</year>
+        <authors>chiuyuan chen</authors>
+        <jconf>j. comb. optim.</jconf>
+        <id>3408</id>
+        <label>13</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>simpl algorithm find step doubl loop network</title>
+        <year>2002</year>
+        <authors>chiuyuan chen,robin chi-feng chan,zhi-xin hong</authors>
+        <jconf>discrete applied mathematics</jconf>
+        <id>2947</id>
+        <label>13</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>connect proper interv graph guard problem spiral polygon</title>
+        <year>1995</year>
+        <authors>chiuyuan chen,chin-chen chang</authors>
+        <jconf>combinatorics and computer science</jconf>
+        <id>245</id>
+        <label>13</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>minim polygon triangualt</title>
+        <year>1990</year>
+        <authors>chiuyuan chen,ruei-chuan chang</authors>
+        <jconf>bit</jconf>
+        <id>2762</id>
+        <label>13</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>disprov conjectur planar visibl graph</title>
+        <year>2001</year>
+        <authors>chiuyuan chen,kaiping wu</authors>
+        <jconf>theor. comput. sci.</jconf>
+        <id>3930</id>
+        <label>13</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>equival l shape doubl loop network degener case</title>
+        <year>2000</year>
+        <authors>chiuyuan chen,frank k. hwang</authors>
+        <jconf>journal of interconnection networks</jconf>
+        <id>3473</id>
+        <label>13</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>necessari condit graph visibl graph simpl polygon</title>
+        <year>2002</year>
+        <authors>chiuyuan chen</authors>
+        <jconf>theor. comput. sci.</jconf>
+        <id>3927</id>
+        <label>13</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>proper interv graph guard problem</title>
+        <year>1997</year>
+        <authors>chiuyuan chen,chin-chen chang,gerard j. chang</authors>
+        <jconf>discrete mathematics</jconf>
+        <id>2991</id>
+        <label>13</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>minimum distanc diagram doubl loop network</title>
+        <year>2000</year>
+        <authors>chiuyuan chen,frank k. hwang</authors>
+        <jconf>ieee trans. computers</jconf>
+        <id>3853</id>
+        <label>13</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>exist hyper l tripl loop network</title>
+        <year>2003</year>
+        <authors>chiuyuan chen,frank k. hwang,j. s. lee,s. j. shih</authors>
+        <jconf>discrete mathematics</jconf>
+        <id>2992</id>
+        <label>13</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>equival l shape doubl loop network degener case</title>
+        <year>2000</year>
+        <authors>chiuyuan chen,frank k. hwang</authors>
+        <jconf>journal of interconnection networks</jconf>
+        <id>3473</id>
+        <label>13</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>supermodular variou partit problem</title>
+        <year>2000</year>
+        <authors>chiuyuan chen,frank k. hwang,m. m. liao</authors>
+        <jconf>j. global optimization</jconf>
+        <id>3442</id>
+        <label>13</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>minimum distanc diagram doubl loop network</title>
+        <year>2000</year>
+        <authors>chiuyuan chen,frank k. hwang</authors>
+        <jconf>ieee trans. computers</jconf>
+        <id>3853</id>
+        <label>13</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>planar visibl graph</title>
+        <year>1994</year>
+        <authors>chiuyuan chen,shiou-yi lin</authors>
+        <jconf>cccg</jconf>
+        <id>181</id>
+        <label>13</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>disprov conjectur planar visibl graph</title>
+        <year>2001</year>
+        <authors>chiuyuan chen,kaiping wu</authors>
+        <jconf>theor. comput. sci.</jconf>
+        <id>3930</id>
+        <label>13</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>detect corner polygon polyhedr object</title>
+        <year>1993</year>
+        <authors>chin-hsing chen,jinn-kwei guo,rein-lien hsu,yung-nien sun</authors>
+        <jconf>caip</jconf>
+        <id>165</id>
+        <label>14</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>multi polyhedron reconstruct view system relax</title>
+        <year>1999</year>
+        <authors>chin-hsing chen,jinn-kwei guo,jiann-der lee</authors>
+        <jconf>signal processing</jconf>
+        <id>3804</id>
+        <label>14</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>scheme id base cryptosystem signatur</title>
+        <year>1989</year>
+        <authors>chin-hsing chen,chi-sung laih,jau-yien lee,lein harn</authors>
+        <jconf>infocom</jconf>
+        <id>1598</id>
+        <label>14</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>determin locat orient label cylind point pair estim algorithm</title>
+        <year>1994</year>
+        <authors>chin-hsing chen,jiann-der lee,jau-yien lee,yuan-chiuan you</authors>
+        <jconf>ijprai</jconf>
+        <id>3210</id>
+        <label>14</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>data depend analysi bit level systol arrai median filter</title>
+        <year>1998</year>
+        <authors>chin-hsing chen,dyi-long yang</authors>
+        <jconf>ieee trans. circuits syst. video techn.</jconf>
+        <id>3949</id>
+        <label>14</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>filter d cerebr vessel reconstruct angiogram</title>
+        <year>1993</year>
+        <authors>chin-hsing chen,chun-han chen,yen-ching yu,jinn-kwei guo,yung-nien sun,c. i. yu</authors>
+        <jconf>caip</jconf>
+        <id>164</id>
+        <label>14</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>robust multipl watermark scheme imag dwt dct spread spectrum</title>
+        <year>2002</year>
+        <authors>chin-hsing chen,wen-yuan chen,jzau-sheng lin</authors>
+        <jconf>jcis</jconf>
+        <id>1839</id>
+        <label>14</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>spread neural network fuzzi cluster techniqu appli color imag code mdt domain</title>
+        <year>2002</year>
+        <authors>chin-hsing chen,chi-yuan lin,ruey-maw chen</authors>
+        <jconf>icpads</jconf>
+        <id>1277</id>
+        <label>14</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>textur classif separ dimension wavelet</title>
+        <year>1998</year>
+        <authors>chin-hsing chen,jing-wein wang,wei-ming chien,chih-ming tsai</authors>
+        <jconf>pattern recognition letters</jconf>
+        <id>3723</id>
+        <label>14</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>occlud object recognit multiscal featur hopfield neural network</title>
+        <year>1995</year>
+        <authors>chin-hsing chen,jiann-shu lee,yung-nien sun,guan-shu tseng</authors>
+        <jconf>iciap</jconf>
+        <id>1109</id>
+        <label>14</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>posteriori squar orthogon subspac project approach desir signatur extract detect</title>
+        <year>1997</year>
+        <authors>chin-hsing chen,te-ming tu,chein-i chang</authors>
+        <jconf>ieee trans. geoscience and remote sensing</jconf>
+        <id>3955</id>
+        <label>14</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>unifi deriv oper matric integr system analysi</title>
+        <year>2000</year>
+        <authors>chin-hsing chen,jiunn-lin wu,chih-fan chen</authors>
+        <jconf>itcc</jconf>
+        <id>1794</id>
+        <label>14</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>robust multipl watermark scheme imag dwt dct spread spectrum</title>
+        <year>2002</year>
+        <authors>chin-hsing chen,wen-yuan chen,jzau-sheng lin</authors>
+        <jconf>jcis</jconf>
+        <id>1839</id>
+        <label>14</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>surfac measur probabilist structur comput</title>
+        <year>1998</year>
+        <authors>cheng che chen,jeanette p. schmidt,jonathan l. cooper,russ b. altman</authors>
+        <jconf>ismb</jconf>
+        <id>1746</id>
+        <label>15</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>parallel protein structur determin uncertain data</title>
+        <year>1994</year>
+        <authors>cheng che chen,jaswinder pal singh,william b. poland,russ b. altman</authors>
+        <jconf>sc</jconf>
+        <id>2203</id>
+        <label>15</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>biomolecular structur estim case studi irregular hierarch parallel</title>
+        <year>1999</year>
+        <authors>cheng che chen,jaswinder pal singh,russ b. altman</authors>
+        <jconf>ppsc</jconf>
+        <id>2124</id>
+        <label>15</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>hierarch organ molecular structur comput</title>
+        <year>1998</year>
+        <authors>cheng che chen,jaswinder pal singh,russ b. altman</authors>
+        <jconf>recomb</jconf>
+        <id>2164</id>
+        <label>15</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>hierarch organ molecular structur comput</title>
+        <year>1998</year>
+        <authors>cheng che chen,jaswinder pal singh,russ b. altman</authors>
+        <jconf>journal of computational biology</jconf>
+        <id>3379</id>
+        <label>15</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>constrain volum match moment distanc distribut</title>
+        <year>1996</year>
+        <authors>cheng che chen,richard o. chen,russ b. altman</authors>
+        <jconf>computer applications in the biosciences</jconf>
+        <id>2746</id>
+        <label>15</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>imperfect secondari structur predict improv molecular structur comput</title>
+        <year>1999</year>
+        <authors>cheng che chen,jaswinder pal singh,russ b. altman</authors>
+        <jconf>bioinformatics</jconf>
+        <id>2748</id>
+        <label>15</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>probabilist constraint satisfact gaussian nois</title>
+        <year>1994</year>
+        <authors>cheng che chen,russ b. altman,william b. poland,jaswinder pal singh</authors>
+        <jconf>uai</jconf>
+        <id>2469</id>
+        <label>15</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>pose estim gener imag devic solv perspect n point problem</title>
+        <year>2002</year>
+        <authors>chu-song chen,wen-yan chang</authors>
+        <jconf>icra</jconf>
+        <id>1393</id>
+        <label>16</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>compress d object multistag color depth panoram map</title>
+        <year>2002</year>
+        <authors>chu-song chen,chang-ming tsai,wen-yan chang,gregory y. tang</authors>
+        <jconf>dcc</jconf>
+        <id>457</id>
+        <label>16</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>fast robust approach registr partial overlap rang imag</title>
+        <year>1998</year>
+        <authors>chu-song chen,yi-ping hung,jen-bo cheng</authors>
+        <jconf>iccv</jconf>
+        <id>983</id>
+        <label>16</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>calibr free approach augment realiti base parameter cuboid structur</title>
+        <year>1999</year>
+        <authors>chu-song chen,chi-kuo yu,yi-ping hung</authors>
+        <jconf>iccv</jconf>
+        <id>985</id>
+        <label>16</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>integr virtual object real imag augment realiti</title>
+        <year>1998</year>
+        <authors>chu-song chen,yi-ping hung,sheng-wen shih,chen-chiung hsieh,chen-yuan tang,chih-guo yu,you-chung cheng</authors>
+        <jconf>vrst</jconf>
+        <id>2565</id>
+        <label>16</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>multipass hierarch stereo match gener digit terrain model aerial imag</title>
+        <year>1998</year>
+        <authors>chu-song chen,yi-ping hung,kuan-chung hung,yong-sheng chen,chiou-shann fuh</authors>
+        <jconf>mach. vis. appl.</jconf>
+        <id>3593</id>
+        <label>16</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>augment panorama object movi gener view dispar base view morph</title>
+        <year>2002</year>
+        <authors>chu-song chen,yi-ping hung,yu-pao tsai,szu-wei lin</authors>
+        <jconf>journal of visualization and computer animation</jconf>
+        <id>3545</id>
+        <label>16</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>ransac base darc approach fast automat registr partial overlap rang imag</title>
+        <year>1999</year>
+        <authors>chu-song chen,yi-ping hung,jen-bo cheng</authors>
+        <jconf>ieee trans. pattern anal. mach. intell.</jconf>
+        <id>3639</id>
+        <label>16</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>cach protocol error detect recoveri fault toler comput system</title>
+        <year>1994</year>
+        <authors>chung-ho chen,arun k. somani</authors>
+        <jconf>ftcs</jconf>
+        <id>712</id>
+        <label>17</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>effect cach traffic share bu multiprocessor system</title>
+        <year>1992</year>
+        <authors>chung-ho chen,arun k. somani</authors>
+        <jconf>icpp (1)</jconf>
+        <id>1306</id>
+        <label>17</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>proteu system architectur organ</title>
+        <year>1991</year>
+        <authors>chung-ho chen,arun k. somani,craig m. wittenbrink,robert m. haralick,linda g. shapiro,jenq-neng hwang,robert johnson,kenneth cooper</authors>
+        <jconf>ipps</jconf>
+        <id>1652</id>
+        <label>17</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>unifi architectur tradeoff methodolog</title>
+        <year>1994</year>
+        <authors>chung-ho chen,arun k. somani</authors>
+        <jconf>isca</jconf>
+        <id>1680</id>
+        <label>17</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>algebra model arithmet code</title>
+        <year>1982</year>
+        <authors>chung-ho chen</authors>
+        <jconf>ieee trans. computers</jconf>
+        <id>3845</id>
+        <label>17</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>easi approach practic bu base system design</title>
+        <year>1999</year>
+        <authors>chung-ho chen,feng-fu lin</authors>
+        <jconf>ieee trans. computers</jconf>
+        <id>3856</id>
+        <label>17</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>architectur techniqu trade memori delai time</title>
+        <year>1996</year>
+        <authors>chung-ho chen,arun k. somani</authors>
+        <jconf>ieee trans. computers</jconf>
+        <id>3858</id>
+        <label>17</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>fault cach memori tmr redund processor system</title>
+        <year>1999</year>
+        <authors>chung-ho chen,arun k. somani</authors>
+        <jconf>ieee trans. computers</jconf>
+        <id>3859</id>
+        <label>17</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>effect algorithm gate level power delai tradeoff voltag</title>
+        <year>1999</year>
+        <authors>chunhong chen,majid sarrafzadeh</authors>
+        <jconf>iccd</jconf>
+        <id>949</id>
+        <label>18</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>potenti slack effect metric combin circuit perform</title>
+        <year>2000</year>
+        <authors>chunhong chen,xiaojian yang,majid sarrafzadeh</authors>
+        <jconf>iccad</jconf>
+        <id>924</id>
+        <label>18</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>provabl good algorithm low power consumpt dual suppli voltag</title>
+        <year>1999</year>
+        <authors>chunhong chen,majid sarrafzadeh</authors>
+        <jconf>iccad</jconf>
+        <id>922</id>
+        <label>18</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>budget manag applic</title>
+        <year>2002</year>
+        <authors>chunhong chen,elaheh bozorgzadeh,ankur srivastava,majid sarrafzadeh</authors>
+        <jconf>algorithmica</jconf>
+        <id>2705</id>
+        <label>18</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>power manag schedul techniqu control domin high level synthesi</title>
+        <year>2002</year>
+        <authors>chunhong chen,majid sarrafzadeh</authors>
+        <jconf>date</jconf>
+        <id>429</id>
+        <label>18</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>physic design multipl chip voltag</title>
+        <year>2002</year>
+        <authors>chunhong chen</authors>
+        <jconf>ispd</jconf>
+        <id>1764</id>
+        <label>18</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>probabilist analysi rectilinear steiner tree</title>
+        <year>2002</year>
+        <authors>chunhong chen</authors>
+        <jconf>vlsi design</jconf>
+        <id>2552</id>
+        <label>18</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>fast exact simultan gate wire size lagrangian relax</title>
+        <year>1998</year>
+        <authors>chung-ping chen,chris c. n. chu,d. f. wong</authors>
+        <jconf>iccad</jconf>
+        <id>914</id>
+        <label>19</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>nois awar repeat insert wire size chip interconnect hierarch moment match</title>
+        <year>1999</year>
+        <authors>chung-ping chen,noel menezes</authors>
+        <jconf>dac</jconf>
+        <id>370</id>
+        <label>19</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>fast perform driven optim buffer clock tree base lagrangian relax</title>
+        <year>1996</year>
+        <authors>chung-ping chen,yao-wen chang,d. f. wong</authors>
+        <jconf>dac</jconf>
+        <id>362</id>
+        <label>19</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>optim uniform wire size elmor delai model</title>
+        <year>1996</year>
+        <authors>chung-ping chen,hai zhou,d. f. wong</authors>
+        <jconf>iccad</jconf>
+        <id>925</id>
+        <label>19</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>optim wire size function fring capacit</title>
+        <year>1997</year>
+        <authors>chung-ping chen,d. f. wong</authors>
+        <jconf>dac</jconf>
+        <id>371</id>
+        <label>19</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>optim wire size formular elmor delai model</title>
+        <year>1996</year>
+        <authors>chung-ping chen,yao-ping chen,d. f. wong</authors>
+        <jconf>dac</jconf>
+        <id>363</id>
+        <label>19</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>fast perform driven optim buffer clock tree base lagrangian relax</title>
+        <year>1996</year>
+        <authors>chung-ping chen,yao-wen chang,d. f. wong</authors>
+        <jconf>dac</jconf>
+        <id>362</id>
+        <label>19</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>nois awar repeat insert wire size chip interconnect hierarch moment match</title>
+        <year>1999</year>
+        <authors>chung-ping chen,noel menezes</authors>
+        <jconf>dac</jconf>
+        <id>370</id>
+        <label>19</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>optim uniform wire size elmor delai model</title>
+        <year>1996</year>
+        <authors>chung-ping chen,hai zhou,d. f. wong</authors>
+        <jconf>iccad</jconf>
+        <id>925</id>
+        <label>19</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>spec base repeat insert wire size chip interconnect</title>
+        <year>1999</year>
+        <authors>chung-ping chen,noel menezes</authors>
+        <jconf>vlsi design</jconf>
+        <id>2554</id>
+        <label>19</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>workshop visual interfac digit librari past present futur</title>
+        <year>2001</year>
+        <authors>chaomei chen,katy borner</authors>
+        <jconf>jcdl</jconf>
+        <id>1824</id>
+        <label>1</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>top ten problem visual interfac digit librari</title>
+        <year>2002</year>
+        <authors>chaomei chen,katy borner</authors>
+        <jconf>visual interfaces to digital libraries</jconf>
+        <id>1830</id>
+        <label>1</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>individu differ virtual environ introduct overview</title>
+        <year>2000</year>
+        <authors>chaomei chen,mary czerwinski,robert d. macredie</authors>
+        <jconf>jasis</jconf>
+        <id>3364</id>
+        <label>1</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>visual evolut subject domain case studi</title>
+        <year>1999</year>
+        <authors>chaomei chen,les carr</authors>
+        <jconf>ieee visualization</jconf>
+        <id>2504</id>
+        <label>1</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>spatial abil visual navig empir studi</title>
+        <year>1997</year>
+        <authors>chaomei chen,mary czerwinski</authors>
+        <jconf>the new review of hypermedia and multimedia</jconf>
+        <id>3633</id>
+        <label>1</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>semant centric approach inform visual</title>
+        <year>1999</year>
+        <authors>chaomei chen,les carr</authors>
+        <jconf>iv</jconf>
+        <id>1803</id>
+        <label>1</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>integr spatial semant social structur knowledg manag</title>
+        <year>1999</year>
+        <authors>chaomei chen,john davies</authors>
+        <jconf>hicss</jconf>
+        <id>771</id>
+        <label>1</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>spatial semant virtual world structur dualiti</title>
+        <year>1999</year>
+        <authors>chaomei chen,mike forsyth</authors>
+        <jconf>webnet</jconf>
+        <id>2587</id>
+        <label>1</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>content base imag visual</title>
+        <year>2000</year>
+        <authors>chaomei chen,george gagaudakis,paul l. rosin</authors>
+        <jconf>iv</jconf>
+        <id>1804</id>
+        <label>1</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>cbir pathfind network imag databas visual</title>
+        <year>2000</year>
+        <authors>chaomei chen,george gagaudakis,paul l. rosin</authors>
+        <jconf>icpr</jconf>
+        <id>1370</id>
+        <label>1</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>trailblaz literatur hypertext author citat analysi</title>
+        <year>1999</year>
+        <authors>chaomei chen,les carr</authors>
+        <jconf>hypertext</jconf>
+        <id>844</id>
+        <label>1</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>bridg gap pathfind network visual navig</title>
+        <year>1998</year>
+        <authors>chaomei chen</authors>
+        <jconf>j. vis. lang. comput.</jconf>
+        <id>4144</id>
+        <label>1</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>generalis similar analysi pathfind network scale</title>
+        <year>1998</year>
+        <authors>chaomei chen</authors>
+        <jconf>interacting with computers</jconf>
+        <id>3329</id>
+        <label>1</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>univers depart interweav web studi connect underli factor</title>
+        <year>1998</year>
+        <authors>chaomei chen,julian newman,rhona newman,roy rada</authors>
+        <jconf>interacting with computers</jconf>
+        <id>3330</id>
+        <label>1</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>visual knowledg domain s intellectu structur</title>
+        <year>2001</year>
+        <authors>chaomei chen,ray j. paul</authors>
+        <jconf>ieee computer</jconf>
+        <id>2903</id>
+        <label>1</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>footprint inform forag behaviour semant visual explor</title>
+        <year>2002</year>
+        <authors>chaomei chen,timothy cribbin,jasna kuljis,robert d. macredie</authors>
+        <jconf>int. j. hum.-comput. stud.</jconf>
+        <id>3158</id>
+        <label>1</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>visual evolut subject domain case studi</title>
+        <year>1999</year>
+        <authors>chaomei chen,les carr</authors>
+        <jconf>ieee visualization</jconf>
+        <id>2504</id>
+        <label>1</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>rise landscap visual explor superstr revolut physic</title>
+        <year>2003</year>
+        <authors>chaomei chen,jasna kuljis</authors>
+        <jconf>jasist</jconf>
+        <id>3367</id>
+        <label>1</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>semant modifi diffus limit aggreg visual larg scale network</title>
+        <year>2003</year>
+        <authors>chaomei chen,natasha lobo</authors>
+        <jconf>iv</jconf>
+        <id>1805</id>
+        <label>1</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>visual track growth compet paradigm case studi</title>
+        <year>2002</year>
+        <authors>chaomei chen,timothy cribbin,robert d. macredie,sonali morar</authors>
+        <jconf>jasist</jconf>
+        <id>3365</id>
+        <label>1</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>univers depart interweav web studi connect underli factor</title>
+        <year>1998</year>
+        <authors>chaomei chen,julian newman,rhona newman,roy rada</authors>
+        <jconf>interacting with computers</jconf>
+        <id>3330</id>
+        <label>1</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>fit jigsaw citat inform visual domain analysi</title>
+        <year>2001</year>
+        <authors>chaomei chen,ray j. paul,robert m. o'keefe</authors>
+        <jconf>jasist</jconf>
+        <id>3369</id>
+        <label>1</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>visual knowledg domain s intellectu structur</title>
+        <year>2001</year>
+        <authors>chaomei chen,ray j. paul</authors>
+        <jconf>ieee computer</jconf>
+        <id>2903</id>
+        <label>1</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>visualis semant space author citat network digit librari</title>
+        <year>1999</year>
+        <authors>chaomei chen</authors>
+        <jconf>inf. process. manage.</jconf>
+        <id>3279</id>
+        <label>1</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>individu differ virtual environ introduct overview</title>
+        <year>2000</year>
+        <authors>chaomei chen,mary czerwinski,robert d. macredie</authors>
+        <jconf>jasis</jconf>
+        <id>3364</id>
+        <label>1</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>integr spatial semant social structur knowledg manag</title>
+        <year>1999</year>
+        <authors>chaomei chen,john davies</authors>
+        <jconf>hicss</jconf>
+        <id>771</id>
+        <label>1</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>human factor usabl issu introduct</title>
+        <year>1999</year>
+        <authors>chaomei chen,lynn wilcox</authors>
+        <jconf>hicss</jconf>
+        <id>773</id>
+        <label>1</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>repres semant virtual space</title>
+        <year>1999</year>
+        <authors>chaomei chen,linda thomas,janet cole,chiladda chennawasin</authors>
+        <jconf>ieee multimedia</jconf>
+        <id>3106</id>
+        <label>1</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>empir studi inform visual meta analysi</title>
+        <year>2000</year>
+        <authors>chaomei chen,yue yu</authors>
+        <jconf>int. j. hum.-comput. stud.</jconf>
+        <id>3160</id>
+        <label>1</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>extend fishey view browser collabor write</title>
+        <year>1994</year>
+        <authors>chaomei chen,roy rada,akmal jahan zeb</authors>
+        <jconf>int. j. hum.-comput. stud.</jconf>
+        <id>3159</id>
+        <label>1</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>behaviour pattern collabor write hypertext state transit approach</title>
+        <year>1996</year>
+        <authors>chaomei chen</authors>
+        <jconf>bcs hci</jconf>
+        <id>140</id>
+        <label>1</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>bridg gap pathfind network visual navig</title>
+        <year>1998</year>
+        <authors>chaomei chen</authors>
+        <jconf>j. vis. lang. comput.</jconf>
+        <id>4144</id>
+        <label>1</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>domain visual digit librari</title>
+        <year>2000</year>
+        <authors>chaomei chen</authors>
+        <jconf>iv</jconf>
+        <id>1802</id>
+        <label>1</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>generalis similar analysi pathfind network scale</title>
+        <year>1998</year>
+        <authors>chaomei chen</authors>
+        <jconf>interacting with computers</jconf>
+        <id>3329</id>
+        <label>1</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>visualis inform mosaic perspect</title>
+        <year>2000</year>
+        <authors>chaomei chen</authors>
+        <jconf>visual</jconf>
+        <id>2500</id>
+        <label>1</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>visualis semant space author citat network digit librari</title>
+        <year>1999</year>
+        <authors>chaomei chen</authors>
+        <jconf>inf. process. manage.</jconf>
+        <id>3279</id>
+        <label>1</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>inform visual</title>
+        <year>2002</year>
+        <authors>chaomei chen</authors>
+        <jconf>information visualization</jconf>
+        <id>3325</id>
+        <label>1</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>inform visual grow</title>
+        <year>2002</year>
+        <authors>chaomei chen</authors>
+        <jconf>information visualization</jconf>
+        <id>3327</id>
+        <label>1</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>articl thi issu</title>
+        <year>2003</year>
+        <authors>chaomei chen</authors>
+        <jconf>information visualization</jconf>
+        <id>3328</id>
+        <label>1</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>spatial abil visual navig empir studi</title>
+        <year>1997</year>
+        <authors>chaomei chen,mary czerwinski</authors>
+        <jconf>the new review of hypermedia and multimedia</jconf>
+        <id>3633</id>
+        <label>1</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>repres semant virtual space</title>
+        <year>1999</year>
+        <authors>chaomei chen,linda thomas,janet cole,chiladda chennawasin</authors>
+        <jconf>ieee multimedia</jconf>
+        <id>3106</id>
+        <label>1</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>foster social interact share semant space collabor learn</title>
+        <year>1998</year>
+        <authors>chaomei chen,janet cole,linda thomas</authors>
+        <jconf>webnet</jconf>
+        <id>2585</id>
+        <label>1</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>explor cognit issu visual inform retriev</title>
+        <year>2001</year>
+        <authors>chaomei chen,timothy cribbin</authors>
+        <jconf>interact</jconf>
+        <id>1610</id>
+        <label>1</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>latent semant spatial hypertext integr approach</title>
+        <year>1998</year>
+        <authors>chaomei chen,mary czerwinski</authors>
+        <jconf>hypertext</jconf>
+        <id>843</id>
+        <label>1</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>empir evalu inform visual introduct</title>
+        <year>2000</year>
+        <authors>chaomei chen,mary czerwinski</authors>
+        <jconf>int. j. hum.-comput. stud.</jconf>
+        <id>3157</id>
+        <label>1</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>aesthet versu function</title>
+        <year>2002</year>
+        <authors>chaomei chen</authors>
+        <jconf>information visualization</jconf>
+        <id>3326</id>
+        <label>1</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>starwalk virtual environ integr design social navig</title>
+        <year>1999</year>
+        <authors>chaomei chen</authors>
+        <jconf>hci (2)</jconf>
+        <id>767</id>
+        <label>1</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>track latent domain structur integr pathfind latent semant analysi</title>
+        <year>1997</year>
+        <authors>chaomei chen</authors>
+        <jconf>ai soc.</jconf>
+        <id>2699</id>
+        <label>1</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>visual interfac digit librari</title>
+        <year>2002</year>
+        <authors>chaomei chen,katy borner</authors>
+        <jconf>jcdl</jconf>
+        <id>1825</id>
+        <label>1</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>visual interfac digit librari motiv util socio technic challeng</title>
+        <year>2002</year>
+        <authors>chaomei chen,katy borner</authors>
+        <jconf>visual interfaces to digital libraries</jconf>
+        <id>1826</id>
+        <label>1</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>graph partit concurr test schedul vlsi circuit</title>
+        <year>1991</year>
+        <authors>chien-in henry chen</authors>
+        <jconf>dac</jconf>
+        <id>360</id>
+        <label>20</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>alloc multiport memori port differ type regist transfer level synthesi</title>
+        <year>1991</year>
+        <authors>chien-in henry chen</authors>
+        <jconf>iccd</jconf>
+        <id>947</id>
+        <label>20</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>autonom tol hardwar partit built test environ</title>
+        <year>1992</year>
+        <authors>chien-in henry chen,joel t. yuen,ji-der lee</authors>
+        <jconf>iccd</jconf>
+        <id>954</id>
+        <label>20</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>concurr test schedul built test environ</title>
+        <year>1992</year>
+        <authors>chien-in henry chen,joel t. yuen</authors>
+        <jconf>iccd</jconf>
+        <id>953</id>
+        <label>20</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>synthesi configur linear feedback shifter regist detect random pattern resist fault</title>
+        <year>2001</year>
+        <authors>chien-in henry chen</authors>
+        <jconf>isss</jconf>
+        <id>1772</id>
+        <label>20</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>comment area time optim adder design</title>
+        <year>1994</year>
+        <authors>chien-in henry chen,anup kumar</authors>
+        <jconf>ieee trans. computers</jconf>
+        <id>3854</id>
+        <label>20</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>bistsyn built test synthes</title>
+        <year>1991</year>
+        <authors>chien-in henry chen</authors>
+        <jconf>iccad</jconf>
+        <id>910</id>
+        <label>20</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>comment ensembl averag classifi pattern recognit machin</title>
+        <year>1990</year>
+        <authors>chaur-chin chen,richard c. dubes,anil k. jain</authors>
+        <jconf>pattern recognition</jconf>
+        <id>3690</id>
+        <label>21</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>data encrypt mrf rsa kei</title>
+        <year>2001</year>
+        <authors>chaur-chin chen</authors>
+        <jconf>ieee pacific rim conference on multimedia</jconf>
+        <id>2040</id>
+        <label>21</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>filter method textur discrimin</title>
+        <year>1999</year>
+        <authors>chaur-chin chen,chien-chang chen</authors>
+        <jconf>pattern recognition letters</jconf>
+        <id>3706</id>
+        <label>21</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>domain index fractal imag compress</title>
+        <year>2000</year>
+        <authors>chaur-chin chen,hsueh-ting chu</authors>
+        <jconf>vcip</jconf>
+        <id>2489</id>
+        <label>21</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>fast algorithm gener fractal</title>
+        <year>2000</year>
+        <authors>chaur-chin chen,hsueh-ting chu</authors>
+        <jconf>icpr</jconf>
+        <id>1369</id>
+        <label>21</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>bound box iter function system attractor</title>
+        <year>2003</year>
+        <authors>chaur-chin chen,hsueh-ting chu</authors>
+        <jconf>computers &amp; graphics</jconf>
+        <id>2821</id>
+        <label>21</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>acceler fractal compress</title>
+        <year>1998</year>
+        <authors>chaur-chin chen,hsueh-ting chu</authors>
+        <jconf>data compression conference</jconf>
+        <id>454</id>
+        <label>21</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>effici decod scheme fractal imag compress</title>
+        <year>2000</year>
+        <authors>chaur-chin chen,hsueh-ting chu</authors>
+        <jconf>icip</jconf>
+        <id>1127</id>
+        <label>21</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>bootstrap techniqu error estim</title>
+        <year>1987</year>
+        <authors>chaur-chin chen,anil k. jain,richard c. dubes</authors>
+        <jconf>ieee trans. pattern anal. mach. intell.</jconf>
+        <id>3645</id>
+        <label>21</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>improv moment invari shape discrimin</title>
+        <year>1993</year>
+        <authors>chaur-chin chen</authors>
+        <jconf>pattern recognition</jconf>
+        <id>3689</id>
+        <label>21</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>improv moment invari shape discrimin</title>
+        <year>1993</year>
+        <authors>chaur-chin chen</authors>
+        <jconf>pattern recognition</jconf>
+        <id>3689</id>
+        <label>21</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>environment studi icm segment algorithm</title>
+        <year>1990</year>
+        <authors>chaur-chin chen,richard c. dubes</authors>
+        <jconf>j. inf. sci. eng.</jconf>
+        <id>3453</id>
+        <label>21</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>nonparametr test compar estim markov random field</title>
+        <year>1990</year>
+        <authors>chaur-chin chen</authors>
+        <jconf>pattern recognition letters</jconf>
+        <id>3705</id>
+        <label>21</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>select imag compress algorithm</title>
+        <year>1998</year>
+        <authors>chaur-chin chen</authors>
+        <jconf>icpr</jconf>
+        <id>1362</id>
+        <label>21</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>discret region competit approach incorpor weak edg enhanc ultrasound imag segment</title>
+        <year>2003</year>
+        <authors>chung-ming chen,henry horng-shing lu,yao-lin chen</authors>
+        <jconf>pattern recognition letters</jconf>
+        <id>3708</id>
+        <label>22</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>analyz effect share data replic minim commun overhead</title>
+        <year>1992</year>
+        <authors>chung-ming chen,soo-young lee</authors>
+        <jconf>icpp (2)</jconf>
+        <id>1331</id>
+        <label>22</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>replic uniformli access share data larg scale data parallel algorithm</title>
+        <year>1995</year>
+        <authors>chung-ming chen,soo-young lee</authors>
+        <jconf>ipps</jconf>
+        <id>1629</id>
+        <label>22</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>optim hot spot alloc mesh larg scale data parallel algorithm</title>
+        <year>1995</year>
+        <authors>chung-ming chen,soo-young lee</authors>
+        <jconf>ieee trans. parallel distrib. syst.</jconf>
+        <id>4078</id>
+        <label>22</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>parallel em algorithm pet imag reconstruct</title>
+        <year>1994</year>
+        <authors>chung-ming chen,soo-young lee</authors>
+        <jconf>ieee trans. parallel distrib. syst.</jconf>
+        <id>4068</id>
+        <label>22</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>effici connect parallel system pet imag reconstruct</title>
+        <year>1998</year>
+        <authors>chung-ming chen</authors>
+        <jconf>parallel computing</jconf>
+        <id>3664</id>
+        <label>22</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>low power design real time system</title>
+        <year>1998</year>
+        <authors>chia-mei chen,sheng-tzong cheng,jing-wen hwang</authors>
+        <jconf>real-time systems</jconf>
+        <id>3732</id>
+        <label>23</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>network topolog manag mobil switch atm network dynam partit algorithm</title>
+        <year>2002</year>
+        <authors>chia-mei chen,sheng-tzong cheng,c. chen,c. li</authors>
+        <jconf>int. journal of network management</jconf>
+        <id>3169</id>
+        <label>23</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>fault toler model multiprocessor real time system</title>
+        <year>2000</year>
+        <authors>chia-mei chen,sheng-tzong cheng,satish k. tripathi</authors>
+        <jconf>j. comput. syst. sci.</jconf>
+        <id>3416</id>
+        <label>23</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>resourc synchron protocol multiprocessor real time system</title>
+        <year>1994</year>
+        <authors>chia-mei chen,satish k. tripathi,alex blackmore</authors>
+        <jconf>icpp (3)</jconf>
+        <id>1308</id>
+        <label>23</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>network topolog manag mobil switch atm network dynam partit algorithm</title>
+        <year>2002</year>
+        <authors>chia-mei chen,sheng-tzong cheng,c. chen,c. li</authors>
+        <jconf>int. journal of network management</jconf>
+        <id>3169</id>
+        <label>23</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>resourc synchron protocol multiprocessor real time system</title>
+        <year>1994</year>
+        <authors>chia-mei chen,satish k. tripathi,alex blackmore</authors>
+        <jconf>icpp (3)</jconf>
+        <id>1308</id>
+        <label>23</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>dynam round base resourc manag demand multimedia server</title>
+        <year>2000</year>
+        <authors>chia-mei chen,sheng-tzong cheng</authors>
+        <jconf>comput. j.</jconf>
+        <id>2849</id>
+        <label>23</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>low power design real time system</title>
+        <year>1998</year>
+        <authors>chia-mei chen,sheng-tzong cheng,jing-wen hwang</authors>
+        <jconf>real-time systems</jconf>
+        <id>3732</id>
+        <label>23</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>distribut object orient parallel comput environ base java corba</title>
+        <year>1999</year>
+        <authors>chi-chang chen,kin-hsing hsieh</authors>
+        <jconf>pdpta</jconf>
+        <id>2060</id>
+        <label>24</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>nearli optim mani parallel rout star network</title>
+        <year>1997</year>
+        <authors>chi-chang chen,jianer chen</authors>
+        <jconf>ipps</jconf>
+        <id>1624</id>
+        <label>24</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>nearli optim mani parallel rout star network</title>
+        <year>1997</year>
+        <authors>chi-chang chen,jianer chen</authors>
+        <jconf>ieee trans. parallel distrib. syst.</jconf>
+        <id>4066</id>
+        <label>24</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>optim parallel rout star graph</title>
+        <year>1996</year>
+        <authors>chi-chang chen,jianer chen</authors>
+        <jconf>wg</jconf>
+        <id>2615</id>
+        <label>24</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>optim parallel rout star network</title>
+        <year>1997</year>
+        <authors>chi-chang chen,jianer chen</authors>
+        <jconf>ieee trans. computers</jconf>
+        <id>3850</id>
+        <label>24</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>maximum partit match problem applic</title>
+        <year>1999</year>
+        <authors>chi-chang chen,jianer chen</authors>
+        <jconf>siam j. comput.</jconf>
+        <id>3749</id>
+        <label>24</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>design implement tempor extens sql</title>
+        <year>2003</year>
+        <authors>cindy xinmin chen,jiejun kong,carlo zaniolo</authors>
+        <jconf>icde</jconf>
+        <id>1057</id>
+        <label>25</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>univers tempor extens databas languag</title>
+        <year>1999</year>
+        <authors>cindy xinmin chen,carlo zaniolo</authors>
+        <jconf>icde</jconf>
+        <id>1060</id>
+        <label>25</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>univers tempor data languag</title>
+        <year>1998</year>
+        <authors>cindy xinmin chen,carlo zaniolo</authors>
+        <jconf>ddlp</jconf>
+        <id>460</id>
+        <label>25</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>sql i st i spatio tempor data model queri languag</title>
+        <year>2000</year>
+        <authors>cindy xinmin chen,carlo zaniolo</authors>
+        <jconf>er</jconf>
+        <id>601</id>
+        <label>25</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>xml queri sql</title>
+        <year>2000</year>
+        <authors>cindy xinmin chen,ashok malhotra</authors>
+        <jconf>web-age information management</jconf>
+        <id>2567</id>
+        <label>25</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>adapt mac protocol satellit atm</title>
+        <year>2001</year>
+        <authors>chienhua chen,kuo-hao li</authors>
+        <jconf>icoin</jconf>
+        <id>1248</id>
+        <label>26</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>perform analysi singl stage interconnect network</title>
+        <year>1991</year>
+        <authors>chienhua chen,j. richard burke,tsung-ying lee,dharma p. agrawal</authors>
+        <jconf>ieee trans. computers</jconf>
+        <id>3844</id>
+        <label>26</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>design analysi class highli scalabl hierarch network pdbcube</title>
+        <year>1994</year>
+        <authors>chienhua chen,dharma p. agrawal,j. richard burke</authors>
+        <jconf>j. parallel distrib. comput.</jconf>
+        <id>3482</id>
+        <label>26</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>dbcube class hierarch multiprocessor interconnect network area effici layout</title>
+        <year>1993</year>
+        <authors>chienhua chen,dharma p. agrawal,j. richard burke</authors>
+        <jconf>ieee trans. parallel distrib. syst.</jconf>
+        <id>4064</id>
+        <label>26</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>hybrid graph base network multiprocess</title>
+        <year>1998</year>
+        <authors>chienhua chen,dharma p. agrawal,j. richard burke</authors>
+        <jconf>telecommunication systems</jconf>
+        <id>3951</id>
+        <label>26</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>adapt databas buffer alloc queri feedback</title>
+        <year>1993</year>
+        <authors>chung-min chen,nick roussopoulos</authors>
+        <jconf>vldb</jconf>
+        <id>2524</id>
+        <label>27</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>adapt select estim queri feedback</title>
+        <year>1994</year>
+        <authors>chung-min chen,nick roussopoulos</authors>
+        <jconf>sigmod conference</jconf>
+        <id>2283</id>
+        <label>27</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>adm project view r</title>
+        <year>1995</year>
+        <authors>chung-min chen,nick roussopoulos,stephen kelley,alex delis,yannis papakonstantinou</authors>
+        <jconf>ieee data eng. bull.</jconf>
+        <id>2975</id>
+        <label>27</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>implement perform evalu adm queri optim integr queri result cach match</title>
+        <year>1994</year>
+        <authors>chung-min chen,nick roussopoulos</authors>
+        <jconf>edbt</jconf>
+        <id>585</id>
+        <label>27</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>dbc process scientif data internet</title>
+        <year>1996</year>
+        <authors>chung-min chen,kenneth salem,miron livny</authors>
+        <jconf>icdcs</jconf>
+        <id>1026</id>
+        <label>27</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>gradient base search method grei gradient search model</title>
+        <year>1999</year>
+        <authors>chih-ming chen,chin-ming hong,heng-kang fan</authors>
+        <jconf>iea/aie</jconf>
+        <id>1527</id>
+        <label>28</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>design fuzzi slide control base cerebellar learn model</title>
+        <year>1999</year>
+        <authors>chih-ming chen,heng-kang fan,chin-ming hong</authors>
+        <jconf>iea/aie</jconf>
+        <id>1525</id>
+        <label>28</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>neural network document classifi linguist featur select</title>
+        <year>2000</year>
+        <authors>chih-ming chen,hahn-ming lee,cheng-wei hwang</authors>
+        <jconf>iea/aie</jconf>
+        <id>1529</id>
+        <label>28</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>effici gradient forecast search method util discret differ equat predict model</title>
+        <year>2002</year>
+        <authors>chih-ming chen,hahn-ming lee</authors>
+        <jconf>appl. intell.</jconf>
+        <id>2734</id>
+        <label>28</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>learn effici improv back propag algorithm error satur prevent method</title>
+        <year>2001</year>
+        <authors>chih-ming chen,hahn-ming lee,tzong-ching huang</authors>
+        <jconf>neurocomputing</jconf>
+        <id>3187</id>
+        <label>28</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>minimum complet time criterion parallel spars choleski factor</title>
+        <year>1993</year>
+        <authors>chuen-liang chen,wen-yang lin</authors>
+        <jconf>icpp (3)</jconf>
+        <id>1341</id>
+        <label>29</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>optim fill preserv order spars matric parallel choleski factor</title>
+        <year>2000</year>
+        <authors>chuen-liang chen,wen-yang lin</authors>
+        <jconf>ipdps</jconf>
+        <id>1646</id>
+        <label>29</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>analysi vector access perform skew interleav memori</title>
+        <year>1989</year>
+        <authors>chuen-liang chen,chung-kai liao</authors>
+        <jconf>isca</jconf>
+        <id>1679</id>
+        <label>29</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>simpl approach implement multipl small tabl</title>
+        <year>1991</year>
+        <authors>chuen-liang chen,biing-feng wang,gen-huey chen</authors>
+        <jconf>inf. process. lett.</jconf>
+        <id>3278</id>
+        <label>29</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>processor alloc task schedul minim ditribut spars choleski faxtor time</title>
+        <year>1999</year>
+        <authors>chuen-liang chen,tsung-tso kan</authors>
+        <jconf>hpcn europe</jconf>
+        <id>824</id>
+        <label>29</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>special issu multimedia process technolog</title>
+        <year>1995</year>
+        <authors>c. y. roger chen,arif ghafoor</authors>
+        <jconf>j. parallel distrib. comput.</jconf>
+        <id>3485</id>
+        <label>2</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>issu network data manag distribut multimedia system</title>
+        <year>1992</year>
+        <authors>c. y. roger chen,p. bruce berra,arif ghafoor,thomas d. c. little</authors>
+        <jconf>hpdc</jconf>
+        <id>826</id>
+        <label>2</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>time driven placement physic net constraint</title>
+        <year>2001</year>
+        <authors>c. y. roger chen,bill halpin,naresh sehgal</authors>
+        <jconf>dac</jconf>
+        <id>380</id>
+        <label>2</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>optim rout algorithm diamet cube connect cycl</title>
+        <year>1993</year>
+        <authors>c. y. roger chen,dikran s. meliksetian</authors>
+        <jconf>ieee trans. parallel distrib. syst.</jconf>
+        <id>4087</id>
+        <label>2</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>smooth algorithm deliveri compress video</title>
+        <year>1997</year>
+        <authors>c. y. roger chen,tacettin kiprulu,dikran s. meliksetian</authors>
+        <jconf>icc (3)</jconf>
+        <id>901</id>
+        <label>2</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>datapath schedul level pipelin</title>
+        <year>1991</year>
+        <authors>c. y. roger chen,michael z. moricz</authors>
+        <jconf>dac</jconf>
+        <id>369</id>
+        <label>2</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>signal flow model data driven approach parallel process</title>
+        <year>1992</year>
+        <authors>c. y. roger chen,muhammad f. mudawwar</authors>
+        <jconf>icpp (1)</jconf>
+        <id>1344</id>
+        <label>2</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>model storag alloc strategi homogen parallel access storag devic real time multimedia inform process</title>
+        <year>1993</year>
+        <authors>c. y. roger chen,kingsley c. nwosu,p. bruce berra</authors>
+        <jconf>icci</jconf>
+        <id>973</id>
+        <label>2</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>multimedia object model storag alloc strategi</title>
+        <year>1994</year>
+        <authors>c. y. roger chen,kingsley c. nwosu,p. bruce berra</authors>
+        <jconf>j. intell. inf. syst.</jconf>
+        <id>3449</id>
+        <label>2</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>hierarch methodolog improv channel rout pin permut</title>
+        <year>1991</year>
+        <authors>c. y. roger chen,cliff yungchin hou</authors>
+        <jconf>iccad</jconf>
+        <id>931</id>
+        <label>2</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>pin permut algorithm improv cell channel rout</title>
+        <year>1992</year>
+        <authors>c. y. roger chen,cliff yungchin hou</authors>
+        <jconf>dac</jconf>
+        <id>381</id>
+        <label>2</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>permut capabl multistag interconnect network</title>
+        <year>1990</year>
+        <authors>c. y. roger chen,calvin j. a. hsia</authors>
+        <jconf>icpp (1)</jconf>
+        <id>1316</id>
+        <label>2</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>synthesi asynchron circuit test uniqu circuit behavior signal transit graph</title>
+        <year>1995</year>
+        <authors>c. y. roger chen,calvin j. a. hsia</authors>
+        <jconf>iscas</jconf>
+        <id>1723</id>
+        <label>2</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>model perform evalu synchron circuit switch multistag interconnect network</title>
+        <year>1993</year>
+        <authors>c. y. roger chen,shuo-hsien hsiao</authors>
+        <jconf>ipps</jconf>
+        <id>1640</id>
+        <label>2</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>perform evalu circuit switch multistag interconnect network hold strategi</title>
+        <year>1992</year>
+        <authors>c. y. roger chen,shuo-hsien hsiao</authors>
+        <jconf>ieee trans. parallel distrib. syst.</jconf>
+        <id>4074</id>
+        <label>2</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>effic boolean match algorithm cell librari</title>
+        <year>1994</year>
+        <authors>c. y. roger chen,qinghong wu,john m. acken</authors>
+        <jconf>iccd</jconf>
+        <id>967</id>
+        <label>2</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>high perform gener purpos multi point signal router</title>
+        <year>1994</year>
+        <authors>c. y. roger chen,naresh kumar seghal,john m. acken</authors>
+        <jconf>iscas</jconf>
+        <id>1733</id>
+        <label>2</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>transistor reorder techniqu gate matrix layout</title>
+        <year>1990</year>
+        <authors>c. y. roger chen,uminder singh</authors>
+        <jconf>dac</jconf>
+        <id>391</id>
+        <label>2</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>post processor data path synthesi multiport memori</title>
+        <year>1991</year>
+        <authors>c. y. roger chen,imtiaz ahmad</authors>
+        <jconf>iccad</jconf>
+        <id>907</id>
+        <label>2</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>synthesi applic specif multiprocessor system</title>
+        <year>1994</year>
+        <authors>c. y. roger chen,muhammad k. dhodhi,imtiaz ahmad</authors>
+        <jconf>edac-etc-euroasic</jconf>
+        <id>630</id>
+        <label>2</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>model perform evalu synchron circuit switch multistag interconnect network</title>
+        <year>1995</year>
+        <authors>c. y. roger chen,shuo-hsien hsiao,abdulaziz s. almazyad</authors>
+        <jconf>ieee/acm trans. netw.</jconf>
+        <id>4047</id>
+        <label>2</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>sequenc base data path synthesi regular iter algorithm</title>
+        <year>1994</year>
+        <authors>c. y. roger chen,mohammed aloqeely</authors>
+        <jconf>dac</jconf>
+        <id>353</id>
+        <label>2</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>dual eulerian properti plane multigraph</title>
+        <year>1995</year>
+        <authors>c. y. roger chen,bradley s. carlson,dikran s. meliksetian</authors>
+        <jconf>siam j. discrete math.</jconf>
+        <id>3770</id>
+        <label>2</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>perform enhanc cmo vlsi circuit transistor reorder</title>
+        <year>1993</year>
+        <authors>c. y. roger chen,bradley s. carlson</authors>
+        <jconf>dac</jconf>
+        <id>358</id>
+        <label>2</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>transistor chain static cmo function cell arbitrari planar topolog</title>
+        <year>1999</year>
+        <authors>c. y. roger chen,bradley s. carlson,dikran s. meliksetian</authors>
+        <jconf>discrete applied mathematics</jconf>
+        <id>2946</id>
+        <label>2</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>multimedia synchron</title>
+        <year>1991</year>
+        <authors>c. y. roger chen,thomas d. c. little,c. s. chang,p. bruce berra</authors>
+        <jconf>ieee data eng. bull.</jconf>
+        <id>2974</id>
+        <label>2</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>ultra fast heurist vlsi cad steiner tree</title>
+        <year>2003</year>
+        <authors>c. y. roger chen,bharat krishna,naresh sehgal</authors>
+        <jconf>acm great lakes symposium on vlsi</jconf>
+        <id>753</id>
+        <label>2</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>analyt model partial block finit buffer switch network</title>
+        <year>1994</year>
+        <authors>c. y. roger chen,james v. luciani</authors>
+        <jconf>ieee/acm trans. netw.</jconf>
+        <id>4053</id>
+        <label>2</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>perform evalu hippi interconnect system camp strategi</title>
+        <year>1994</year>
+        <authors>c. y. roger chen,abdulaziz s. mazyad</authors>
+        <jconf>lcn</jconf>
+        <id>1869</id>
+        <label>2</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>embed network ring connect hypercub machin</title>
+        <year>1990</year>
+        <authors>c. y. roger chen,yeh-ching chung</authors>
+        <jconf>icpp (3)</jconf>
+        <id>1300</id>
+        <label>2</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>commun aspect cube connect cycl</title>
+        <year>1990</year>
+        <authors>c. y. roger chen,dikran s. meliksetian</authors>
+        <jconf>icpp (1)</jconf>
+        <id>1343</id>
+        <label>2</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>design multimedia object orient dbm</title>
+        <year>1995</year>
+        <authors>c. y. roger chen,dikran s. meliksetian,m. c. chang,l. j. liu</authors>
+        <jconf>multimedia syst.</jconf>
+        <id>3566</id>
+        <label>2</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>queue analysi perform dqdb</title>
+        <year>1995</year>
+        <authors>c. y. roger chen,georges a. makhoul,dikran s. meliksetian</authors>
+        <jconf>ieee/acm trans. netw.</jconf>
+        <id>4048</id>
+        <label>2</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>markov modul bernoulli process approxim analysi banyan network</title>
+        <year>1993</year>
+        <authors>c. y. roger chen,dikran s. meliksetian</authors>
+        <jconf>sigmetrics</jconf>
+        <id>2275</id>
+        <label>2</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>methodolog design video server</title>
+        <year>2000</year>
+        <authors>c. y. roger chen,dikran s. meliksetian,frank feng-kuo yu</authors>
+        <jconf>ieee trans. multimedia</jconf>
+        <id>4005</id>
+        <label>2</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>perform analysi commun static interconnect network</title>
+        <year>1992</year>
+        <authors>c. y. roger chen,dikran s. meliksetian</authors>
+        <jconf>sigmetrics</jconf>
+        <id>2274</id>
+        <label>2</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>partition multistag interconnect network part dynam subcub compact</title>
+        <year>1998</year>
+        <authors>c. y. roger chen,muhammad naeem ayyaz,dikran s. meliksetian</authors>
+        <jconf>telecommunication systems</jconf>
+        <id>3953</id>
+        <label>2</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>partition multistag interconnect network part task migrat scheme</title>
+        <year>2000</year>
+        <authors>c. y. roger chen,muhammad naeem ayyaz,dikran s. meliksetian</authors>
+        <jconf>telecommunication systems</jconf>
+        <id>3952</id>
+        <label>2</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>movement mobil agent mobil comput system</title>
+        <year>2003</year>
+        <authors>chao-chun chen,chiang lee,chih-horng ke</authors>
+        <jconf>mobile data management</jconf>
+        <id>1896</id>
+        <label>30</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>compress base broadcast strategi wireless inform system</title>
+        <year>2003</year>
+        <authors>chao-chun chen,chiang lee,chih-horng ke</authors>
+        <jconf>aina</jconf>
+        <id>62</id>
+        <label>30</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>locat manag strategi reduc movement cost locat cost simultan</title>
+        <year>1999</year>
+        <authors>chao-chun chen,chiang lee</authors>
+        <jconf>mda</jconf>
+        <id>1894</id>
+        <label>30</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>movement mobil agent mobil comput system</title>
+        <year>2003</year>
+        <authors>chao-chun chen,chiang lee,chih-horng ke</authors>
+        <jconf>mobile data management</jconf>
+        <id>1896</id>
+        <label>30</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>improv locat manag mobil user frequent visit locat</title>
+        <year>2001</year>
+        <authors>chao-chun chen,chiang lee,chih-horng ke</authors>
+        <jconf>perform. eval.</jconf>
+        <id>3681</id>
+        <label>30</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>track mobil user util frequent visit locat</title>
+        <year>1999</year>
+        <authors>chao-chun chen,chiang lee,chih-horng ke</authors>
+        <jconf>dexa</jconf>
+        <id>481</id>
+        <label>30</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>practic nonblock queue algorithm compar swap</title>
+        <year>2000</year>
+        <authors>cheng chen,chien-hua shann,ting-lu huang</authors>
+        <jconf>icpads</jconf>
+        <id>1281</id>
+        <label>31</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>schedul strategi numa multiprocessor system</title>
+        <year>1996</year>
+        <authors>cheng chen,guan-joe lai</authors>
+        <jconf>icpads</jconf>
+        <id>1264</id>
+        <label>31</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>ahead memori consist model</title>
+        <year>1998</year>
+        <authors>cheng chen,chao-chin wu,der-lin pean</authors>
+        <jconf>icpads</jconf>
+        <id>1292</id>
+        <label>31</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>optim depend convex hull partit techniqu maxim parallel nest loop uniform depend</title>
+        <year>2000</year>
+        <authors>cheng chen,der-lin pean,guan-joe lai</authors>
+        <jconf>icpads</jconf>
+        <id>1278</id>
+        <label>31</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>effect mechan reduc overhead migratori share link base cach coher protocol cluster multiprocessor architectur</title>
+        <year>1998</year>
+        <authors>cheng chen,der-lin pean,j.-r. wu</authors>
+        <jconf>icpads</jconf>
+        <id>1279</id>
+        <label>31</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>robot hand ey calibr method activ view checkerboard pattern</title>
+        <year>1993</year>
+        <authors>chichyang chen,yuan f. zheng</authors>
+        <jconf>icra (2)</jconf>
+        <id>1401</id>
+        <label>32</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>simpl edg preserv filter techniqu construct multi resolut system imag</title>
+        <year>1999</year>
+        <authors>chichyang chen,chiou-dong wang</authors>
+        <jconf>pattern recognition letters</jconf>
+        <id>3709</id>
+        <label>32</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>imag predict face detect triangul</title>
+        <year>2001</year>
+        <authors>chichyang chen,chiun-wen hsu,te-lung lin</authors>
+        <jconf>pattern recognition letters</jconf>
+        <id>3707</id>
+        <label>32</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>simpl edg preserv filter techniqu construct multi resolut system imag</title>
+        <year>1999</year>
+        <authors>chichyang chen,chiou-dong wang</authors>
+        <jconf>pattern recognition letters</jconf>
+        <id>3709</id>
+        <label>32</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>content base hybrid dpcm classifi vector quantiz code video telephoni sequenc</title>
+        <year>2001</year>
+        <authors>chichyang chen,chiun-wen hsu</authors>
+        <jconf>j. visual communication and image representation</jconf>
+        <id>3548</id>
+        <label>32</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>deform identif estim dimension object vision sensor</title>
+        <year>1992</year>
+        <authors>chichyang chen,yuan f. zheng</authors>
+        <jconf>j. field robotics</jconf>
+        <id>3440</id>
+        <label>32</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>deform identif estim dimension object vision sensor</title>
+        <year>1992</year>
+        <authors>chichyang chen,yuan f. zheng</authors>
+        <jconf>j. field robotics</jconf>
+        <id>3440</id>
+        <label>32</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>pipelin comput veri larg word length ln addit subtract polynomi hardwar cost</title>
+        <year>2000</year>
+        <authors>chichyang chen,rui-lin chen,chih-huan yang</authors>
+        <jconf>ieee trans. computers</jconf>
+        <id>3851</id>
+        <label>32</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>robot hand ey calibr method activ view checkerboard pattern</title>
+        <year>1993</year>
+        <authors>chichyang chen,yuan f. zheng</authors>
+        <jconf>icra (2)</jconf>
+        <id>1401</id>
+        <label>32</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>test object orient program base usag profil formal specif</title>
+        <year>1996</year>
+        <authors>chun-yu chen,shih-sung liao,kai h. chang,stephen b. seidman</authors>
+        <jconf>seke</jconf>
+        <id>2232</id>
+        <label>33</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>test scenario regress test suit gener object z formal specif object orient program test</title>
+        <year>1999</year>
+        <authors>chun-yu chen,richard chapman,kai h. chang</authors>
+        <jconf>acm southeast regional conference</jconf>
+        <id>44</id>
+        <label>33</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>integr test framework object orient program</title>
+        <year>1997</year>
+        <authors>chun-yu chen,shih-sung liao,kai h. chang</authors>
+        <jconf>informatica (slovenia)</jconf>
+        <id>3222</id>
+        <label>33</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>test scenario gener base formal specif usag profil</title>
+        <year>2000</year>
+        <authors>chun-yu chen,kai h. chang,shih-sung liao,richard chapman</authors>
+        <jconf>international journal of software engineering and knowledge engineering</jconf>
+        <id>3216</id>
+        <label>33</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>develop exploratori simul constructivist learn exampl java applic</title>
+        <year>1998</year>
+        <authors>chi-chuan chen,ying-shao hsu,john peter boysen,douglas yarger</authors>
+        <jconf>webnet</jconf>
+        <id>2590</id>
+        <label>34</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>develop form evalu instruct simul web aid meteorolog cours</title>
+        <year>1998</year>
+        <authors>chi-chuan chen,ying-shao hsu,douglas yarger,rex a. thomas</authors>
+        <jconf>webnet</jconf>
+        <id>2593</id>
+        <label>34</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>web base lesson situat learn senior high school level</title>
+        <year>2001</year>
+        <authors>chi-chuan chen,ying-shao hsu,kuei-ching liao</authors>
+        <jconf>webnet</jconf>
+        <id>2591</id>
+        <label>34</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>built tide power plant cooper learn web</title>
+        <year>1999</year>
+        <authors>chi-chuan chen,ying-shao hsu,hung-jean wu</authors>
+        <jconf>webnet</jconf>
+        <id>2592</id>
+        <label>34</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>bist test pattern gener stuck open delai test</title>
+        <year>1994</year>
+        <authors>chih-ang chen,sandeep k. gupta</authors>
+        <jconf>edac-etc-euroasic</jconf>
+        <id>629</id>
+        <label>35</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>satisfi base test gener path delai fault combin circut</title>
+        <year>1996</year>
+        <authors>chih-ang chen,sandeep k. gupta</authors>
+        <jconf>dac</jconf>
+        <id>364</id>
+        <label>35</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>bist test pattern gener pattern test theori design algorithm</title>
+        <year>1996</year>
+        <authors>chih-ang chen,sandeep k. gupta</authors>
+        <jconf>ieee trans. computers</jconf>
+        <id>3852</id>
+        <label>35</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>methodolog design effici bist test pattern gener</title>
+        <year>1995</year>
+        <authors>chih-ang chen,sandeep k. gupta</authors>
+        <jconf>itc</jconf>
+        <id>1783</id>
+        <label>35</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>threshold base admiss control polici multimedia server</title>
+        <year>1996</year>
+        <authors>chi-ming chen,ing-ray chen</authors>
+        <jconf>comput. j.</jconf>
+        <id>2848</id>
+        <label>36</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>perform evalu admiss control algorithm dynam threshold negoti</title>
+        <year>2003</year>
+        <authors>chi-ming chen,sheng-tzong cheng,ing-ray chen</authors>
+        <jconf>perform. eval.</jconf>
+        <id>3679</id>
+        <label>36</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>dynam quota base admiss control rate multimedia server</title>
+        <year>2000</year>
+        <authors>chi-ming chen,sheng-tzong cheng,ing-ray chen</authors>
+        <jconf>multimedia syst.</jconf>
+        <id>3565</id>
+        <label>36</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>studi adjust qualiti servic control scheme</title>
+        <year>1998</year>
+        <authors>chi-ming chen,sheng-tzong cheng,ing-ray chen</authors>
+        <jconf>winter simulation conference</jconf>
+        <id>2634</id>
+        <label>36</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>architectur power optim case studi high level synthesi</title>
+        <year>1997</year>
+        <authors>chih-tung chen,kayhan kucukcakar</authors>
+        <jconf>iccd</jconf>
+        <id>948</id>
+        <label>37</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>sourc level dynam analysi methodolog tool high level synthesi</title>
+        <year>1997</year>
+        <authors>chih-tung chen,kayhan kucukcakar</authors>
+        <jconf>isss</jconf>
+        <id>1773</id>
+        <label>37</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>high level schedul model control synthesi broad rang design applic</title>
+        <year>1997</year>
+        <authors>chih-tung chen,kayhan kucukcakar</authors>
+        <jconf>iccad</jconf>
+        <id>916</id>
+        <label>37</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>architectur rule check high level synthesi</title>
+        <year>1998</year>
+        <authors>chih-tung chen,jie gong,kayhan kucukcakar</authors>
+        <jconf>date</jconf>
+        <id>430</id>
+        <label>37</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>comput complex satisfi tempor horn formula proposit linear time tempor logic</title>
+        <year>1993</year>
+        <authors>cheng-chia chen,i-peng lin</authors>
+        <jconf>inf. process. lett.</jconf>
+        <id>3250</id>
+        <label>38</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>comput complex satisfi modal horn claus modal proposit logic</title>
+        <year>1994</year>
+        <authors>cheng-chia chen,i-peng lin</authors>
+        <jconf>theor. comput. sci.</jconf>
+        <id>3929</id>
+        <label>38</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>comput complex satisfi tempor horn formula proposit linear time tempor logic</title>
+        <year>1993</year>
+        <authors>cheng-chia chen,i-peng lin</authors>
+        <jconf>inf. process. lett.</jconf>
+        <id>3250</id>
+        <label>39</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>comput complex satisfi modal horn claus modal proposit logic</title>
+        <year>1994</year>
+        <authors>cheng-chia chen,i-peng lin</authors>
+        <jconf>theor. comput. sci.</jconf>
+        <id>3929</id>
+        <label>39</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>effici disk alloc scheme parallel retriev multidimension grid data</title>
+        <year>2001</year>
+        <authors>chung-min chen,rakesh k. sinha,randeep bhatia</authors>
+        <jconf>ssdbm</jconf>
+        <id>2410</id>
+        <label>3</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>multidimension declust scheme golden ratio kroneck sequenc</title>
+        <year>2003</year>
+        <authors>chung-min chen,randeep bhatia,rakesh k. sinha</authors>
+        <jconf>ieee trans. knowl. data eng.</jconf>
+        <id>3974</id>
+        <label>3</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>analysi comparison declust scheme interact navig queri</title>
+        <year>2000</year>
+        <authors>chung-min chen,rakesh k. sinha</authors>
+        <jconf>ieee trans. knowl. data eng.</jconf>
+        <id>3976</id>
+        <label>3</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>hierarch declust scheme rang queri</title>
+        <year>2000</year>
+        <authors>chung-min chen,randeep bhatia,rakesh k. sinha</authors>
+        <jconf>edbt</jconf>
+        <id>584</id>
+        <label>3</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>hierarch techniqu construct effici declust scheme rang queri</title>
+        <year>2003</year>
+        <authors>chung-min chen,randeep bhatia,rakesh k. sinha</authors>
+        <jconf>comput. j.</jconf>
+        <id>2842</id>
+        <label>3</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>asymptot optim declust scheme dim rang queri</title>
+        <year>2003</year>
+        <authors>chung-min chen,rakesh k. sinha,randeep bhatia</authors>
+        <jconf>theor. comput. sci.</jconf>
+        <id>3936</id>
+        <label>3</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>internet traffic warehous</title>
+        <year>2000</year>
+        <authors>chung-min chen,munir cochinwala,claudio petrone,marc pucci,sunil samtani,patrizia santa,marco mesiti</authors>
+        <jconf>sigmod conference</jconf>
+        <id>2282</id>
+        <label>3</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>deal slow evolv fact case studi inventori data wareh</title>
+        <year>1999</year>
+        <authors>chung-min chen,munir cochinwala,elsa yueh</authors>
+        <jconf>dolap</jconf>
+        <id>550</id>
+        <label>3</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>discrep declust optim multidimension declust strategi rang queri</title>
+        <year>2002</year>
+        <authors>chung-min chen,christine t. cheng</authors>
+        <jconf>pods</jconf>
+        <id>2098</id>
+        <label>3</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>nation clearinghous servic bb exchang telecommun industri</title>
+        <year>2000</year>
+        <authors>chung-min chen,mohammad moghadam,tony lin,amjad umar</authors>
+        <jconf>compsac</jconf>
+        <id>277</id>
+        <label>3</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>tree index effici search similar document</title>
+        <year>2000</year>
+        <authors>chung-min chen,duen-ren liu</authors>
+        <jconf>compsac</jconf>
+        <id>261</id>
+        <label>3</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>framework person e catalog integr xml base metadata user model agent</title>
+        <year>2001</year>
+        <authors>chung-min chen,duen-ren liu,yuh-jaan lin,ya-wen huang</authors>
+        <jconf>hicss</jconf>
+        <id>790</id>
+        <label>3</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>telcordia lsi engin implement scalabl issu</title>
+        <year>2001</year>
+        <authors>chung-min chen,ned stofel,mike post,chumki basu,devasis bassu,clifford behrens</authors>
+        <jconf>ride-dm</jconf>
+        <id>2169</id>
+        <label>3</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>sampl base estim top k queri</title>
+        <year>2002</year>
+        <authors>chung-min chen,yibei ling</authors>
+        <jconf>icde</jconf>
+        <id>1058</id>
+        <label>3</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>raster spatial data declust revisit interact navig perspect</title>
+        <year>1999</year>
+        <authors>chung-min chen,rakesh k. sinha</authors>
+        <jconf>icde</jconf>
+        <id>1059</id>
+        <label>3</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>declust golden ratio sequenc</title>
+        <year>2000</year>
+        <authors>chung-min chen,randeep bhatia,rakesh k. sinha</authors>
+        <jconf>icde</jconf>
+        <id>1052</id>
+        <label>3</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>asymptot optim declust scheme rang queri</title>
+        <year>2001</year>
+        <authors>chung-min chen,rakesh k. sinha,randeep bhatia</authors>
+        <jconf>icdt</jconf>
+        <id>1086</id>
+        <label>3</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>optim algorithm spiral floorplan design</title>
+        <year>1991</year>
+        <authors>cheng-hsi chen,ioannis g. tollis</authors>
+        <jconf>iccd</jconf>
+        <id>950</id>
+        <label>40</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>fast parallel algorithm slice floorplan</title>
+        <year>1993</year>
+        <authors>cheng-hsi chen,ioannis g. tollis</authors>
+        <jconf>iscas</jconf>
+        <id>1715</id>
+        <label>40</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>approach floorplan area optim slice slice</title>
+        <year>1994</year>
+        <authors>cheng-hsi chen,ioannis g. tollis</authors>
+        <jconf>iscas</jconf>
+        <id>1716</id>
+        <label>40</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>build ontolog optim composit parallel javabean program</title>
+        <year>2002</year>
+        <authors>cheng-wei chen,chung-kai chen,jenq kuen lee</authors>
+        <jconf>ispan</jconf>
+        <id>1761</id>
+        <label>41</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>runtim composit optim parallel javabean program cluster environ</title>
+        <year>2000</year>
+        <authors>cheng-wei chen,chung-kai chen,jenq kuen lee</authors>
+        <jconf>pdpta</jconf>
+        <id>2059</id>
+        <label>41</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>automat support parallel spars comput java continu compil</title>
+        <year>1997</year>
+        <authors>cheng-wei chen,rong-guey chang,tyng-ruey chuang,jenq kuen lee</authors>
+        <jconf>concurrency - practice and experience</jconf>
+        <id>2925</id>
+        <label>41</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>fuzzi rule base system verif high level petri net</title>
+        <year>2003</year>
+        <authors>chyun-chyi chen,stephen j. h. yang,jeffrey j. p. tsai</authors>
+        <jconf>ieee trans. knowl. data eng.</jconf>
+        <id>3997</id>
+        <label>42</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>petri net base approach workflow process autom</title>
+        <year>1999</year>
+        <authors>chyun-chyi chen,stephen j. h. yang</authors>
+        <jconf>international journal on artificial intelligence tools</jconf>
+        <id>3117</id>
+        <label>42</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>build xml base unifi user interfac system jee architectur</title>
+        <year>2001</year>
+        <authors>chyun-chyi chen,stephen j. h. yang,irene y. l. chen,chi-hsing chu,kevin h. w. shen,chi-wei lan</authors>
+        <jconf>ann. software eng.</jconf>
+        <id>2730</id>
+        <label>42</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>access analysi data flow graph approach design testabl</title>
+        <year>1991</year>
+        <authors>chung-hsing chen,chienwen wu,daniel g. saab</authors>
+        <jconf>iccd</jconf>
+        <id>952</id>
+        <label>43</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>behavior synthesi testabl</title>
+        <year>1992</year>
+        <authors>chung-hsing chen,daniel g. saab</authors>
+        <jconf>iccad</jconf>
+        <id>921</id>
+        <label>43</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>beta behavior testabl analysi</title>
+        <year>1991</year>
+        <authors>chung-hsing chen,chienwen wu,daniel g. saab</authors>
+        <jconf>iccad</jconf>
+        <id>923</id>
+        <label>43</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>life cycl model event ag theori</title>
+        <year>2003</year>
+        <authors>chien chin chen,yao-tsung chen,yeali s. sun,meng chang chen</authors>
+        <jconf>ecml</jconf>
+        <id>572</id>
+        <label>44</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>pva adapt person view agent system</title>
+        <year>2001</year>
+        <authors>chien chin chen,meng chang chen,yeali s. sun</authors>
+        <jconf>kdd</jconf>
+        <id>1850</id>
+        <label>44</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>branch merg effect exploit instruct level parallel</title>
+        <year>1992</year>
+        <authors>chien-ming chen,yunn yen chen,chung-ta king</authors>
+        <jconf>micro</jconf>
+        <id>1914</id>
+        <label>45</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>design dynam level branch predictor base pattern local</title>
+        <year>1996</year>
+        <authors>chien-ming chen,chung-ta king</authors>
+        <jconf>euro-par, vol. ii</jconf>
+        <id>638</id>
+        <label>45</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>walk time address adjust improv accuraci dynam branch predict</title>
+        <year>1999</year>
+        <authors>chien-ming chen,chung-ta king</authors>
+        <jconf>ieee trans. computers</jconf>
+        <id>3855</id>
+        <label>45</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>error correct code byte error detect capabl</title>
+        <year>1983</year>
+        <authors>chin-long chen</authors>
+        <jconf>ieee trans. computers</jconf>
+        <id>3846</id>
+        <label>46</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>measur gener error correct code packag failur</title>
+        <year>1978</year>
+        <authors>chin-long chen,douglas c. bossen,lih c. chang</authors>
+        <jconf>ieee trans. computers</jconf>
+        <id>3843</id>
+        <label>46</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>logic test pattern gener linear code</title>
+        <year>1984</year>
+        <authors>chin-long chen,donald t. tang</authors>
+        <jconf>ieee trans. computers</jconf>
+        <id>3915</id>
+        <label>46</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>result quasi cyclic code</title>
+        <year>1969</year>
+        <authors>c. l. chen,w. wesley peterson,e. j. weldon jr.</authors>
+        <jconf>information and control</jconf>
+        <id>3082</id>
+        <label>47</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>shorten finit geometri code</title>
+        <year>1972</year>
+        <authors>c. l. chen</authors>
+        <jconf>information and control</jconf>
+        <id>3080</id>
+        <label>47</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>result polynomi code</title>
+        <year>1969</year>
+        <authors>c. l. chen,shu lin</authors>
+        <jconf>information and control</jconf>
+        <id>3081</id>
+        <label>47</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>file alloc distribut databas interact file</title>
+        <year>1983</year>
+        <authors>c. h. chen,clement t. yu,m. k. siu,k. lam</authors>
+        <jconf>vldb</jconf>
+        <id>2548</id>
+        <label>48</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>adapt inform system design queri time</title>
+        <year>1985</year>
+        <authors>c. h. chen,clement t. yu</authors>
+        <jconf>sigmod conference</jconf>
+        <id>2302</id>
+        <label>48</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>adapt file alloc star comput network</title>
+        <year>1985</year>
+        <authors>c. h. chen,clement t. yu,man-keung siu,k. lam</authors>
+        <jconf>ieee trans. software eng.</jconf>
+        <id>4113</id>
+        <label>48</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>foreground extract scheme video stream</title>
+        <year>2001</year>
+        <authors>chun chen,zhengping wu</authors>
+        <jconf>acm multimedia</jconf>
+        <id>1944</id>
+        <label>49</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>research reliabl commun real time collabor design system</title>
+        <year>2002</year>
+        <authors>chun chen,xueyi wang,jiajun bu</authors>
+        <jconf>dcw</jconf>
+        <id>458</id>
+        <label>49</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>achiev undo bitmap base collabor graphic edit system</title>
+        <year>2002</year>
+        <authors>chun chen,xueyi wang,jiajun bu</authors>
+        <jconf>cscw</jconf>
+        <id>322</id>
+        <label>49</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>segment featur extract techniqu applic biomed imag</title>
+        <year>1994</year>
+        <authors>chang wen chen,edward a. ashton,michel j. berg,kevin j. parker,jeffrey weisberg,leena ketonen</authors>
+        <jconf>icip (3)</jconf>
+        <id>1114</id>
+        <label>4</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>fec base wireless video stream pre interleav</title>
+        <year>2001</year>
+        <authors>chang wen chen,jianfei cai</authors>
+        <jconf>data compression conference</jconf>
+        <id>452</id>
+        <label>4</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>product code recurr altern decod wireless imag transmiss</title>
+        <year>2000</year>
+        <authors>chang wen chen,lei cao</authors>
+        <jconf>data compression conference</jconf>
+        <id>453</id>
+        <label>4</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>model analysi visual left ventricl shape motion hierarch decomposit</title>
+        <year>1994</year>
+        <authors>chang wen chen,thomas s. huang,matthew arrott</authors>
+        <jconf>ieee trans. pattern anal. mach. intell.</jconf>
+        <id>3638</id>
+        <label>4</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>fast effect block match error conceal scheme</title>
+        <year>2001</year>
+        <authors>chang wen chen,jian wang</authors>
+        <jconf>ieee pacific rim conference on multimedia</jconf>
+        <id>2051</id>
+        <label>4</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>product code decod scheme wireless imag transmiss</title>
+        <year>2000</year>
+        <authors>chang wen chen,lei cao</authors>
+        <jconf>icip</jconf>
+        <id>1117</id>
+        <label>4</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>joint sourc channel optim block tcq layer transmiss rcpc</title>
+        <year>1998</year>
+        <authors>chang wen chen,hongzhi li</authors>
+        <jconf>icip (1)</jconf>
+        <id>1153</id>
+        <label>4</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>dimension subband video analysi synthesi adapt cluster high frequenc subband</title>
+        <year>1994</year>
+        <authors>chang wen chen,jiebo luo,kevin j. parker,thomas s. huang</authors>
+        <jconf>icip (3)</jconf>
+        <id>1157</id>
+        <label>4</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>adapt quantiz spatial constraint subband video compress wavelet</title>
+        <year>1995</year>
+        <authors>chang wen chen,jiebo luo,kevin j. parker,thomas s. huang</authors>
+        <jconf>icip</jconf>
+        <id>1158</id>
+        <label>4</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>knowledg base approach volumetr medic imag segment</title>
+        <year>1994</year>
+        <authors>chang wen chen,jiebo luo,kevin j. parker,thomas s. huang</authors>
+        <jconf>icip (3)</jconf>
+        <id>1125</id>
+        <label>4</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>improv approach cardiac dynam analysi base constrain local forc model</title>
+        <year>1998</year>
+        <authors>chang wen chen,li fan</authors>
+        <jconf>icip (1)</jconf>
+        <id>1129</id>
+        <label>4</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>high perform vbr code algorithm fix size storag applic</title>
+        <year>2000</year>
+        <authors>chang wen chen,yue yu,jian zhou,yiliang wang</authors>
+        <jconf>icip</jconf>
+        <id>1176</id>
+        <label>4</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>face locat wavelet base video compress high perceptu qualiti videoconferenc</title>
+        <year>1995</year>
+        <authors>chang wen chen,jiebo luo,kevin j. parker</authors>
+        <jconf>icip</jconf>
+        <id>1156</id>
+        <label>4</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>ultrasound imag compress base subband decomposit speckl synthesi</title>
+        <year>1997</year>
+        <authors>chang wen chen,jiebo luo,hongzhi li</authors>
+        <jconf>icip (3)</jconf>
+        <id>1159</id>
+        <label>4</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>architectur driven circuit partit</title>
+        <year>1998</year>
+        <authors>chau-shen chen,tingting hwang,c. l. liu</authors>
+        <jconf>iccad</jconf>
+        <id>915</id>
+        <label>50</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>low power fpga design engin approach</title>
+        <year>1997</year>
+        <authors>chau-shen chen,tingting hwang,c. l. liu</authors>
+        <jconf>dac</jconf>
+        <id>366</id>
+        <label>50</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>layout driven select chain partial scan</title>
+        <year>1996</year>
+        <authors>chau-shen chen,kuang-hui lin,tingting hwang</authors>
+        <jconf>dac</jconf>
+        <id>368</id>
+        <label>50</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>d filter backproject reconstruct algorithm combin parallel cone beam spect data</title>
+        <year>1993</year>
+        <authors>chin-tu chen,chunwu wu,miles n. wernick</authors>
+        <jconf>ipmi</jconf>
+        <id>1622</id>
+        <label>51</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>analyt photon attenu system respons function spect reconstruct</title>
+        <year>1993</year>
+        <authors>chin-tu chen,xiaochuan pan,john n. aarsvold,wing hung wong</authors>
+        <jconf>ipmi</jconf>
+        <id>1621</id>
+        <label>51</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>evalu parallel spars choleski factor</title>
+        <year>1994</year>
+        <authors>c.-l. chen,w.-y. lin</authors>
+        <jconf>icpads</jconf>
+        <id>1276</id>
+        <label>52</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>minimum commun cost reorder parallel spars choleski factor</title>
+        <year>1999</year>
+        <authors>c.-l. chen,w.-y. lin</authors>
+        <jconf>parallel computing</jconf>
+        <id>3675</id>
+        <label>52</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>fuzzi approach select locat distribut center</title>
+        <year>2001</year>
+        <authors>chen-tung chen</authors>
+        <jconf>fuzzy sets and systems</jconf>
+        <id>3058</id>
+        <label>53</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>fuzzi credibl relat method multipl criteria decis make problem</title>
+        <year>1997</year>
+        <authors>chen-tung chen,hsi-mei hsu</authors>
+        <jconf>inf. sci.</jconf>
+        <id>3304</id>
+        <label>53</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>sensor driven intellig robot</title>
+        <year>1991</year>
+        <authors>chuxin chen,mohan m. trivedi</authors>
+        <jconf>advances in computers</jconf>
+        <id>2668</id>
+        <label>54</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>vision system robot inspect manipul</title>
+        <year>1989</year>
+        <authors>chuxin chen,mohan m. trivedi,suresh b. marapane</authors>
+        <jconf>ieee computer</jconf>
+        <id>2922</id>
+        <label>54</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>optim parallel circl cover independ set algorithm circular arc graph</title>
+        <year>1989</year>
+        <authors>c. l. chen,ming-shing yu,richard chia-tung lee</authors>
+        <jconf>icpp (3)</jconf>
+        <id>1350</id>
+        <label>55</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>optim parallel algorithm minimum color interv</title>
+        <year>1990</year>
+        <authors>c. l. chen,ming-shing yu,richard c. t. lee</authors>
+        <jconf>icpp (3)</jconf>
+        <id>1351</id>
+        <label>55</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>eco empir base compil optim system</title>
+        <year>2003</year>
+        <authors>chun chen,nastaran baradaran,jacqueline chame,pedro c. diniz,mary w. hall,yoon-ju lee,bing liu,robert f. lucas</authors>
+        <jconf>ipdps</jconf>
+        <id>1623</id>
+        <label>56</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>architectur diva process memori chip</title>
+        <year>2002</year>
+        <authors>chun chen,jeffrey t. draper,jacqueline chame,mary w. hall,craig s. steele,tim barrett,jeff lacoss,john j. granacki,jaewook shin,chang woo kang,ihn kim gokhan</authors>
+        <jconf>ics</jconf>
+        <id>1474</id>
+        <label>56</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>mix level sequenti test gener valu relax algorithm</title>
+        <year>1990</year>
+        <authors>chun-hung chen,jacob a. abraham</authors>
+        <jconf>iccad</jconf>
+        <id>911</id>
+        <label>57</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>high qualiti test switch level circuit current logic test gener algorithm</title>
+        <year>1991</year>
+        <authors>chun-hung chen,jacob a. abraham</authors>
+        <jconf>itc</jconf>
+        <id>1782</id>
+        <label>57</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>nest invoc suppress mechan activ replic fault toler corba</title>
+        <year>2002</year>
+        <authors>chyouhwa chen,deron liang,chen-liang fang,fengyi lin</authors>
+        <jconf>apsec</jconf>
+        <id>88</id>
+        <label>58</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>redund nest invoc suppress mechan activ replic fault toler web servic</title>
+        <year>2004</year>
+        <authors>chyouhwa chen,chen-liang fang,de-ron liang,pusan lin</authors>
+        <jconf>eee</jconf>
+        <id>594</id>
+        <label>58</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>fault toler object servic corba</title>
+        <year>1999</year>
+        <authors>chyouhwa chen,deron liang,chen-liang fang,shyan-ming yuan,gene eu jan</authors>
+        <jconf>journal of systems and software</jconf>
+        <id>3538</id>
+        <label>58</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>fault toler web servic</title>
+        <year>2003</year>
+        <authors>chyouhwa chen,deron liang,chen-liang fang,fengyi lin</authors>
+        <jconf>apsec</jconf>
+        <id>89</id>
+        <label>58</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>nest invoc suppress mechan activ replic fault toler corba</title>
+        <year>2002</year>
+        <authors>chyouhwa chen,deron liang,chen-liang fang,fengyi lin</authors>
+        <jconf>apsec</jconf>
+        <id>88</id>
+        <label>58</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>error resili scheme mpeg fg video packet erasur channel exhibit grace degrad</title>
+        <year>2002</year>
+        <authors>chyouhwa chen,chih-yen lin,i-cheng ting,wen-jen ho</authors>
+        <jconf>ieee pacific rim conference on multimedia</jconf>
+        <id>2048</id>
+        <label>58</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>algorithm multi constrain optim multicast rout</title>
+        <year>2003</year>
+        <authors>chyouhwa chen,kun-cheng tsai</authors>
+        <jconf>int. j. communication systems</jconf>
+        <id>3127</id>
+        <label>58</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>perform qo awar ip multicast rout protocol</title>
+        <year>2003</year>
+        <authors>chyouhwa chen,chih-jen tseng</authors>
+        <jconf>networks</jconf>
+        <id>3618</id>
+        <label>58</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>fault toler pancycl cross cube</title>
+        <year>2002</year>
+        <authors>chin-hsing chen,wen-tzeng huang,woei-kae chen</authors>
+        <jconf>icpads</jconf>
+        <id>1261</id>
+        <label>59</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>optim mmi file system orthogon rang retriev</title>
+        <year>1993</year>
+        <authors>c. y. chen,chin-chen chang,richard c. t. lee</authors>
+        <jconf>inf. syst.</jconf>
+        <id>3290</id>
+        <label>5</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>gdm alloc partial rang queri</title>
+        <year>1992</year>
+        <authors>c. y. chen,chin-chen chang</authors>
+        <jconf>inf. syst.</jconf>
+        <id>3288</id>
+        <label>5</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>optim criteria disk modulo alloc method cartesian product file</title>
+        <year>1991</year>
+        <authors>c. y. chen,h. f. lin</authors>
+        <jconf>bit</jconf>
+        <id>2763</id>
+        <label>5</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>perform disk partit data alloc</title>
+        <year>1987</year>
+        <authors>c. y. chen,chin-chen chang</authors>
+        <jconf>bit</jconf>
+        <id>2761</id>
+        <label>5</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>optim bucket alloc design k ari mkh file partial match retriev</title>
+        <year>1997</year>
+        <authors>c. y. chen,h. f. lin,chin-chen chang,richard c. t. lee</authors>
+        <jconf>ieee trans. knowl. data eng.</jconf>
+        <id>3975</id>
+        <label>5</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>optim linear hash file orthogon rang retriev</title>
+        <year>1996</year>
+        <authors>c. y. chen,chin-chen chang,richard c. t. lee,d. c. lin</authors>
+        <jconf>compsac</jconf>
+        <id>260</id>
+        <label>5</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>tempor join mechan base trie rank data structur</title>
+        <year>1996</year>
+        <authors>c. y. chen,chin-chen chang,richard c. t. lee,d. c. lin</authors>
+        <jconf>codas</jconf>
+        <id>249</id>
+        <label>5</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>orthogon rang retriev bucket address hash</title>
+        <year>1988</year>
+        <authors>c. y. chen,chin-chen chang</authors>
+        <jconf>ssdbm</jconf>
+        <id>2406</id>
+        <label>5</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>symbol grai code data alloc scheme disc system</title>
+        <year>1992</year>
+        <authors>c. y. chen,chin-chen chang,h. y. chen</authors>
+        <jconf>comput. j.</jconf>
+        <id>2845</id>
+        <label>5</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>design machin independ perfect hash scheme</title>
+        <year>1991</year>
+        <authors>c. y. chen,chin-chen chang,jinn-ke jan</authors>
+        <jconf>comput. j.</jconf>
+        <id>2846</id>
+        <label>5</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>optim properti disc modulo alloc method k ari multipl kei hash file</title>
+        <year>1992</year>
+        <authors>c. y. chen,chin-chen chang,h. f. lin</authors>
+        <jconf>comput. j.</jconf>
+        <id>2847</id>
+        <label>5</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>perform analysi generalis disc modulo alloc method multipl kei hash file multi disc system</title>
+        <year>1987</year>
+        <authors>c. y. chen,chin-chen chang</authors>
+        <jconf>comput. j.</jconf>
+        <id>2843</id>
+        <label>5</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>recurs perform formula disc modulo alloc method binari cartesian product file</title>
+        <year>1988</year>
+        <authors>c. y. chen,chin-chen chang</authors>
+        <jconf>comput. j.</jconf>
+        <id>2844</id>
+        <label>5</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>design multipl kei hash file concurr orthogon rang retriev disk</title>
+        <year>1991</year>
+        <authors>c. y. chen,chin-chen chang,richard c. t. lee</authors>
+        <jconf>inf. syst.</jconf>
+        <id>3289</id>
+        <label>5</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>model develop verif high level analog block</title>
+        <year>1988</year>
+        <authors>chin-fu chen,chandramouli visweswariah,rakesh chadha</authors>
+        <jconf>dac</jconf>
+        <id>394</id>
+        <label>60</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>accur effici gate level delai calcul mo circuit</title>
+        <year>1988</year>
+        <authors>chin-fu chen,foong-charn chang,prasad subramaniam</authors>
+        <jconf>dac</jconf>
+        <id>359</id>
+        <label>60</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>optic switch configur lightpath assign wavelength rout multihop lightwav network</title>
+        <year>1995</year>
+        <authors>chien chen,subrata banerjee</authors>
+        <jconf>infocom</jconf>
+        <id>1584</id>
+        <label>61</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>model optim rout wavelength assign wavelength divis multiplex optic network</title>
+        <year>1996</year>
+        <authors>chien chen,subrata banerjee</authors>
+        <jconf>infocom</jconf>
+        <id>1585</id>
+        <label>61</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>empir evalu sever method select system</title>
+        <year>1999</year>
+        <authors>chun-hung chen,koichiro inoue,stephen e. chick</authors>
+        <jconf>acm trans. model. comput. simul.</jconf>
+        <id>4038</id>
+        <label>6</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>simul budget alloc enhanc effici ordin optim</title>
+        <year>2000</year>
+        <authors>chun-hung chen,jianwu lin,enver yucesan,stephen e. chick</authors>
+        <jconf>discrete event dynamic systems</jconf>
+        <id>2977</id>
+        <label>6</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>develop optim comput budget alloc discret event simul</title>
+        <year>1997</year>
+        <authors>chun-hung chen,hsiao-chang chen,liyi dai,enver yucesan</authors>
+        <jconf>winter simulation conference</jconf>
+        <id>2632</id>
+        <label>6</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>hybrid approach integ program combin genet algorithm linear program ordin optim</title>
+        <year>2001</year>
+        <authors>chun-hung chen,yuh-chuyn luo,monique guignard</authors>
+        <jconf>j. intelligent manufacturing</jconf>
+        <id>3451</id>
+        <label>6</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>asymptot alloc simultan simul experi</title>
+        <year>1999</year>
+        <authors>chun-hung chen,hsiao-chang chen,jianwu lin,enver yucesan</authors>
+        <jconf>winter simulation conference</jconf>
+        <id>2633</id>
+        <label>6</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>simultan simul experi nest partit discret resourc alloc suppli chain manag</title>
+        <year>1999</year>
+        <authors>chun-hung chen,leyuan shi,enver yucesan</authors>
+        <jconf>winter simulation conference</jconf>
+        <id>2647</id>
+        <label>6</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>distribut web base simul experi optim</title>
+        <year>2001</year>
+        <authors>chun-hung chen,enver yucesan,yuh-chuyn luo,insup lee</authors>
+        <jconf>simul. pr. theory</jconf>
+        <id>3806</id>
+        <label>6</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>comput budget alloc simul experi differ system structur</title>
+        <year>1998</year>
+        <authors>chun-hung chen,yu yuan,hsiao-chang chen,enver yucesan,liyi dai</authors>
+        <jconf>winter simulation conference</jconf>
+        <id>2635</id>
+        <label>6</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>distribut web base simul experi optim</title>
+        <year>2001</year>
+        <authors>chun-hung chen,enver yucesan,yuh-chuyn luo,insup lee</authors>
+        <jconf>simul. pr. theory</jconf>
+        <id>3806</id>
+        <label>6</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>distribut web base simul optim</title>
+        <year>2000</year>
+        <authors>chun-hung chen,yuh-chuyn luo,enver yucesan,insup lee</authors>
+        <jconf>winter simulation conference</jconf>
+        <id>2644</id>
+        <label>6</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>effici approach mont carlo simul experi applic circuit system design</title>
+        <year>2001</year>
+        <authors>chun-hung chen,karen donohue,jianwu lin,enver yucesan</authors>
+        <jconf>annual simulation symposium</jconf>
+        <id>77</id>
+        <label>6</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>web base simul experi</title>
+        <year>1998</year>
+        <authors>chun-hung chen,enver yucesan,insup lee</authors>
+        <jconf>winter simulation conference</jconf>
+        <id>2652</id>
+        <label>6</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>hybrid approach standard clock method event schedul approach gener discret event simul</title>
+        <year>1995</year>
+        <authors>chun-hung chen</authors>
+        <jconf>winter simulation conference</jconf>
+        <id>2630</id>
+        <label>6</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>comput effort alloc ordin optim discret event simul</title>
+        <year>2000</year>
+        <authors>chun-hung chen,hsiao-chang chen,enver yucesan</authors>
+        <jconf>ieee trans. automat. contr.</jconf>
+        <id>3838</id>
+        <label>6</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>gradient approach smartli alloc comput budget discret event simul</title>
+        <year>1996</year>
+        <authors>chun-hung chen,hsiao-chang chen,liyi dai</authors>
+        <jconf>winter simulation conference</jconf>
+        <id>2631</id>
+        <label>6</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>dynam schedul rule select semiconductor wafer fabric</title>
+        <year>2001</year>
+        <authors>chun-hung chen,bo-wei hsieh,shi-chung chang</authors>
+        <jconf>icra</jconf>
+        <id>1404</id>
+        <label>6</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>schedul semiconductor wafer fabric ordin optim base simul</title>
+        <year>2001</year>
+        <authors>chun-hung chen,bo-wei hsieh,shi-chung chang</authors>
+        <jconf>ieee trans. robotics and automation</jconf>
+        <id>4100</id>
+        <label>6</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>effici erew pram algorithm parenthes match</title>
+        <year>1994</year>
+        <authors>calvin ching-yuen chen,sushil k. prasad,sajal k. das</authors>
+        <jconf>ieee trans. parallel distrib. syst.</jconf>
+        <id>4088</id>
+        <label>7</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>comprehens perform evalu crossbar network</title>
+        <year>1993</year>
+        <authors>calvin ching-yuen chen,hee yong youn</authors>
+        <jconf>ieee trans. parallel distrib. syst.</jconf>
+        <id>4093</id>
+        <label>7</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>parallel breadth breadth depth travers gener tree</title>
+        <year>1990</year>
+        <authors>calvin ching-yuen chen,sajal k. das</authors>
+        <jconf>icci</jconf>
+        <id>972</id>
+        <label>7</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>fast parallel algorithm parenthes match</title>
+        <year>1991</year>
+        <authors>calvin ching-yuen chen,sajal k. das,gene lewis,sushil k. prasad</authors>
+        <jconf>icci</jconf>
+        <id>974</id>
+        <label>7</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>breadth travers tree integ sort parallel</title>
+        <year>1991</year>
+        <authors>calvin ching-yuen chen,sajal k. das</authors>
+        <jconf>icpp (3)</jconf>
+        <id>1303</id>
+        <label>7</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>effici parallel algorithm comput articul point bridg interv graph</title>
+        <year>1992</year>
+        <authors>calvin ching-yuen chen,sajal k. das</authors>
+        <jconf>icpp (3)</jconf>
+        <id>1304</id>
+        <label>7</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>parallel algorithm breadth search interv graph</title>
+        <year>1992</year>
+        <authors>calvin ching-yuen chen,sajal k. das</authors>
+        <jconf>ipps</jconf>
+        <id>1633</id>
+        <label>7</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>cost optim parallel algorithm parenthes match problem erew pram</title>
+        <year>1991</year>
+        <authors>calvin ching-yuen chen,sajal k. das</authors>
+        <jconf>ipps</jconf>
+        <id>1626</id>
+        <label>7</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>effici parallel algorithm interv graph</title>
+        <year>1992</year>
+        <authors>calvin ching-yuen chen,sajal k. das</authors>
+        <jconf>parle</jconf>
+        <id>2033</id>
+        <label>7</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>unifi approach parallel depth travers gener tree</title>
+        <year>1991</year>
+        <authors>calvin ching-yuen chen,sajal k. das,selim g. akl</authors>
+        <jconf>inf. process. lett.</jconf>
+        <id>3249</id>
+        <label>7</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>breadth travers tree integ sort parallel</title>
+        <year>1992</year>
+        <authors>calvin ching-yuen chen,sajal k. das</authors>
+        <jconf>inf. process. lett.</jconf>
+        <id>3248</id>
+        <label>7</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>fault align exclus memori address permut</title>
+        <year>1984</year>
+        <authors>chin-long chen,douglas c. bossen,m. y. (ben) hsiao</authors>
+        <jconf>ibm journal of research and development</jconf>
+        <id>3090</id>
+        <label>8</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>error correct code semiconductor memori applic state art review</title>
+        <year>1984</year>
+        <authors>chin-long chen,m. y. (ben) hsiao</authors>
+        <jconf>ibm journal of research and development</jconf>
+        <id>3092</id>
+        <label>8</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>fault toler memori simul</title>
+        <year>1984</year>
+        <authors>c. l. chen,robert a. rutledge</authors>
+        <jconf>ibm journal of research and development</jconf>
+        <id>3093</id>
+        <label>8</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>iter exhaust pattern gener logic test</title>
+        <year>1984</year>
+        <authors>c. l. chen,donald t. tang</authors>
+        <jconf>ibm journal of research and development</jconf>
+        <id>3096</id>
+        <label>8</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>symbol error correct code comput memori system</title>
+        <year>1992</year>
+        <authors>c. l. chen</authors>
+        <jconf>ieee trans. computers</jconf>
+        <id>3848</id>
+        <label>8</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>byte orient error correct code semiconductor memori system</title>
+        <year>1986</year>
+        <authors>c. l. chen</authors>
+        <jconf>ieee trans. computers</jconf>
+        <id>3847</id>
+        <label>8</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>fault toler memori design ibm applic system</title>
+        <year>1991</year>
+        <authors>c. l. chen,l. e. grosbach</authors>
+        <jconf>ftcs</jconf>
+        <id>711</id>
+        <label>8</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>ra design ibm eserv z</title>
+        <year>2002</year>
+        <authors>c. l. chen,luiz c. alves,myron l. fair,patrick j. meaney,william j. clarke,george c. wellwood,norman e. weber,indravadan n. modi,brian k. tolan,fritz freier</authors>
+        <jconf>ibm journal of research and development</jconf>
+        <id>3089</id>
+        <label>8</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>symbol error correctin code memori applic</title>
+        <year>1996</year>
+        <authors>c. l. chen</authors>
+        <jconf>ftcs</jconf>
+        <id>710</id>
+        <label>8</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>error correct code semiconductor memori</title>
+        <year>1984</year>
+        <authors>c. l. chen</authors>
+        <jconf>isca</jconf>
+        <id>1678</id>
+        <label>8</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>presid s inform technolog advisori committe s februari digit librari report impact</title>
+        <year>2001</year>
+        <authors>ching-chih chen,sally e. howe,david c. nagel,stephen m. griffin,james lightbourne,walter l. warnick</authors>
+        <jconf>jcdl</jconf>
+        <id>1834</id>
+        <label>9</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>autom semant annot retriev base sharabl ontolog case base learn techniqu</title>
+        <year>2003</year>
+        <authors>ching-chih chen,von-wun soo,chen-yu lee,chung-cheng li,shu lei chen</authors>
+        <jconf>jcdl</jconf>
+        <id>1835</id>
+        <label>9</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>sharabl ontolog retriev histor imag</title>
+        <year>2002</year>
+        <authors>ching-chih chen,von-wun soo,chen-yu lee,jaw jium yeh</authors>
+        <jconf>jcdl</jconf>
+        <id>1836</id>
+        <label>9</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>workshop digit librari asian languag</title>
+        <year>2001</year>
+        <authors>ching-chih chen,su-shing chen</authors>
+        <jconf>jcdl</jconf>
+        <id>1831</id>
+        <label>9</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>enhanc perspect histor cultur documentari informedia technolog</title>
+        <year>2002</year>
+        <authors>ching-chih chen,howard d. wactlar</authors>
+        <jconf>jcdl</jconf>
+        <id>1837</id>
+        <label>9</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>educ multimedia global digit librari develop converg technolog content intern collabor</title>
+        <year>2001</year>
+        <authors>ching-chih chen</authors>
+        <jconf>webnet</jconf>
+        <id>2584</id>
+        <label>9</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>potenti interact videodisc intern cooper document project emperor i</title>
+        <year>1986</year>
+        <authors>ching-chih chen</authors>
+        <jconf>essen symposium</jconf>
+        <id>624</id>
+        <label>9</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>hypermedia multimedia technolog opportun librari s</title>
+        <year>1989</year>
+        <authors>ching-chih chen</authors>
+        <jconf>essen symposium</jconf>
+        <id>625</id>
+        <label>9</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>cd rom west german librari</title>
+        <year>1989</year>
+        <authors>ching-chih chen,david raitt</authors>
+        <jconf>essen symposium</jconf>
+        <id>626</id>
+        <label>9</label>
+        <organization>null</organization>
+    </publication>
+</person>

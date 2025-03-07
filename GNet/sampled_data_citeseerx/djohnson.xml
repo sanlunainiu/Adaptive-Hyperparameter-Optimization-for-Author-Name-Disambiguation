@@ -1,0 +1,2185 @@
+<?xml version="1.0" encoding="utf-8"?>
+<person>
+    <personID>30124434</personID>
+    <FullName>donald byron johnson</FullName>
+    <FirstName>donald</FirstName>
+    <LastName>johnson</LastName>
+    <publication>
+        <title>design commerci data mask facil data privaci algorithm</title>
+        <year>1993</year>
+        <authors>donald byron johnson,stephen m. matyas,an v. le,john d. wilkins</authors>
+        <jconf>acm conference on computer and communications security</jconf>
+        <id>185</id>
+        <label>10</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>public kei extens common cryptograph architectur</title>
+        <year>1993</year>
+        <authors>donald byron johnson,an v. le,stephen m. matyas,john d. wilkins</authors>
+        <jconf>ibm systems journal</jconf>
+        <id>3103</id>
+        <label>10</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>transact secur system extens common cryptograph architectur</title>
+        <year>1991</year>
+        <authors>donald byron johnson,george m. dolan</authors>
+        <jconf>ibm systems journal</jconf>
+        <id>3100</id>
+        <label>10</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>common cryptograph architectur cryptograph applic program interfac</title>
+        <year>1991</year>
+        <authors>donald byron johnson,george m. dolan,michael j. kelly,an v. le,stephen m. matyas</authors>
+        <jconf>ibm systems journal</jconf>
+        <id>3101</id>
+        <label>10</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>distribut hardwar mechan process synchron share bu multiprocessor</title>
+        <year>1994</year>
+        <authors>donald johnson,david j. lilja,john riedl</authors>
+        <jconf>icpp (2)</jconf>
+        <id>1319</id>
+        <label>11</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>circul activ barrier synchron mechan</title>
+        <year>1995</year>
+        <authors>donald johnson,david j. lilja,john riedl</authors>
+        <jconf>icpp (1)</jconf>
+        <id>1320</id>
+        <label>11</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>low cost high perform barrier synchron network workstat</title>
+        <year>1997</year>
+        <authors>donald johnson,david j. lilja,john riedl,james anderson</authors>
+        <jconf>j. parallel distrib. comput.</jconf>
+        <id>3496</id>
+        <label>11</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>formal secur proof signatur scheme partial messag recoveri</title>
+        <year>2001</year>
+        <authors>donald byron johnson,daniel r. l. brown</authors>
+        <jconf>ct-rsa</jconf>
+        <id>340</id>
+        <label>12</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>ae futur resili thought question</title>
+        <year>2000</year>
+        <authors>donald byron johnson</authors>
+        <jconf>aes candidate conference</jconf>
+        <id>56</id>
+        <label>12</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>spert ii vector microprocessor system applic larg problem backpropag train</title>
+        <year>1995</year>
+        <authors>david johnson,john wawrzynek,krste asanovic,brian kingsbury,james beck,nelson morgan</authors>
+        <jconf>nips</jconf>
+        <id>1985</id>
+        <label>13</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>spert ii vector microprocessor system</title>
+        <year>1996</year>
+        <authors>david johnson,john wawrzynek,krste asanovic,brian kingsbury,james beck,nelson morgan</authors>
+        <jconf>ieee computer</jconf>
+        <id>2923</id>
+        <label>13</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>trap architectur lisp system</title>
+        <year>1990</year>
+        <authors>douglas johnson</authors>
+        <jconf>lisp and functional programming</jconf>
+        <id>1885</id>
+        <label>14</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>case read barrier</title>
+        <year>1991</year>
+        <authors>douglas johnson</authors>
+        <jconf>asplos</jconf>
+        <id>112</id>
+        <label>14</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>manag object orient project panel session</title>
+        <year>1995</year>
+        <authors>douglas johnson,laura hill,kenneth s. rubin,john daniels,charles berman,james coplien</authors>
+        <jconf>oopsla</jconf>
+        <id>2008</id>
+        <label>15</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>object orient project manag panel</title>
+        <year>1995</year>
+        <authors>douglas johnson,laura hill,kenneth s. rubin,charles berman,james coplien,john daniels</authors>
+        <jconf>oops messenger</jconf>
+        <id>3635</id>
+        <label>15</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>approxim algorithm combinatori problem</title>
+        <year>1973</year>
+        <authors>david s. johnson</authors>
+        <jconf>stoc</jconf>
+        <id>2445</id>
+        <label>1</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>complex network design problem</title>
+        <year>1978</year>
+        <authors>david s. johnson,jan karel lenstra,a. h. g. rinnooy kan</authors>
+        <jconf>networks</jconf>
+        <id>3615</id>
+        <label>1</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>densest hemispher problem</title>
+        <year>1978</year>
+        <authors>david s. johnson,franco p. preparata</authors>
+        <jconf>theor. comput. sci.</jconf>
+        <id>3934</id>
+        <label>1</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>prize collect steiner tree problem theori practic</title>
+        <year>2000</year>
+        <authors>david s. johnson,maria minkoff,steven phillips</authors>
+        <jconf>soda</jconf>
+        <id>2348</id>
+        <label>1</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>test conjunct queri function inclus depend</title>
+        <year>1984</year>
+        <authors>david s. johnson,anthony c. klug</authors>
+        <jconf>j. comput. syst. sci.</jconf>
+        <id>3421</id>
+        <label>1</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>schedul task nonuniform deadlin processor</title>
+        <year>1976</year>
+        <authors>david s. johnson,m. r. garey</authors>
+        <jconf>j. acm</jconf>
+        <id>3337</id>
+        <label>1</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>theoretician s guid experiment analysi algorithm</title>
+        <year>1999</year>
+        <authors>david s. johnson</authors>
+        <jconf>data structures, near neighbor searches, and methodology</jconf>
+        <id>538</id>
+        <label>1</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>np complet geometr problem</title>
+        <year>1976</year>
+        <authors>david s. johnson,m. r. garey,ronald l. graham</authors>
+        <jconf>stoc</jconf>
+        <id>2439</id>
+        <label>1</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>approxim algorithm bin cover</title>
+        <year>2001</year>
+        <authors>david s. johnson,janos csirik,claire kenyon</authors>
+        <jconf>soda</jconf>
+        <id>2341</id>
+        <label>1</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>simplifi np complet graph problem</title>
+        <year>1976</year>
+        <authors>david s. johnson,m. r. garey,larry j. stockmeyer</authors>
+        <jconf>theor. comput. sci.</jconf>
+        <id>3931</id>
+        <label>1</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>sum squar algorithm bin pack</title>
+        <year>2000</year>
+        <authors>david s. johnson,janos csirik,claire kenyon,james b. orlin,peter w. shor,richard r. weber</authors>
+        <jconf>stoc</jconf>
+        <id>2436</id>
+        <label>1</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>pack strong np complet result motiv exampl implic</title>
+        <year>1978</year>
+        <authors>david s. johnson,m. r. garey</authors>
+        <jconf>j. acm</jconf>
+        <id>3338</id>
+        <label>1</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>organ bin pack heurist</title>
+        <year>1999</year>
+        <authors>david s. johnson,janos csirik,claire kenyon,peter w. shor,richard r. weber</authors>
+        <jconf>alenex</jconf>
+        <id>73</id>
+        <label>1</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>complex color circular arc chord</title>
+        <year>1980</year>
+        <authors>david s. johnson,m. r. garey,g. l. miller,christos h. papadimitriou</authors>
+        <jconf>siam j. matrix analysis applications</jconf>
+        <id>3776</id>
+        <label>1</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>complex flowshop jobshop schedul</title>
+        <year>1976</year>
+        <authors>david s. johnson,michael r. garey,ravi sethi</authors>
+        <jconf>math. oper. res.</jconf>
+        <id>3576</id>
+        <label>1</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>complex optim graph color</title>
+        <year>1976</year>
+        <authors>david s. johnson,m. r. garey</authors>
+        <jconf>j. acm</jconf>
+        <id>3336</id>
+        <label>1</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>complex gener lloyd max problem</title>
+        <year>1982</year>
+        <authors>david s. johnson,m. r. garey,hans s. witsenhausen</authors>
+        <jconf>ieee trans. information theory</jconf>
+        <id>3966</id>
+        <label>1</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>planar hamiltonian circuit problem np complet</title>
+        <year>1976</year>
+        <authors>david s. johnson,m. r. garey,robert endre tarjan</authors>
+        <jconf>siam j. comput.</jconf>
+        <id>3761</id>
+        <label>1</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>approxim algorithm combinatori problem</title>
+        <year>1974</year>
+        <authors>david s. johnson</authors>
+        <jconf>j. comput. syst. sci.</jconf>
+        <id>3420</id>
+        <label>1</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>np complet column ongo guid</title>
+        <year>1981</year>
+        <authors>david s. johnson</authors>
+        <jconf>j. algorithms</jconf>
+        <id>3356</id>
+        <label>1</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>dual version dimension bin pack problem</title>
+        <year>1984</year>
+        <authors>david s. johnson,susan f. assmann,daniel j. kleitman,joseph y.-t. leung</authors>
+        <jconf>j. algorithms</jconf>
+        <id>3350</id>
+        <label>1</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>optim conjunct queri attribut domain ar disjoint extend abstract</title>
+        <year>1981</year>
+        <authors>david s. johnson,anthony c. klug</authors>
+        <jconf>focs</jconf>
+        <id>675</id>
+        <label>1</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>optim conjunct queri untyp variabl</title>
+        <year>1983</year>
+        <authors>david s. johnson,anthony c. klug</authors>
+        <jconf>siam j. comput.</jconf>
+        <id>3765</id>
+        <label>1</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>test conjunct queri function inclus depend</title>
+        <year>1982</year>
+        <authors>david s. johnson,anthony c. klug</authors>
+        <jconf>pods</jconf>
+        <id>2104</id>
+        <label>1</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>test conjunct queri function inclus depend</title>
+        <year>1984</year>
+        <authors>david s. johnson,anthony c. klug</authors>
+        <jconf>j. comput. syst. sci.</jconf>
+        <id>3421</id>
+        <label>1</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>minim channel densiti shift compon</title>
+        <year>1994</year>
+        <authors>david s. johnson,andrea s. lapaugh,ron y. pinter</authors>
+        <jconf>soda</jconf>
+        <id>2347</id>
+        <label>1</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>schedul file transfer</title>
+        <year>1985</year>
+        <authors>david s. johnson,edward g. coffman jr.,m. r. garey,andrea s. lapaugh</authors>
+        <jconf>siam j. comput.</jconf>
+        <id>3752</id>
+        <label>1</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>schedul file transfer distribut network</title>
+        <year>1983</year>
+        <authors>david s. johnson,edward g. coffman jr.,m. r. garey,andrea s. lapaugh</authors>
+        <jconf>podc</jconf>
+        <id>2094</id>
+        <label>1</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>effici robust stream provis vpn</title>
+        <year>2003</year>
+        <authors>david johnson,zhuoqing morley mao,oliver spatscheck,jacobus e. van der merwe,jia wang</authors>
+        <jconf>www</jconf>
+        <id>2659</id>
+        <label>1</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>scalabl accur identif level forward path</title>
+        <year>2004</year>
+        <authors>david johnson,zhuoqing morley mao,jennifer rexford,jia wang,randy h. katz</authors>
+        <jconf>infocom</jconf>
+        <id>1606</id>
+        <label>1</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>travel salesman problem report state art</title>
+        <year>1994</year>
+        <authors>david s. johnson</authors>
+        <jconf>ifip congress (1)</jconf>
+        <id>1540</id>
+        <label>1</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>cut stock approach bin pack theori experi</title>
+        <year>2003</year>
+        <authors>david s. johnson,david applegate,luciana s. buriol,bernard l. dillard,peter w. shor</authors>
+        <jconf>alenex</jconf>
+        <id>71</id>
+        <label>1</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>optim simul anneal experiment evalu part ii graph color number partit</title>
+        <year>1991</year>
+        <authors>david s. johnson,cecilia r. aragon,lyle a. mcgeoch,catherine schevon</authors>
+        <jconf>operations research</jconf>
+        <id>3239</id>
+        <label>1</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>dual version dimension bin pack problem</title>
+        <year>1984</year>
+        <authors>david s. johnson,susan f. assmann,daniel j. kleitman,joseph y.-t. leung</authors>
+        <jconf>j. algorithms</jconf>
+        <id>3350</id>
+        <label>1</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>geometr maximum travel salesman problem</title>
+        <year>2003</year>
+        <authors>david s. johnson,alexander i. barvinok,sandor p. fekete,arie tamir,gerhard j. woeginger,russell woodroofe</authors>
+        <jconf>j. acm</jconf>
+        <id>3333</id>
+        <label>1</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>maximum travel salesman problem polyhedr norm</title>
+        <year>1998</year>
+        <authors>david s. johnson,alexander i. barvinok,gerhard j. woeginger,russell woodroofe</authors>
+        <jconf>ipco</jconf>
+        <id>1617</id>
+        <label>1</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>unexpect expect behavior result bin pack</title>
+        <year>1984</year>
+        <authors>david s. johnson,jon louis bentley,frank thomson leighton,catherine c. mcgeoch,lyle a. mcgeoch</authors>
+        <jconf>stoc</jconf>
+        <id>2431</id>
+        <label>1</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>complex search graph</title>
+        <year>1988</year>
+        <authors>david s. johnson,nimrod megiddo,s. louis hakimi,m. r. garey,christos h. papadimitriou</authors>
+        <jconf>j. acm</jconf>
+        <id>3347</id>
+        <label>1</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>effici robust stream provis vpn</title>
+        <year>2003</year>
+        <authors>david johnson,zhuoqing morley mao,oliver spatscheck,jacobus e. van der merwe,jia wang</authors>
+        <jconf>www</jconf>
+        <id>2659</id>
+        <label>1</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>prize collect steiner tree problem theori practic</title>
+        <year>2000</year>
+        <authors>david s. johnson,maria minkoff,steven phillips</authors>
+        <jconf>soda</jconf>
+        <id>2348</id>
+        <label>1</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>data structur travel salesmen</title>
+        <year>1993</year>
+        <authors>david s. johnson,michael l. fredman,lyle a. mcgeoch,g. ostheimer</authors>
+        <jconf>soda</jconf>
+        <id>2342</id>
+        <label>1</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>data structur travel salesmen</title>
+        <year>1995</year>
+        <authors>david s. johnson,michael l. fredman,lyle a. mcgeoch,g. ostheimer</authors>
+        <jconf>j. algorithms</jconf>
+        <id>3353</id>
+        <label>1</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>easi local search</title>
+        <year>1988</year>
+        <authors>david s. johnson,christos h. papadimitriou,mihalis yannakakis</authors>
+        <jconf>j. comput. syst. sci.</jconf>
+        <id>3423</id>
+        <label>1</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>easi local search extend abstract</title>
+        <year>1985</year>
+        <authors>david s. johnson,christos h. papadimitriou,mihalis yannakakis</authors>
+        <jconf>focs</jconf>
+        <id>677</id>
+        <label>1</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>gener maxim independ set</title>
+        <year>1988</year>
+        <authors>david s. johnson,christos h. papadimitriou,mihalis yannakakis</authors>
+        <jconf>inf. process. lett.</jconf>
+        <id>3261</id>
+        <label>1</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>complex multiwai cut extend abstract</title>
+        <year>1992</year>
+        <authors>david s. johnson,elias dahlhaus,christos h. papadimitriou,paul d. seymour,mihalis yannakakis</authors>
+        <jconf>stoc</jconf>
+        <id>2437</id>
+        <label>1</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>gener planar match</title>
+        <year>1990</year>
+        <authors>david s. johnson,francine berman,frank thomson leighton,peter w. shor,larry snyder</authors>
+        <jconf>j. algorithms</jconf>
+        <id>3351</id>
+        <label>1</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>perform effici data driven evalu scheme</title>
+        <year>1993</year>
+        <authors>david s. johnson,francine berman</authors>
+        <jconf>j. parallel distrib. comput.</jconf>
+        <id>3495</id>
+        <label>1</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>note bisect minimum span tree</title>
+        <year>1978</year>
+        <authors>david s. johnson,william m. boyce,m. r. garey</authors>
+        <jconf>networks</jconf>
+        <id>3613</id>
+        <label>1</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>schedul equal length task treelik preced constraint minim maximum late</title>
+        <year>1977</year>
+        <authors>david s. johnson,peter brucker,michael r. garey</authors>
+        <jconf>math. oper. res.</jconf>
+        <id>3575</id>
+        <label>1</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>asymmetr travel salesman problem algorithm instanc gener test</title>
+        <year>2001</year>
+        <authors>david s. johnson,jill cirasella,lyle a. mcgeoch,weixiong zhang</authors>
+        <jconf>alenex</jconf>
+        <id>72</id>
+        <label>1</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>bin pack divis item size</title>
+        <year>1987</year>
+        <authors>david s. johnson,edward g. coffman jr.,m. r. garey</authors>
+        <jconf>j. complexity</jconf>
+        <id>3374</id>
+        <label>1</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>bin pack discret item size part i perfect pack theorem averag case behavior optim pack</title>
+        <year>2000</year>
+        <authors>david s. johnson,edward g. coffman jr.,costas courcoubetis,m. r. garey,peter w. shor,richard r. weber,mihalis yannakakis</authors>
+        <jconf>siam j. discrete math.</jconf>
+        <id>3772</id>
+        <label>1</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>complex multitermin cut</title>
+        <year>1994</year>
+        <authors>david s. johnson,elias dahlhaus,christos h. papadimitriou,paul d. seymour,mihalis yannakakis</authors>
+        <jconf>siam j. comput.</jconf>
+        <id>3754</id>
+        <label>1</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>complex search graph</title>
+        <year>1988</year>
+        <authors>david s. johnson,nimrod megiddo,s. louis hakimi,m. r. garey,christos h. papadimitriou</authors>
+        <jconf>j. acm</jconf>
+        <id>3347</id>
+        <label>1</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>complex search graph preliminari version</title>
+        <year>1981</year>
+        <authors>david s. johnson,nimrod megiddo,s. louis hakimi,m. r. garey,christos h. papadimitriou</authors>
+        <jconf>focs</jconf>
+        <id>682</id>
+        <label>1</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>densest hemispher problem</title>
+        <year>1978</year>
+        <authors>david s. johnson,franco p. preparata</authors>
+        <jconf>theor. comput. sci.</jconf>
+        <id>3934</id>
+        <label>1</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>triangul simpl polygon</title>
+        <year>1978</year>
+        <authors>david s. johnson,m. r. garey,franco p. preparata,robert endre tarjan</authors>
+        <jconf>inf. process. lett.</jconf>
+        <id>3254</id>
+        <label>1</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>asymptot experiment analysi held karp travel salesman bound</title>
+        <year>1996</year>
+        <authors>david s. johnson,lyle a. mcgeoch,edward e. rothberg</authors>
+        <jconf>soda</jconf>
+        <id>2349</id>
+        <label>1</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>schedul unit time task arbitrari releas time deadlin</title>
+        <year>1981</year>
+        <authors>david s. johnson,m. r. garey,barbara b. simons,robert endre tarjan</authors>
+        <jconf>siam j. comput.</jconf>
+        <id>3760</id>
+        <label>1</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>applic graph color print circuit test work paper</title>
+        <year>1975</year>
+        <authors>david s. johnson,m. r. garey,h. c. so</authors>
+        <jconf>focs</jconf>
+        <id>667</id>
+        <label>1</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>simplifi np complet graph problem</title>
+        <year>1976</year>
+        <authors>david s. johnson,m. r. garey,larry j. stockmeyer</authors>
+        <jconf>theor. comput. sci.</jconf>
+        <id>3931</id>
+        <label>1</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>simplifi np complet problem</title>
+        <year>1974</year>
+        <authors>david s. johnson,m. r. garey,larry j. stockmeyer</authors>
+        <jconf>stoc</jconf>
+        <id>2440</id>
+        <label>1</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>rectilinear steiner tree problem np complet</title>
+        <year>1977</year>
+        <authors>david s. johnson,m. r. garey</authors>
+        <jconf>siam journal of applied mathematics</jconf>
+        <id>3743</id>
+        <label>1</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>theorem bin pack</title>
+        <year>1985</year>
+        <authors>david s. johnson,m. r. garey</authors>
+        <jconf>j. complexity</jconf>
+        <id>3375</id>
+        <label>1</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>processor schedul start time deadlin</title>
+        <year>1977</year>
+        <authors>david s. johnson,m. r. garey</authors>
+        <jconf>siam j. comput.</jconf>
+        <id>3758</id>
+        <label>1</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>triangul simpl polygon</title>
+        <year>1978</year>
+        <authors>david s. johnson,m. r. garey,franco p. preparata,robert endre tarjan</authors>
+        <jconf>inf. process. lett.</jconf>
+        <id>3254</id>
+        <label>1</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>bin pack discret item size part ii tight bound fit</title>
+        <year>1997</year>
+        <authors>david s. johnson,edward g. coffman jr.,peter w. shor,richard r. weber</authors>
+        <jconf>random struct. algorithms</jconf>
+        <id>3729</id>
+        <label>1</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>dynam bin pack</title>
+        <year>1983</year>
+        <authors>david s. johnson,edward g. coffman jr.,m. r. garey</authors>
+        <jconf>siam j. comput.</jconf>
+        <id>3751</id>
+        <label>1</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>fundament discrep averag case analys discret continu distribut bin pack case studi</title>
+        <year>1991</year>
+        <authors>david s. johnson,edward g. coffman jr.,costas courcoubetis,m. r. garey,lyle a. mcgeoch,peter w. shor,richard r. weber,mihalis yannakakis</authors>
+        <jconf>stoc</jconf>
+        <id>2434</id>
+        <label>1</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>algorithm set partit problem aris design multipurpos unit</title>
+        <year>1977</year>
+        <authors>david s. johnson,m. r. garey,frank k. hwang</authors>
+        <jconf>ieee trans. computers</jconf>
+        <id>3865</id>
+        <label>1</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>bound space line bin pack</title>
+        <year>1991</year>
+        <authors>david s. johnson,janos csirik</authors>
+        <jconf>soda</jconf>
+        <id>2340</id>
+        <label>1</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>markov chain comput proof averag case analysi fit bin pack</title>
+        <year>1993</year>
+        <authors>david s. johnson,edward g. coffman jr.,peter w. shor,richard r. weber</authors>
+        <jconf>stoc</jconf>
+        <id>2435</id>
+        <label>1</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>bound space line bin pack</title>
+        <year>2001</year>
+        <authors>david s. johnson,janos csirik</authors>
+        <jconf>algorithmica</jconf>
+        <id>2708</id>
+        <label>1</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>applic bin pack multiprocessor schedul</title>
+        <year>1978</year>
+        <authors>david s. johnson,edward g. coffman jr.,m. r. garey</authors>
+        <jconf>siam j. comput.</jconf>
+        <id>3750</id>
+        <label>1</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>perfect pack theorem averag case behavior optim onlin bin pack</title>
+        <year>2002</year>
+        <authors>david s. johnson,edward g. coffman jr.,costas courcoubetis,michael r. garey,peter w. shor,richard r. weber,mihalis yannakakis</authors>
+        <jconf>siam review</jconf>
+        <id>3778</id>
+        <label>1</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>ar tractabl instanc max tndepend set</title>
+        <year>1999</year>
+        <authors>david s. johnson,mario szegedy</authors>
+        <jconf>soda</jconf>
+        <id>2350</id>
+        <label>1</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>optim intraprocedur branch align</title>
+        <year>1997</year>
+        <authors>david s. johnson,cliff young,david r. karger,michael d. smith</authors>
+        <jconf>pldi</jconf>
+        <id>2092</id>
+        <label>1</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>perform bound level orient dimension pack algorithm</title>
+        <year>1980</year>
+        <authors>david s. johnson,edward g. coffman jr.,m. r. garey,robert endre tarjan</authors>
+        <jconf>siam j. comput.</jconf>
+        <id>3753</id>
+        <label>1</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>schedul file transfer</title>
+        <year>1985</year>
+        <authors>david s. johnson,edward g. coffman jr.,m. r. garey,andrea s. lapaugh</authors>
+        <jconf>siam j. comput.</jconf>
+        <id>3752</id>
+        <label>1</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>unit disk graph</title>
+        <year>1990</year>
+        <authors>david s. johnson,brent n. clark,charles j. colbourn</authors>
+        <jconf>discrete mathematics</jconf>
+        <id>2995</id>
+        <label>1</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>fast algorithm bin pack</title>
+        <year>1974</year>
+        <authors>david s. johnson</authors>
+        <jconf>j. comput. syst. sci.</jconf>
+        <id>3419</id>
+        <label>1</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>bin pack discret item size part i perfect pack theorem averag case behavior optim pack</title>
+        <year>2000</year>
+        <authors>david s. johnson,edward g. coffman jr.,costas courcoubetis,m. r. garey,peter w. shor,richard r. weber,mihalis yannakakis</authors>
+        <jconf>siam j. discrete math.</jconf>
+        <id>3772</id>
+        <label>1</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>easi local search</title>
+        <year>1988</year>
+        <authors>david s. johnson,christos h. papadimitriou,mihalis yannakakis</authors>
+        <jconf>j. comput. syst. sci.</jconf>
+        <id>3423</id>
+        <label>1</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>fundament discrep averag case analys discret continu distribut bin pack case studi</title>
+        <year>1991</year>
+        <authors>david s. johnson,edward g. coffman jr.,costas courcoubetis,m. r. garey,lyle a. mcgeoch,peter w. shor,richard r. weber,mihalis yannakakis</authors>
+        <jconf>stoc</jconf>
+        <id>2434</id>
+        <label>1</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>hypergraph planar complex draw venn diagram</title>
+        <year>1987</year>
+        <authors>david s. johnson,henry o. pollak</authors>
+        <jconf>journal of graph theory</jconf>
+        <id>3443</id>
+        <label>1</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>bound space line bin pack</title>
+        <year>2001</year>
+        <authors>david s. johnson,janos csirik</authors>
+        <jconf>algorithmica</jconf>
+        <id>2708</id>
+        <label>1</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>approxim algorithm bin cover</title>
+        <year>2001</year>
+        <authors>david s. johnson,janos csirik,claire kenyon</authors>
+        <jconf>soda</jconf>
+        <id>2341</id>
+        <label>1</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>sum squar algorithm bin pack</title>
+        <year>2006</year>
+        <authors>david s. johnson,janos csirik,claire kenyon,james b. orlin,peter w. shor,richard r. weber</authors>
+        <jconf>j. acm</jconf>
+        <id>3335</id>
+        <label>1</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>organ bin pack heurist</title>
+        <year>1999</year>
+        <authors>david s. johnson,janos csirik,claire kenyon,peter w. shor,richard r. weber</authors>
+        <jconf>alenex</jconf>
+        <id>73</id>
+        <label>1</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>complex multitermin cut</title>
+        <year>1994</year>
+        <authors>david s. johnson,elias dahlhaus,christos h. papadimitriou,paul d. seymour,mihalis yannakakis</authors>
+        <jconf>siam j. comput.</jconf>
+        <id>3754</id>
+        <label>1</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>local optim travel salesman problem</title>
+        <year>1990</year>
+        <authors>david s. johnson</authors>
+        <jconf>icalp</jconf>
+        <id>881</id>
+        <label>1</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>minim channel densiti shift compon</title>
+        <year>1994</year>
+        <authors>david s. johnson,andrea s. lapaugh,ron y. pinter</authors>
+        <jconf>soda</jconf>
+        <id>2347</id>
+        <label>1</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>gener maxim independ set</title>
+        <year>1988</year>
+        <authors>david s. johnson,christos h. papadimitriou,mihalis yannakakis</authors>
+        <jconf>inf. process. lett.</jconf>
+        <id>3261</id>
+        <label>1</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>worst case perform bound simpl dimension pack algorithm</title>
+        <year>1974</year>
+        <authors>david s. johnson,alan j. demers,jeffrey d. ullman,m. r. garey,ronald l. graham</authors>
+        <jconf>siam j. comput.</jconf>
+        <id>3764</id>
+        <label>1</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>knapsack partit dynam program techniqu tree</title>
+        <year>1983</year>
+        <authors>d. s. johnson,k. a. niemi</authors>
+        <jconf>math. oper. res.</jconf>
+        <id>3577</id>
+        <label>1</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>complex checker n n board preliminari report</title>
+        <year>1978</year>
+        <authors>david s. johnson,aviezri s. fraenkel,m. r. garey,t. schaefer,yaacov yesha</authors>
+        <jconf>focs</jconf>
+        <id>666</id>
+        <label>1</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>data structur travel salesmen</title>
+        <year>1995</year>
+        <authors>david s. johnson,michael l. fredman,lyle a. mcgeoch,g. ostheimer</authors>
+        <jconf>j. algorithms</jconf>
+        <id>3353</id>
+        <label>1</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>complex result multiprocessor schedul resourc constraint</title>
+        <year>1975</year>
+        <authors>david s. johnson,m. r. garey</authors>
+        <jconf>siam j. comput.</jconf>
+        <id>3757</id>
+        <label>1</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>data structur travel salesmen abstract</title>
+        <year>1990</year>
+        <authors>david s. johnson</authors>
+        <jconf>swat</jconf>
+        <id>2455</id>
+        <label>1</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>compos function minim imag size</title>
+        <year>1985</year>
+        <authors>david s. johnson,m. r. garey</authors>
+        <jconf>siam j. comput.</jconf>
+        <id>3759</id>
+        <label>1</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>fast algorithm bin pack</title>
+        <year>1974</year>
+        <authors>david s. johnson</authors>
+        <jconf>j. comput. syst. sci.</jconf>
+        <id>3419</id>
+        <label>1</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>fast alloc algorithm</title>
+        <year>1972</year>
+        <authors>david s. johnson</authors>
+        <jconf>swat (focs)</jconf>
+        <id>674</id>
+        <label>1</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>worst case perform bound simpl dimension pack algorithm</title>
+        <year>1974</year>
+        <authors>david s. johnson,alan j. demers,jeffrey d. ullman,m. r. garey,ronald l. graham</authors>
+        <jconf>siam j. comput.</jconf>
+        <id>3764</id>
+        <label>1</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>approxim algorithm combinatori problem</title>
+        <year>1974</year>
+        <authors>david s. johnson</authors>
+        <jconf>j. comput. syst. sci.</jconf>
+        <id>3420</id>
+        <label>1</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>algorithm set partit problem aris design multipurpos unit</title>
+        <year>1977</year>
+        <authors>david s. johnson,m. r. garey,frank k. hwang</authors>
+        <jconf>ieee trans. computers</jconf>
+        <id>3865</id>
+        <label>1</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>optim conjunct queri untyp variabl</title>
+        <year>1983</year>
+        <authors>david s. johnson,anthony c. klug</authors>
+        <jconf>siam j. comput.</jconf>
+        <id>3765</id>
+        <label>1</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>optim simul anneal experiment evalu part i graph partit</title>
+        <year>1989</year>
+        <authors>david s. johnson,cecilia r. aragon,lyle a. mcgeoch,catherine schevon</authors>
+        <jconf>operations research</jconf>
+        <id>3238</id>
+        <label>1</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>asymptot experiment analysi held karp travel salesman bound</title>
+        <year>1996</year>
+        <authors>david s. johnson,lyle a. mcgeoch,edward e. rothberg</authors>
+        <jconf>soda</jconf>
+        <id>2349</id>
+        <label>1</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>perform guarante schedul algorithm</title>
+        <year>1978</year>
+        <authors>david s. johnson,m. r. garey,ronald l. graham</authors>
+        <jconf>operations research</jconf>
+        <id>3237</id>
+        <label>1</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>resourc constrain schedul gener bin pack</title>
+        <year>1976</year>
+        <authors>david s. johnson,m. r. garey,ronald l. graham,andrew chi-chih yao</authors>
+        <jconf>j. comb. theory, ser. a</jconf>
+        <id>3433</id>
+        <label>1</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>schedul unit time task arbitrari releas time deadlin</title>
+        <year>1981</year>
+        <authors>david s. johnson,m. r. garey,barbara b. simons,robert endre tarjan</authors>
+        <jconf>siam j. comput.</jconf>
+        <id>3760</id>
+        <label>1</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>local optim travel salesman problem</title>
+        <year>1990</year>
+        <authors>david s. johnson</authors>
+        <jconf>icalp</jconf>
+        <id>881</id>
+        <label>1</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>algorithm preemptiv schedul tree</title>
+        <year>1980</year>
+        <authors>donald b. johnson,teofilo f. gonzalez</authors>
+        <jconf>j. acm</jconf>
+        <id>3339</id>
+        <label>2</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>reduc float point graph</title>
+        <year>1979</year>
+        <authors>donald b. johnson,webb miller,brian minnihan,celia wrathall</authors>
+        <jconf>j. acm</jconf>
+        <id>3345</id>
+        <label>2</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>lower bound select x y multiset</title>
+        <year>1978</year>
+        <authors>donald b. johnson,samuel d. kashdan</authors>
+        <jconf>j. acm</jconf>
+        <id>3344</id>
+        <label>2</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>prioriti queue initi queue oper o log log d time</title>
+        <year>1982</year>
+        <authors>donald b. johnson</authors>
+        <jconf>mathematical systems theory</jconf>
+        <id>3583</id>
+        <label>2</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>connect compon o lg v parallel time crew pram</title>
+        <year>1991</year>
+        <authors>donald b. johnson,panagiotis takis metaxas</authors>
+        <jconf>focs</jconf>
+        <id>676</id>
+        <label>2</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>parallel algorithm minimum cut maximum flow planar network preliminari version</title>
+        <year>1982</year>
+        <authors>donald b. johnson,shankar m. venkatesan</authors>
+        <jconf>focs</jconf>
+        <id>678</id>
+        <label>2</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>partit planar flow network preliminari version</title>
+        <year>1983</year>
+        <authors>donald b. johnson,shankar m. venkatesan</authors>
+        <jconf>focs</jconf>
+        <id>679</id>
+        <label>2</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>find optim quorum assign distribut databas</title>
+        <year>1991</year>
+        <authors>donald b. johnson,larry raab</authors>
+        <jconf>icpp (3)</jconf>
+        <id>1321</id>
+        <label>2</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>optim algorithm vertex updat problem minimum span tree</title>
+        <year>1992</year>
+        <authors>donald b. johnson,panagiotis takis metaxas</authors>
+        <jconf>ipps</jconf>
+        <id>1642</id>
+        <label>2</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>tight upper bound benefit replic consist control protocol</title>
+        <year>1991</year>
+        <authors>donald b. johnson,larry raab</authors>
+        <jconf>pods</jconf>
+        <id>2105</id>
+        <label>2</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>parallel algorithm comput minimum span tree</title>
+        <year>1992</year>
+        <authors>donald b. johnson,panagiotis takis metaxas</authors>
+        <jconf>spaa</jconf>
+        <id>2365</id>
+        <label>2</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>gener select rank preliminari version</title>
+        <year>1980</year>
+        <authors>donald b. johnson,greg n. frederickson</authors>
+        <jconf>stoc</jconf>
+        <id>2438</id>
+        <label>2</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>gener search set induc network</title>
+        <year>1980</year>
+        <authors>donald b. johnson,greg n. frederickson</authors>
+        <jconf>icalp</jconf>
+        <id>878</id>
+        <label>2</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>find k path p center gener search good data structur</title>
+        <year>1983</year>
+        <authors>donald b. johnson,greg n. frederickson</authors>
+        <jconf>j. algorithms</jconf>
+        <id>3352</id>
+        <label>2</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>parallel algorithm comput minimum span tree</title>
+        <year>1995</year>
+        <authors>donald b. johnson,panagiotis takis metaxas</authors>
+        <jconf>j. algorithms</jconf>
+        <id>3357</id>
+        <label>2</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>multimedia confer proceed</title>
+        <year>1996</year>
+        <authors>donald b. johnson,matthew cheyney,peter a. gloor,fillia makedon,james matthews,panagiotis takis metaxas</authors>
+        <jconf>commun. acm</jconf>
+        <id>2769</id>
+        <label>2</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>effect replic data avail</title>
+        <year>1991</year>
+        <authors>donald b. johnson,larry raab</authors>
+        <jconf>int. journal in computer simulation</jconf>
+        <id>3130</id>
+        <label>2</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>complex select rank x y matric sort column</title>
+        <year>1982</year>
+        <authors>donald b. johnson,greg n. frederickson</authors>
+        <jconf>j. comput. syst. sci.</jconf>
+        <id>3418</id>
+        <label>2</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>connect compon o log n parallel time crew pram</title>
+        <year>1997</year>
+        <authors>donald b. johnson,panagiotis takis metaxas</authors>
+        <jconf>j. comput. syst. sci.</jconf>
+        <id>3422</id>
+        <label>2</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>tight upper bound benefit replica control protocol</title>
+        <year>1995</year>
+        <authors>donald b. johnson,larry raab</authors>
+        <jconf>j. comput. syst. sci.</jconf>
+        <id>3424</id>
+        <label>2</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>find elementari circuit direct graph</title>
+        <year>1975</year>
+        <authors>donald b. johnson</authors>
+        <jconf>siam j. comput.</jconf>
+        <id>3763</id>
+        <label>2</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>erratum gener select rank sort matric</title>
+        <year>1990</year>
+        <authors>donald b. johnson,greg n. frederickson</authors>
+        <jconf>siam j. comput.</jconf>
+        <id>3756</id>
+        <label>2</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>gener select rank sort matric</title>
+        <year>1984</year>
+        <authors>donald b. johnson,greg n. frederickson</authors>
+        <jconf>siam j. comput.</jconf>
+        <id>3755</id>
+        <label>2</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>select kth element x y x x m</title>
+        <year>1978</year>
+        <authors>donald b. johnson,tetsuo mizoguchi</authors>
+        <jconf>siam j. comput.</jconf>
+        <id>3766</id>
+        <label>2</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>complex network reliabl optim resourc placement problem</title>
+        <year>1994</year>
+        <authors>donald b. johnson,larry raab</authors>
+        <jconf>siam j. comput.</jconf>
+        <id>3767</id>
+        <label>2</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>optim algorithm singl multipl vertex updat problem minimum span tree</title>
+        <year>1996</year>
+        <authors>donald b. johnson,panagiotis takis metaxas</authors>
+        <jconf>algorithmica</jconf>
+        <id>2711</id>
+        <label>2</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>prioriti queue updat find minimum span tree</title>
+        <year>1975</year>
+        <authors>donald b. johnson</authors>
+        <jconf>inf. process. lett.</jconf>
+        <id>3260</id>
+        <label>2</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>sort number linear expect time optim extra space</title>
+        <year>1982</year>
+        <authors>donald b. johnson,teofilo f. gonzalez</authors>
+        <jconf>inf. process. lett.</jconf>
+        <id>3257</id>
+        <label>2</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>note dijkstra s shortest path algorithm</title>
+        <year>1973</year>
+        <authors>donald b. johnson</authors>
+        <jconf>j. acm</jconf>
+        <id>3341</id>
+        <label>2</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>effici algorithm shortest path spars network</title>
+        <year>1977</year>
+        <authors>donald b. johnson</authors>
+        <jconf>j. acm</jconf>
+        <id>3342</id>
+        <label>2</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>parallel algorithm minimum cut maximum flow planar network</title>
+        <year>1987</year>
+        <authors>donald b. johnson</authors>
+        <jconf>j. acm</jconf>
+        <id>3343</id>
+        <label>2</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>adapt demand driven multicast rout multi hop wireless ad hoc network</title>
+        <year>2001</year>
+        <authors>david b. johnson,jorjeta g. jetcheva</authors>
+        <jconf>mobihoc</jconf>
+        <id>1960</id>
+        <label>3</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>packet leash defens wormhol attack wireless network</title>
+        <year>2003</year>
+        <authors>david b. johnson,yih-chun hu,adrian perrig</authors>
+        <jconf>infocom</jconf>
+        <id>1594</id>
+        <label>3</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>imhp mobil host protocol internet</title>
+        <year>1994</year>
+        <authors>david b. johnson,charles e. perkins,andrew myles</authors>
+        <jconf>computer networks and isdn systems</jconf>
+        <id>2880</id>
+        <label>3</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>mobil host protocol support rout optim authent</title>
+        <year>1995</year>
+        <authors>david b. johnson,andrew myles,charles e. perkins</authors>
+        <jconf>ieee journal on selected areas in communications</jconf>
+        <id>3530</id>
+        <label>3</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>rout optim mobil ip</title>
+        <year>1998</year>
+        <authors>david b. johnson,charles e. perkins</authors>
+        <jconf>cluster computing</jconf>
+        <id>2861</id>
+        <label>3</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>editori mobil network internet</title>
+        <year>1998</year>
+        <authors>david b. johnson,charles e. perkins</authors>
+        <jconf>monet</jconf>
+        <id>3574</id>
+        <label>3</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>complet asynchron optimist recoveri minim rollback</title>
+        <year>1995</year>
+        <authors>david b. johnson,sean w. smith,j. d. tygar</authors>
+        <jconf>ftcs</jconf>
+        <id>716</id>
+        <label>3</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>internet support wireless mobil network</title>
+        <year>1997</year>
+        <authors>david b. johnson</authors>
+        <jconf>podc</jconf>
+        <id>2096</id>
+        <label>3</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>recoveri distribut system asynchron messag log checkpoint</title>
+        <year>1988</year>
+        <authors>david b. johnson,willy zwaenepoel</authors>
+        <jconf>podc</jconf>
+        <id>2097</id>
+        <label>3</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>effici transpar optimist rollback recoveri distribut applic program</title>
+        <year>1993</year>
+        <authors>david b. johnson</authors>
+        <jconf>srds</jconf>
+        <id>2397</id>
+        <label>3</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>power mode schedul ad hoc network</title>
+        <year>2002</year>
+        <authors>david b. johnson,santashil palchaudhuri</authors>
+        <jconf>icnp</jconf>
+        <id>1230</id>
+        <label>3</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>ensur cach fresh demand ad hoc network rout protocol</title>
+        <year>2002</year>
+        <authors>david b. johnson,yih-chun hu</authors>
+        <jconf>pomc</jconf>
+        <id>2109</id>
+        <label>3</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>sead secur effici distanc vector rout mobil wireless ad hoc network</title>
+        <year>2002</year>
+        <authors>david b. johnson,yih-chun hu,adrian perrig</authors>
+        <jconf>wmcsa</jconf>
+        <id>2623</id>
+        <label>3</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>design evalu metropolitan area multiti wireless ad hoc network architectur</title>
+        <year>2003</year>
+        <authors>david b. johnson,jorjeta g. jetcheva,yih-chun hu,santashil palchaudhuri,amit kumar saha</authors>
+        <jconf>wmcsa</jconf>
+        <id>2624</id>
+        <label>3</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>cach strategi demand rout protocol wireless ad hoc network</title>
+        <year>2000</year>
+        <authors>david b. johnson,yih-chun hu</authors>
+        <jconf>mobicom</jconf>
+        <id>1955</id>
+        <label>3</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>mobil support ipv</title>
+        <year>1996</year>
+        <authors>david b. johnson,charles e. perkins</authors>
+        <jconf>mobicom</jconf>
+        <id>1957</id>
+        <label>3</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>perform comparison multi hop wireless ad hoc network rout protocol</title>
+        <year>1998</year>
+        <authors>david b. johnson,josh broch,david a. maltz,yih-chun hu,jorjeta g. jetcheva</authors>
+        <jconf>mobicom</jconf>
+        <id>1954</id>
+        <label>3</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>implicit sourc rout demand ad hoc network rout</title>
+        <year>2001</year>
+        <authors>david b. johnson,yih-chun hu</authors>
+        <jconf>mobihoc</jconf>
+        <id>1959</id>
+        <label>3</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>perform consist checkpoint</title>
+        <year>1992</year>
+        <authors>david b. johnson,e. n. elnozahy,willy zwaenepoel</authors>
+        <jconf>srds</jconf>
+        <id>2396</id>
+        <label>3</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>minim timestamp size complet asynchron optimist recoveri minim rollback</title>
+        <year>1996</year>
+        <authors>david b. johnson,sean w. smith</authors>
+        <jconf>srds</jconf>
+        <id>2400</id>
+        <label>3</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>recoveri distribut system optimist messag log checkpoint</title>
+        <year>1990</year>
+        <authors>david b. johnson,willy zwaenepoel</authors>
+        <jconf>j. algorithms</jconf>
+        <id>3358</id>
+        <label>3</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>peregrin high perform rpc system</title>
+        <year>1993</year>
+        <authors>david b. johnson,willy zwaenepoel</authors>
+        <jconf>softw., pract. exper.</jconf>
+        <id>3821</id>
+        <label>3</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>survei rollback recoveri protocol messag pass system</title>
+        <year>2002</year>
+        <authors>david b. johnson,e. n. elnozahy,lorenzo alvisi,yi-min wang</authors>
+        <jconf>acm comput. surv.</jconf>
+        <id>2932</id>
+        <label>3</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>transpar optimist rollback recoveri</title>
+        <year>1991</year>
+        <authors>david b. johnson,willy zwaenepoel</authors>
+        <jconf>operating systems review</jconf>
+        <id>3788</id>
+        <label>3</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>scalabl robust internetwork rout mobil host</title>
+        <year>1994</year>
+        <authors>david b. johnson</authors>
+        <jconf>icdcs</jconf>
+        <id>1028</id>
+        <label>3</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>ubiquit mobil host internetwork</title>
+        <year>1993</year>
+        <authors>david b. johnson</authors>
+        <jconf>workshop on workstation operating systems</jconf>
+        <id>810</id>
+        <label>3</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>paint textur haptic interfac</title>
+        <year>1999</year>
+        <authors>david e. johnson,thomas v. thompson ii,matthew kaplan,donald d. nelson,elaine cohen</authors>
+        <jconf>vr</jconf>
+        <id>2562</id>
+        <label>4</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>haptic manipul virtual mechan mechan cad design</title>
+        <year>1998</year>
+        <authors>david e. johnson,ali nahvi,donald d. nelson,john m. hollerbach</authors>
+        <jconf>icra</jconf>
+        <id>1450</id>
+        <label>4</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>haptic render surfac surfac sculpt model interact</title>
+        <year>2005</year>
+        <authors>david e. johnson,donald d. nelson,elaine cohen</authors>
+        <jconf>siggraph courses</jconf>
+        <id>2250</id>
+        <label>4</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>paint textur haptic interfac</title>
+        <year>1999</year>
+        <authors>david e. johnson,thomas v. thompson ii,matthew kaplan,donald d. nelson,elaine cohen</authors>
+        <jconf>vr</jconf>
+        <id>2562</id>
+        <label>4</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>degre freedom haptic render complex polygon model</title>
+        <year>2003</year>
+        <authors>david e. johnson,peter willemsen</authors>
+        <jconf>haptics</jconf>
+        <id>762</id>
+        <label>4</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>bound coher minimum distanc comput</title>
+        <year>1999</year>
+        <authors>david e. johnson,elaine cohen</authors>
+        <jconf>icra</jconf>
+        <id>1407</id>
+        <label>4</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>direct haptic render sculptur model</title>
+        <year>1997</year>
+        <authors>david e. johnson,thomas v. thompson ii,elaine cohen</authors>
+        <jconf>si3d</jconf>
+        <id>2237</id>
+        <label>4</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>framework effici minimum distanc comput</title>
+        <year>1998</year>
+        <authors>david e. johnson,elaine cohen</authors>
+        <jconf>icra</jconf>
+        <id>1406</id>
+        <label>4</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>spatial normal hierarchi</title>
+        <year>2001</year>
+        <authors>david e. johnson,elaine cohen</authors>
+        <jconf>si3d</jconf>
+        <id>2236</id>
+        <label>4</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>direct haptic render sculptur model</title>
+        <year>1997</year>
+        <authors>david e. johnson,thomas v. thompson ii,elaine cohen</authors>
+        <jconf>si3d</jconf>
+        <id>2237</id>
+        <label>4</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>bound coher minimum distanc comput</title>
+        <year>1999</year>
+        <authors>david e. johnson,elaine cohen</authors>
+        <jconf>icra</jconf>
+        <id>1407</id>
+        <label>4</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>democraci global inform infrastructur</title>
+        <year>1996</year>
+        <authors>deborah g. johnson</authors>
+        <jconf>gi jahrestagung</jconf>
+        <id>752</id>
+        <label>5</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>cryptographi data retent panopticon societi abstract</title>
+        <year>1998</year>
+        <authors>deborah g. johnson,jean-francois blanchette</authors>
+        <jconf>acm policy</jconf>
+        <id>42</id>
+        <label>5</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>anonym pseudonym inescap ident net abstract</title>
+        <year>1998</year>
+        <authors>deborah g. johnson,keith w. miller</authors>
+        <jconf>acm policy</jconf>
+        <id>43</id>
+        <label>5</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>ethic onlin shape social behavior onlin law modifi edict</title>
+        <year>1997</year>
+        <authors>deborah g. johnson</authors>
+        <jconf>commun. acm</jconf>
+        <id>2775</id>
+        <label>5</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>account comput decis system</title>
+        <year>1995</year>
+        <authors>deborah g. johnson,john m. mulvey</authors>
+        <jconf>commun. acm</jconf>
+        <id>2776</id>
+        <label>5</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>acm code ethic decis make</title>
+        <year>1993</year>
+        <authors>deborah g. johnson,ronald e. anderson,donald gotterbarn,judith perolle</authors>
+        <jconf>commun. acm</jconf>
+        <id>2764</id>
+        <label>5</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>applic formal method mitr</title>
+        <year>1994</year>
+        <authors>dale m. johnson,joshua d. guttman</authors>
+        <jconf>fme</jconf>
+        <id>662</id>
+        <label>6</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>inform flow nondeterminist system</title>
+        <year>1990</year>
+        <authors>dale m. johnson,j. todd wittbold</authors>
+        <jconf>ieee symposium on security and privacy</jconf>
+        <id>2361</id>
+        <label>6</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>state secur requir toler set</title>
+        <year>1988</year>
+        <authors>dale m. johnson,f. javier thayer</authors>
+        <jconf>acm trans. comput. syst.</jconf>
+        <id>4016</id>
+        <label>6</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>secur composit machin</title>
+        <year>1988</year>
+        <authors>dale m. johnson,f. javier thayer</authors>
+        <jconf>csfw</jconf>
+        <id>326</id>
+        <label>6</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>secur properti consist test semant commun process</title>
+        <year>1989</year>
+        <authors>dale m. johnson,f. javier thayer</authors>
+        <jconf>csfw</jconf>
+        <id>327</id>
+        <label>6</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>layer boundari protect experi inform assur</title>
+        <year>2000</year>
+        <authors>d. johnson,l. benzinger</authors>
+        <jconf>acsac</jconf>
+        <id>45</id>
+        <label>6</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>design post analysi jet japanes english machin translat system</title>
+        <year>1988</year>
+        <authors>david e. johnson</authors>
+        <jconf>fgcs</jconf>
+        <id>654</id>
+        <label>7</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>text chunk regular winnow</title>
+        <year>2001</year>
+        <authors>david johnson,tong zhang,fred damerau</authors>
+        <jconf>acl</jconf>
+        <id>38</id>
+        <label>7</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>unif base parser relat grammar</title>
+        <year>1993</year>
+        <authors>david e. johnson,adam meyers,lawrence s. moss</authors>
+        <jconf>acl</jconf>
+        <id>32</id>
+        <label>7</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>relat grammar base gener jet japanes english machin translat system</title>
+        <year>1991</year>
+        <authors>david e. johnson,hideo watanabe</authors>
+        <jconf>machine translation</jconf>
+        <id>3584</id>
+        <label>7</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>unif base parser relat grammar</title>
+        <year>1993</year>
+        <authors>david e. johnson,adam meyers,lawrence s. moss</authors>
+        <jconf>acl</jconf>
+        <id>32</id>
+        <label>7</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>dynam interpret constraint base grammar formal</title>
+        <year>1995</year>
+        <authors>david e. johnson,lawrence s. moss</authors>
+        <jconf>journal of logic, language and information</jconf>
+        <id>3474</id>
+        <label>7</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>formal properti stratifi featur grammar</title>
+        <year>1993</year>
+        <authors>david e. johnson,lawrence s. moss</authors>
+        <jconf>ann. math. artif. intell.</jconf>
+        <id>2716</id>
+        <label>7</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>decis tree base symbol rule induct system text categor</title>
+        <year>2002</year>
+        <authors>david e. johnson,frank j. oles,tong zhang,thilo gotz</authors>
+        <jconf>ibm systems journal</jconf>
+        <id>3102</id>
+        <label>7</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>text chunk regular winnow</title>
+        <year>2001</year>
+        <authors>david johnson,tong zhang,fred damerau</authors>
+        <jconf>acl</jconf>
+        <id>38</id>
+        <label>7</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>doe interv code occur</title>
+        <year>2004</year>
+        <authors>don h. johnson,raymon m. glantz</authors>
+        <jconf>neurocomputing</jconf>
+        <id>3183</id>
+        <label>8</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>optim stimulu code neural popul rate code</title>
+        <year>2004</year>
+        <authors>don h. johnson,will ray</authors>
+        <jconf>journal of computational neuroscience</jconf>
+        <id>3405</id>
+        <label>8</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>optim physic layer data transmiss minim signal distort</title>
+        <year>2003</year>
+        <authors>don h. johnson,hiram rodriguez-diaz</authors>
+        <jconf>icassp (4)</jconf>
+        <id>888</id>
+        <label>8</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>neural popul structur consequ neural code</title>
+        <year>2004</year>
+        <authors>don h. johnson</authors>
+        <jconf>journal of computational neuroscience</jconf>
+        <id>3402</id>
+        <label>8</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>point process model singl neuron discharg</title>
+        <year>1996</year>
+        <authors>don h. johnson</authors>
+        <jconf>journal of computational neuroscience</jconf>
+        <id>3403</id>
+        <label>8</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>optim linear detector addit nois channel</title>
+        <year>1996</year>
+        <authors>don h. johnson</authors>
+        <jconf>ieee trans. signal processing</jconf>
+        <id>4126</id>
+        <label>8</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>comparison optim suboptim spike sort algorithm theoret limit</title>
+        <year>2001</year>
+        <authors>don h. johnson,charlotte m. gruner</authors>
+        <jconf>neurocomputing</jconf>
+        <id>3180</id>
+        <label>8</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>asymptot m hypothesi bayesian detect</title>
+        <year>1997</year>
+        <authors>don h. johnson,c. c. leang</authors>
+        <jconf>ieee trans. information theory</jconf>
+        <id>3967</id>
+        <label>8</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>correl neural inform code fidel effici</title>
+        <year>1999</year>
+        <authors>don h. johnson,charlotte m. gruner</authors>
+        <jconf>neurocomputing</jconf>
+        <id>3181</id>
+        <label>8</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>quantifi inform transfer spike gener</title>
+        <year>2000</year>
+        <authors>don h. johnson,charlotte m. gruner,raymon m. glantz</authors>
+        <jconf>neurocomputing</jconf>
+        <id>3184</id>
+        <label>8</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>differ cours electr engin</title>
+        <year>1998</year>
+        <authors>don h. johnson,james d. wise</authors>
+        <jconf>icassp</jconf>
+        <id>889</id>
+        <label>8</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>quantifi inform transfer spike gener</title>
+        <year>2000</year>
+        <authors>don h. johnson,charlotte m. gruner,raymon m. glantz</authors>
+        <jconf>neurocomputing</jconf>
+        <id>3184</id>
+        <label>8</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>inform theoret analysi neural code</title>
+        <year>2001</year>
+        <authors>don h. johnson,charlotte m. gruner,keith a. baggerly,chandran seshagiri</authors>
+        <jconf>journal of computational neuroscience</jconf>
+        <id>3404</id>
+        <label>8</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>inform gain soft decis</title>
+        <year>2003</year>
+        <authors>don h. johnson,michael a. lexa</authors>
+        <jconf>icassp (4)</jconf>
+        <id>891</id>
+        <label>8</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>optim binari decis system manipul transmiss interv</title>
+        <year>2003</year>
+        <authors>don h. johnson,michael a. lexa</authors>
+        <jconf>isspa (2)</jconf>
+        <id>1771</id>
+        <label>8</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>visual respons crayfish ocular motoneuron inform theoret analysi</title>
+        <year>2003</year>
+        <authors>don h. johnson,clyde s. miller,john p. schroeter,lay l. myint,raymon m. glantz</authors>
+        <jconf>journal of computational neuroscience</jconf>
+        <id>3407</id>
+        <label>8</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>visual signal optomotor reflex system inform theoret analysi</title>
+        <year>2002</year>
+        <authors>don h. johnson,clyde s. miller,john p. schroeter,lay l. myint,raymon m. glantz</authors>
+        <jconf>journal of computational neuroscience</jconf>
+        <id>3406</id>
+        <label>8</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>inform process dure transient respons crayfish visual system</title>
+        <year>2003</year>
+        <authors>don h. johnson,christopher j. rozell,raymon m. glantz</authors>
+        <jconf>neurocomputing</jconf>
+        <id>3190</id>
+        <label>8</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>inform theoret analysi neural code</title>
+        <year>2001</year>
+        <authors>don h. johnson,charlotte m. gruner,keith a. baggerly,chandran seshagiri</authors>
+        <jconf>journal of computational neuroscience</jconf>
+        <id>3404</id>
+        <label>8</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>theori inform process</title>
+        <year>2007</year>
+        <authors>don h. johnson,sinan sinanovic</authors>
+        <jconf>signal processing</jconf>
+        <id>3805</id>
+        <label>8</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>small busi small organ sai cmm experi report</title>
+        <year>1994</year>
+        <authors>donna l. johnson,judith g. brodman</authors>
+        <jconf>icse</jconf>
+        <id>1485</id>
+        <label>9</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>softwar process improv approach tailor small organ small project tutori</title>
+        <year>1997</year>
+        <authors>donna l. johnson,judith g. brodman</authors>
+        <jconf>icse</jconf>
+        <id>1486</id>
+        <label>9</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>return invest roi softwar process improv measur industri</title>
+        <year>1995</year>
+        <authors>donna l. johnson,judith g. brodman</authors>
+        <jconf>software process: improvement and practice</jconf>
+        <id>3817</id>
+        <label>9</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>appli cmm project plan practic divers environ</title>
+        <year>2000</year>
+        <authors>donna l. johnson,judith g. brodman</authors>
+        <jconf>ieee software</jconf>
+        <id>3813</id>
+        <label>9</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>realiti reward softwar process improv</title>
+        <year>1996</year>
+        <authors>donna l. johnson,judith g. brodman</authors>
+        <jconf>ieee software</jconf>
+        <id>3814</id>
+        <label>9</label>
+        <organization>null</organization>
+    </publication>
+</person>

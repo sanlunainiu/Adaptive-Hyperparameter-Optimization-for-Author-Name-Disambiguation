@@ -1,0 +1,988 @@
+<?xml version="1.0" encoding="utf-8"?>
+<person>
+    <personID>32336525</personID>
+    <FullName>michael k. brown</FullName>
+    <FirstName>michael</FirstName>
+    <LastName>brown</LastName>
+    <publication>
+        <title>invari featur hmm base line handwrit recognit</title>
+        <year>1995</year>
+        <authors>michael k. brown,jianying hu,william turin</authors>
+        <jconf>iciap</jconf>
+        <id>1107</id>
+        <label>10</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>combin high level featur sequenti local featur line handwrit recognit</title>
+        <year>1997</year>
+        <authors>michael k. brown,jianying hu,amy s. rosenthal</authors>
+        <jconf>iciap (2)</jconf>
+        <id>1108</id>
+        <label>10</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>hmm base line handwrit recognit</title>
+        <year>1996</year>
+        <authors>michael k. brown,jianying hu,william turin</authors>
+        <jconf>ieee trans. pattern anal. mach. intell.</jconf>
+        <id>3643</id>
+        <label>10</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>select free instruct schedul logic</title>
+        <year>2001</year>
+        <authors>mary d. brown,jared stark,yale n. patt</authors>
+        <jconf>micro</jconf>
+        <id>1912</id>
+        <label>11</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>intern redund represent limit bypass support pipelin adder regist file</title>
+        <year>2002</year>
+        <authors>mary d. brown,yale n. patt</authors>
+        <jconf>hpca</jconf>
+        <id>814</id>
+        <label>11</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>intern redund represent limit bypass support pipelin adder regist file</title>
+        <year>2002</year>
+        <authors>mary d. brown,yale n. patt</authors>
+        <jconf>hpca</jconf>
+        <id>814</id>
+        <label>11</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>pipelin dynam instruct schedul logic</title>
+        <year>2000</year>
+        <authors>mary d. brown,jared stark,yale n. patt</authors>
+        <jconf>micro</jconf>
+        <id>1925</id>
+        <label>11</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>select free instruct schedul logic</title>
+        <year>2001</year>
+        <authors>mary d. brown,jared stark,yale n. patt</authors>
+        <jconf>micro</jconf>
+        <id>1912</id>
+        <label>11</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>select semant semant prune linear deduct</title>
+        <year>2002</year>
+        <authors>marianne brown</authors>
+        <jconf>australian joint conference on artificial intelligence</jconf>
+        <id>127</id>
+        <label>12</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>pttp glide guid linear deduct semant</title>
+        <year>1999</year>
+        <authors>marianne brown,geoff sutcliffe</authors>
+        <jconf>australian joint conference on artificial intelligence</jconf>
+        <id>128</id>
+        <label>12</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>system descript pttp glide semant guid pttp</title>
+        <year>2000</year>
+        <authors>marianne brown,geoff sutcliffe</authors>
+        <jconf>cade</jconf>
+        <id>160</id>
+        <label>12</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>select semant semant prune linear deduct</title>
+        <year>2002</year>
+        <authors>marianne brown</authors>
+        <jconf>australian joint conference on artificial intelligence</jconf>
+        <id>127</id>
+        <label>12</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>pttp glide guid linear deduct semant</title>
+        <year>1999</year>
+        <authors>marianne brown,geoff sutcliffe</authors>
+        <jconf>australian joint conference on artificial intelligence</jconf>
+        <id>128</id>
+        <label>12</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>system descript pttp glide semant guid pttp</title>
+        <year>2000</year>
+        <authors>marianne brown,geoff sutcliffe</authors>
+        <jconf>cade</jconf>
+        <id>160</id>
+        <label>12</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>adapt qo resourc manag dynam environ</title>
+        <year>1999</year>
+        <authors>michael brown,saurav chatterjee</authors>
+        <jconf>icmcs, vol. 2</jconf>
+        <id>1194</id>
+        <label>13</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>adapt qo support distribut java base applic</title>
+        <year>1999</year>
+        <authors>michael brown,saurav chatterjee,bikash sabata</authors>
+        <jconf>isorc</jconf>
+        <id>1757</id>
+        <label>13</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>conduct multiparti multimedia session atm hierarch encod data</title>
+        <year>1997</year>
+        <authors>michael brown,nachum shacham,madhu sudan</authors>
+        <jconf>icc (2)</jconf>
+        <id>903</id>
+        <label>13</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>zipper focu context displai web page</title>
+        <year>1996</year>
+        <authors>marc h. brown,william e. weihl</authors>
+        <jconf>webnet</jconf>
+        <id>2583</id>
+        <label>1</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>collabor activ textbook</title>
+        <year>1997</year>
+        <authors>marc h. brown,marc najork</authors>
+        <jconf>j. vis. lang. comput.</jconf>
+        <id>4141</id>
+        <label>1</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>techniqu algorithm anim</title>
+        <year>1985</year>
+        <authors>marc h. brown,robert sedgewick</authors>
+        <jconf>ieee software</jconf>
+        <id>3810</id>
+        <label>1</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>obliq d high level fast turnaround d anim system</title>
+        <year>1995</year>
+        <authors>marc h. brown,marc najork</authors>
+        <jconf>ieee trans. vis. comput. graph.</jconf>
+        <id>4136</id>
+        <label>1</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>color sound algorithm anim</title>
+        <year>1992</year>
+        <authors>marc h. brown,john hershberger</authors>
+        <jconf>ieee computer</jconf>
+        <id>2901</id>
+        <label>1</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>explor algorithm balsa ii</title>
+        <year>1988</year>
+        <authors>marc h. brown</authors>
+        <jconf>ieee computer</jconf>
+        <id>2900</id>
+        <label>1</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>color sound algorithm anim</title>
+        <year>1991</year>
+        <authors>marc h. brown,john hershberger</authors>
+        <jconf>vl</jconf>
+        <id>2515</id>
+        <label>1</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>collabor activ textbook web base algorithm anim system electron classroom</title>
+        <year>1996</year>
+        <authors>marc h. brown,marc najork</authors>
+        <jconf>vl</jconf>
+        <id>2516</id>
+        <label>1</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>zeu system algorithm anim multi view edit</title>
+        <year>1991</year>
+        <authors>marc h. brown</authors>
+        <jconf>vl</jconf>
+        <id>2513</id>
+        <label>1</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>src algorithm anim festiv</title>
+        <year>1993</year>
+        <authors>marc h. brown</authors>
+        <jconf>vl</jconf>
+        <id>2514</id>
+        <label>1</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>java base implement collabor activ textbook</title>
+        <year>1997</year>
+        <authors>marc h. brown,marc najork,roope raisamo</authors>
+        <jconf>vl</jconf>
+        <id>2517</id>
+        <label>1</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>algorithm anim d interact graphic</title>
+        <year>1993</year>
+        <authors>marc h. brown,marc najork</authors>
+        <jconf>acm symposium on user interface software and technology</jconf>
+        <id>2475</id>
+        <label>1</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>brows web mail reader</title>
+        <year>1995</year>
+        <authors>marc h. brown</authors>
+        <jconf>acm symposium on user interface software and technology</jconf>
+        <id>2474</id>
+        <label>1</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>build distribut multi user applic direct manipul</title>
+        <year>1994</year>
+        <authors>marc h. brown,krishna bharat</authors>
+        <jconf>acm symposium on user interface software and technology</jconf>
+        <id>2473</id>
+        <label>1</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>distribut applet</title>
+        <year>1997</year>
+        <authors>marc h. brown,marc najork</authors>
+        <jconf>chi extended abstracts</jconf>
+        <id>196</id>
+        <label>1</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>paradigm brows web</title>
+        <year>1995</year>
+        <authors>marc h. brown,robert a. shillner</authors>
+        <jconf>chi 95 conference companion</jconf>
+        <id>197</id>
+        <label>1</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>librari visual combinatori structur</title>
+        <year>1994</year>
+        <authors>marc h. brown,marc najork</authors>
+        <jconf>ieee visualization</jconf>
+        <id>2509</id>
+        <label>1</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>introduct zeu audiovisu elementari sequenti parallel sort algorithm</title>
+        <year>1992</year>
+        <authors>marc h. brown</authors>
+        <jconf>chi</jconf>
+        <id>194</id>
+        <label>1</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>webcard email www</title>
+        <year>1997</year>
+        <authors>marc h. brown</authors>
+        <jconf>chi extended abstracts</jconf>
+        <id>195</id>
+        <label>1</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>graphic fishey view graph</title>
+        <year>1992</year>
+        <authors>marc h. brown,manojit sarkar</authors>
+        <jconf>chi</jconf>
+        <id>209</id>
+        <label>1</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>build distribut applic visual obliq</title>
+        <year>1995</year>
+        <authors>marc h. brown,krishna bharat</authors>
+        <jconf>chi 95 conference companion</jconf>
+        <id>193</id>
+        <label>1</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>graphic fishey view</title>
+        <year>1994</year>
+        <authors>marc h. brown,manojit sarkar</authors>
+        <jconf>commun. acm</jconf>
+        <id>2789</id>
+        <label>1</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>distribut activ object</title>
+        <year>1996</year>
+        <authors>marc h. brown,marc najork</authors>
+        <jconf>computer networks</jconf>
+        <id>2864</id>
+        <label>1</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>experi algorithm anim teach research</title>
+        <year>1990</year>
+        <authors>marc h. brown</authors>
+        <jconf>iccal</jconf>
+        <id>941</id>
+        <label>1</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>deckscap experiment web browser</title>
+        <year>1995</year>
+        <authors>marc h. brown,robert a. shillner</authors>
+        <jconf>computer networks and isdn systems</jconf>
+        <id>2865</id>
+        <label>1</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>laser pointer interact camera regist multiprojector displai</title>
+        <year>2003</year>
+        <authors>m. s. brown,w. k. h. wong</authors>
+        <jconf>icip (1)</jconf>
+        <id>1115</id>
+        <label>2</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>imag restor arbitrarili warp document</title>
+        <year>2004</year>
+        <authors>michael s. brown,w. brent seales</authors>
+        <jconf>ieee trans. pattern anal. mach. intell.</jconf>
+        <id>3637</id>
+        <label>2</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>fast stereo match compress video</title>
+        <year>1998</year>
+        <authors>michael s. brown,w. brent seales</authors>
+        <jconf>accv (1)</jconf>
+        <id>22</id>
+        <label>2</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>incorpor geometr registr pc cluster render flexibl tile displai</title>
+        <year>2004</year>
+        <authors>michael s. brown,w. brent seales</authors>
+        <jconf>int. j. image graphics</jconf>
+        <id>3140</id>
+        <label>2</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>practic flexibl tile displai system</title>
+        <year>2002</year>
+        <authors>michael s. brown,w. brent seales</authors>
+        <jconf>pacific conference on computer graphics and applications</jconf>
+        <id>2076</id>
+        <label>2</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>digit atheneum approach preserv restor analyz damag manuscript</title>
+        <year>2001</year>
+        <authors>michael s. brown,w. brent seales</authors>
+        <jconf>jcdl</jconf>
+        <id>1827</id>
+        <label>2</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>practic flexibl tile displai system</title>
+        <year>2002</year>
+        <authors>michael s. brown,w. brent seales</authors>
+        <jconf>pacific conference on computer graphics and applications</jconf>
+        <id>2076</id>
+        <label>2</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>correct common distort camera imag librari materi</title>
+        <year>2003</year>
+        <authors>michael s. brown,desmond tsoi</authors>
+        <jconf>jcdl</jconf>
+        <id>1828</id>
+        <label>2</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>geometr correct imageri teleconferenc</title>
+        <year>1999</year>
+        <authors>michael s. brown,ruigang yang,w. brent seales,henry fuchs</authors>
+        <jconf>acm multimedia (1)</jconf>
+        <id>1945</id>
+        <label>2</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>multi projector displai camera base registr</title>
+        <year>1999</year>
+        <authors>michael s. brown,ramesh raskar,ruigang yang,wei-chao chen,greg welch,herman towles,w. brent seales,henry fuchs</authors>
+        <jconf>ieee visualization</jconf>
+        <id>2510</id>
+        <label>2</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>project imageri offic futur</title>
+        <year>2000</year>
+        <authors>michael s. brown,greg welch,henry fuchs,ramesh raskar,herman towles</authors>
+        <jconf>ieee computer graphics and applications</jconf>
+        <id>2830</id>
+        <label>2</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>pixelflex reconfigur multi projector displai system</title>
+        <year>2001</year>
+        <authors>michael s. brown,ruigang yang,david gotz,justin hensley,herman towles</authors>
+        <jconf>ieee visualization</jconf>
+        <id>2512</id>
+        <label>2</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>build larg format displai digit librari</title>
+        <year>2001</year>
+        <authors>michael s. brown,w. brent seales,stephen b. webb,christopher o. jaynes</authors>
+        <jconf>commun. acm</jconf>
+        <id>2766</id>
+        <label>2</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>dynam shadow remov front project displai</title>
+        <year>2001</year>
+        <authors>michael s. brown,christopher o. jaynes,stephen b. webb,r. matt steele,w. brent seales</authors>
+        <jconf>ieee visualization</jconf>
+        <id>2507</id>
+        <label>2</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>geometr correct imageri teleconferenc</title>
+        <year>1999</year>
+        <authors>michael s. brown,ruigang yang,w. brent seales,henry fuchs</authors>
+        <jconf>acm multimedia (1)</jconf>
+        <id>1945</id>
+        <label>2</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>pixelflex reconfigur multi projector displai system</title>
+        <year>2001</year>
+        <authors>michael s. brown,ruigang yang,david gotz,justin hensley,herman towles</authors>
+        <jconf>ieee visualization</jconf>
+        <id>2512</id>
+        <label>2</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>d imag effect d imag librari materi</title>
+        <year>2000</year>
+        <authors>michael s. brown,w. brent seales</authors>
+        <jconf>acm dl</jconf>
+        <id>540</id>
+        <label>2</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>document restor d shape gener deskew algorithm arbitrarili warp document</title>
+        <year>2001</year>
+        <authors>michael s. brown,w. brent seales</authors>
+        <jconf>iccv</jconf>
+        <id>982</id>
+        <label>2</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>build larg format displai digit librari</title>
+        <year>2001</year>
+        <authors>michael s. brown,w. brent seales,stephen b. webb,christopher o. jaynes</authors>
+        <jconf>commun. acm</jconf>
+        <id>2766</id>
+        <label>2</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>d imag effect d imag librari materi</title>
+        <year>2000</year>
+        <authors>michael s. brown,w. brent seales</authors>
+        <jconf>acm dl</jconf>
+        <id>540</id>
+        <label>2</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>comput assist visual analysi scholarli manuscript</title>
+        <year>2004</year>
+        <authors>michael s. brown,ruiduo yang</authors>
+        <jconf>visualization and data analysis</jconf>
+        <id>2490</id>
+        <label>2</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>correct common distort camera imag librari materi</title>
+        <year>2003</year>
+        <authors>michael s. brown,desmond tsoi</authors>
+        <jconf>jcdl</jconf>
+        <id>1828</id>
+        <label>2</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>fast halfton mpeg video bi tonal displai</title>
+        <year>2003</year>
+        <authors>michael s. brown,ruiduo yang</authors>
+        <jconf>icip (1)</jconf>
+        <id>1116</id>
+        <label>2</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>separ case data flexibl case base reason</title>
+        <year>1995</year>
+        <authors>mike brown,ian d. watson,nick filer</authors>
+        <jconf>iccbr</jconf>
+        <id>942</id>
+        <label>3</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>hierarch concept descript learn inform extract</title>
+        <year>2001</year>
+        <authors>michael brown,luo xiao,dieter wissmann,stefan jablonski</authors>
+        <jconf>nlprs</jconf>
+        <id>1993</id>
+        <label>3</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>inform extract html combin xml standard techniqu web</title>
+        <year>2001</year>
+        <authors>michael brown,luo xiao,dieter wissmann,stefan jablonski</authors>
+        <jconf>iea/aie</jconf>
+        <id>1532</id>
+        <label>3</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>posit precis knowledg extract text</title>
+        <year>2001</year>
+        <authors>michael brown,luo xiao,dieter wissmann,stefan jablonski</authors>
+        <jconf>iea/aie</jconf>
+        <id>1533</id>
+        <label>3</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>incorpor similar measur case retriev analogu marker pass</title>
+        <year>1992</year>
+        <authors>m. brown</authors>
+        <jconf>ecai</jconf>
+        <id>562</id>
+        <label>3</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>underli memori model support case retriev</title>
+        <year>1993</year>
+        <authors>mike brown</authors>
+        <jconf>ewcbr</jconf>
+        <id>649</id>
+        <label>3</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>user sensit spoken dialogu system incorpor emot respons</title>
+        <year>2002</year>
+        <authors>michael brown,gloria dabiri,maria aretoulaki,matthias nitzsche</authors>
+        <jconf>setn</jconf>
+        <id>2235</id>
+        <label>3</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>beauti beast case massiv parallel retriev</title>
+        <year>1995</year>
+        <authors>mike brown,nick filer</authors>
+        <jconf>uk workshop on case-based reasoning</jconf>
+        <id>2479</id>
+        <label>3</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>integr cad tool framework environ flexibl adapt procedur interfac</title>
+        <year>1994</year>
+        <authors>michael brown,nick filer,zahir moosa</authors>
+        <jconf>euro-dac</jconf>
+        <id>631</id>
+        <label>3</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>product data integr bb e commerc</title>
+        <year>2001</year>
+        <authors>mike brown,dieter fensel,ying ding,borys omelayenko,ellen schulten,guy botquin,alan flett</authors>
+        <jconf>ieee intelligent systems</jconf>
+        <id>3041</id>
+        <label>3</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>represent linear list movabl finger</title>
+        <year>1978</year>
+        <authors>mark r. brown,robert endre tarjan</authors>
+        <jconf>stoc</jconf>
+        <id>2433</id>
+        <label>4</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>complex prioriti queue mainten</title>
+        <year>1977</year>
+        <authors>mark r. brown</authors>
+        <jconf>stoc</jconf>
+        <id>2432</id>
+        <label>4</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>fast merg algorithm</title>
+        <year>1979</year>
+        <authors>mark r. brown,robert endre tarjan</authors>
+        <jconf>j. acm</jconf>
+        <id>3334</id>
+        <label>4</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>design analysi data structur repres sort list</title>
+        <year>1980</year>
+        <authors>mark r. brown,robert endre tarjan</authors>
+        <jconf>siam j. comput.</jconf>
+        <id>3747</id>
+        <label>4</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>implement analysi binomi queue algorithm</title>
+        <year>1978</year>
+        <authors>mark r. brown</authors>
+        <jconf>siam j. comput.</jconf>
+        <id>3745</id>
+        <label>4</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>partial analysi random height balanc tree</title>
+        <year>1979</year>
+        <authors>mark r. brown</authors>
+        <jconf>siam j. comput.</jconf>
+        <id>3746</id>
+        <label>4</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>storag scheme height balanc tree</title>
+        <year>1978</year>
+        <authors>mark r. brown</authors>
+        <jconf>inf. process. lett.</jconf>
+        <id>3243</id>
+        <label>4</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>observ random tree</title>
+        <year>1979</year>
+        <authors>mark r. brown</authors>
+        <jconf>inf. process. lett.</jconf>
+        <id>3244</id>
+        <label>4</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>passphras authent base type style art neural network</title>
+        <year>2002</year>
+        <authors>marcus brown,jason bechtel,gursel serpen</authors>
+        <jconf>international journal of computational intelligence and applications</jconf>
+        <id>3120</id>
+        <label>5</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>user identif keystrok characterist type neural network</title>
+        <year>1993</year>
+        <authors>marcus brown,samuel joe rogers</authors>
+        <jconf>international journal of man-machine studies</jconf>
+        <id>3155</id>
+        <label>5</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>hypertext liter program</title>
+        <year>1990</year>
+        <authors>m. brown,bogdan d. czejdo</authors>
+        <jconf>icci</jconf>
+        <id>971</id>
+        <label>5</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>liter program appli convent softwar design</title>
+        <year>1990</year>
+        <authors>marcus brown,david cordes</authors>
+        <jconf>structured programming</jconf>
+        <id>3836</id>
+        <label>5</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>interact environ liter program</title>
+        <year>1990</year>
+        <authors>marcus e. brown,bart childs</authors>
+        <jconf>structured programming</jconf>
+        <id>3835</id>
+        <label>5</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>user identif keystrok characterist type neural network</title>
+        <year>1993</year>
+        <authors>marcus brown,samuel joe rogers</authors>
+        <jconf>international journal of man-machine studies</jconf>
+        <id>3155</id>
+        <label>5</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>interact environ liter program</title>
+        <year>1990</year>
+        <authors>marcus e. brown,bart childs</authors>
+        <jconf>structured programming</jconf>
+        <id>3835</id>
+        <label>5</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>liter program appli convent softwar design</title>
+        <year>1990</year>
+        <authors>marcus brown,david cordes</authors>
+        <jconf>structured programming</jconf>
+        <id>3836</id>
+        <label>5</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>liter program paradigm</title>
+        <year>1991</year>
+        <authors>marcus brown,david cordes</authors>
+        <jconf>ieee computer</jconf>
+        <id>2905</id>
+        <label>5</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>hypertext liter program</title>
+        <year>1990</year>
+        <authors>m. brown,bogdan d. czejdo</authors>
+        <jconf>icci</jconf>
+        <id>971</id>
+        <label>5</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>familiar discrimin algorithm inspir comput perirhin cortex</title>
+        <year>2001</year>
+        <authors>malcolm w. brown,rafal bogacz,christophe g. giraud-carrier</authors>
+        <jconf>emergent neural computational architectures based on neuroscience</jconf>
+        <id>1975</id>
+        <label>6</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>model oper recenc familiar novelti neuron perirhin cortex</title>
+        <year>2001</year>
+        <authors>malcolm w. brown,rafal bogacz,christophe g. giraud-carrier</authors>
+        <jconf>neurocomputing</jconf>
+        <id>3176</id>
+        <label>6</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>model familiar discrimin perirhin cortex</title>
+        <year>2001</year>
+        <authors>malcolm w. brown,rafal bogacz,christophe g. giraud-carrier</authors>
+        <jconf>journal of computational neuroscience</jconf>
+        <id>3401</id>
+        <label>6</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>emerg movement sensit neuron properti learn spars code natur move imag</title>
+        <year>2000</year>
+        <authors>malcolm w. brown,rafal bogacz,christophe g. giraud-carrier</authors>
+        <jconf>nips</jconf>
+        <id>1978</id>
+        <label>6</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>capac perirhin cortex network recognis frequent repeat stimuli</title>
+        <year>2002</year>
+        <authors>malcolm w. brown,rafal bogacz</authors>
+        <jconf>neurocomputing</jconf>
+        <id>3175</id>
+        <label>6</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>model familiar discrimin perirhin cortex</title>
+        <year>2001</year>
+        <authors>malcolm w. brown,rafal bogacz,christophe g. giraud-carrier</authors>
+        <jconf>journal of computational neuroscience</jconf>
+        <id>3401</id>
+        <label>6</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>dirichlet mixtur prior deriv hidden markov model protein famili</title>
+        <year>1993</year>
+        <authors>michael brown,richard hughey,anders krogh,i. saira mian,kimmen sjolander,david haussler</authors>
+        <jconf>ismb</jconf>
+        <id>1745</id>
+        <label>7</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>stochast context free grammar model rn</title>
+        <year>1994</year>
+        <authors>michael brown,yasubumi sakakibara,rebecca c. underwood,i. saira mian,david haussler</authors>
+        <jconf>hicss (5)</jconf>
+        <id>794</id>
+        <label>7</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>recent method rna model stochast context free grammar</title>
+        <year>1994</year>
+        <authors>michael brown,yasubumi sakakibara,richard hughey,i. saira mian,kimmen sjolander,rebecca c. underwood,david haussler</authors>
+        <jconf>cpm</jconf>
+        <id>304</id>
+        <label>7</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>dirichlet mixtur method improv detect weak signific protein sequenc homolog</title>
+        <year>1996</year>
+        <authors>michael brown,kimmen sjolander,kevin karplus,richard hughey,anders krogh,i. saira mian,david haussler</authors>
+        <jconf>computer applications in the biosciences</jconf>
+        <id>2755</id>
+        <label>7</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>review tele immers applic cave research network</title>
+        <year>1999</year>
+        <authors>maxine d. brown,jason leigh,andrew e. johnson,thomas a. defanti</authors>
+        <jconf>vr</jconf>
+        <id>2563</id>
+        <label>8</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>visual scientif comput</title>
+        <year>1991</year>
+        <authors>maxine d. brown,thomas a. defanti</authors>
+        <jconf>advances in computers</jconf>
+        <id>2667</id>
+        <label>8</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>visual expand scientif engin research opportun</title>
+        <year>1989</year>
+        <authors>maxine d. brown,thomas a. defanti,bruce h. mccormick</authors>
+        <jconf>ieee computer</jconf>
+        <id>2906</id>
+        <label>8</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>mitomap human mitochondri genom databas</title>
+        <year>1996</year>
+        <authors>michael d. brown,andreas m. kogelnik,marie t. lott,shamkant b. navathe,douglas c. wallace</authors>
+        <jconf>nucleic acids research</jconf>
+        <id>3601</id>
+        <label>9</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>mitomap updat statu human mitochondri genom databas</title>
+        <year>1997</year>
+        <authors>michael d. brown,andreas m. kogelnik,marie t. lott,shamkant b. navathe,douglas c. wallace</authors>
+        <jconf>nucleic acids research</jconf>
+        <id>3602</id>
+        <label>9</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>mitomap human mitochondri genom databas updat</title>
+        <year>1998</year>
+        <authors>michael d. brown,andreas m. kogelnik,marie t. lott,shamkant b. navathe,douglas c. wallace</authors>
+        <jconf>nucleic acids research</jconf>
+        <id>3603</id>
+        <label>9</label>
+        <organization>null</organization>
+    </publication>
+</person>

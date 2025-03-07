@@ -1,0 +1,1285 @@
+<?xml version="1.0" encoding="utf-8"?>
+<person>
+    <personID>90967934</personID>
+    <FullName>jane j. robinson</FullName>
+    <FirstName>jane</FirstName>
+    <LastName>robinson</LastName>
+    <publication>
+        <title>discours code clue context</title>
+        <year>1979</year>
+        <authors>jane j. robinson</authors>
+        <jconf>acl</jconf>
+        <id>37</id>
+        <label>10</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>diagram grammar dialogu</title>
+        <year>1982</year>
+        <authors>jane j. robinson</authors>
+        <jconf>commun. acm</jconf>
+        <id>2786</id>
+        <label>10</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>diagram grammar dialogu</title>
+        <year>1982</year>
+        <authors>jane j. robinson</authors>
+        <jconf>commun. acm</jconf>
+        <id>2786</id>
+        <label>10</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>dialogu develop system design implement user interfac ada</title>
+        <year>1985</year>
+        <authors>j. robinson,alan burns</authors>
+        <jconf>comput. j.</jconf>
+        <id>2856</id>
+        <label>11</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>add dialogu develop system ada program languag</title>
+        <year>1986</year>
+        <authors>j. robinson,alan burns</authors>
+        <jconf>international journal of man-machine studies</jconf>
+        <id>3156</id>
+        <label>11</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>softwar engin curriculum develop model</title>
+        <year>1995</year>
+        <authors>john s. robinson</authors>
+        <jconf>csee</jconf>
+        <id>325</id>
+        <label>12</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>multi user dialogu system support softwar engin distanc educ</title>
+        <year>1994</year>
+        <authors>john s. robinson,william a. bralick jr.</authors>
+        <jconf>csee</jconf>
+        <id>324</id>
+        <label>12</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>optimist method concurr control</title>
+        <year>1981</year>
+        <authors>john t. robinson,h. t. kung</authors>
+        <jconf>acm trans. database syst.</jconf>
+        <id>4026</id>
+        <label>1</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>model central concurr control multi system environ</title>
+        <year>1985</year>
+        <authors>john t. robinson,philip s. yu,daniel m. dias,balakrishna r. iyer,douglas w. cornell</authors>
+        <jconf>sigmetrics</jconf>
+        <id>2278</id>
+        <label>1</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>integr concurr coher control multisystem data share</title>
+        <year>1989</year>
+        <authors>john t. robinson,daniel m. dias,balakrishna r. iyer,philip s. yu</authors>
+        <jconf>ieee trans. software eng.</jconf>
+        <id>4104</id>
+        <label>1</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>integr concurr coher control multisystem data share</title>
+        <year>1989</year>
+        <authors>john t. robinson,daniel m. dias,balakrishna r. iyer,philip s. yu</authors>
+        <jconf>ieee trans. software eng.</jconf>
+        <id>4104</id>
+        <label>1</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>progress search retriev larg imag archiv</title>
+        <year>1998</year>
+        <authors>john t. robinson,vittorio castelli,lawrence d. bergman,ioannis kontoyiannis,chung-sheng li,john turek</authors>
+        <jconf>ibm journal of research and development</jconf>
+        <id>3091</id>
+        <label>1</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>optimist method concurr control</title>
+        <year>1979</year>
+        <authors>john t. robinson,h. t. kung</authors>
+        <jconf>vldb</jconf>
+        <id>2533</id>
+        <label>1</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>parallel quicksort fetch add</title>
+        <year>1990</year>
+        <authors>john t. robinson,philip heidelberger,alan norton</authors>
+        <jconf>ieee trans. computers</jconf>
+        <id>3869</id>
+        <label>1</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>optimist method concurr control</title>
+        <year>1981</year>
+        <authors>john t. robinson,h. t. kung</authors>
+        <jconf>acm trans. database syst.</jconf>
+        <id>4026</id>
+        <label>1</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>analysi techniqu asynchron multiprocessor algorithm</title>
+        <year>1979</year>
+        <authors>john t. robinson</authors>
+        <jconf>ieee trans. software eng.</jconf>
+        <id>4111</id>
+        <label>1</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>separ polici correct concurr control design</title>
+        <year>1984</year>
+        <authors>john t. robinson</authors>
+        <jconf>softw., pract. exper.</jconf>
+        <id>3827</id>
+        <label>1</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>ibm memori expans technolog mxt</title>
+        <year>2001</year>
+        <authors>john t. robinson,r. brett tremaine,peter a. franaszek,charles o. schulz,t. basil smith,michael e. wazlowski,p. maurice bland</authors>
+        <jconf>ibm journal of research and development</jconf>
+        <id>3097</id>
+        <label>1</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>parallel compress cooper dictionari construct</title>
+        <year>1996</year>
+        <authors>john t. robinson,peter a. franaszek,joy thomas</authors>
+        <jconf>data compression conference</jconf>
+        <id>455</id>
+        <label>1</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>fast gener purpos hardwar synchronis mechan</title>
+        <year>1985</year>
+        <authors>john t. robinson</authors>
+        <jconf>sigmod conference</jconf>
+        <id>2297</id>
+        <label>1</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>analysi steadi state segment storag util log structur file system util segment clean</title>
+        <year>1996</year>
+        <authors>john t. robinson</authors>
+        <jconf>operating systems review</jconf>
+        <id>3795</id>
+        <label>1</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>order preserv linear hash dynam kei statist</title>
+        <year>1986</year>
+        <authors>john t. robinson</authors>
+        <jconf>pods</jconf>
+        <id>2107</id>
+        <label>1</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>analysi techniqu asynchron multiprocessor algorithm</title>
+        <year>1979</year>
+        <authors>john t. robinson</authors>
+        <jconf>ieee trans. software eng.</jconf>
+        <id>4111</id>
+        <label>1</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>separ polici correct concurr control design</title>
+        <year>1984</year>
+        <authors>john t. robinson</authors>
+        <jconf>softw., pract. exper.</jconf>
+        <id>3827</id>
+        <label>1</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>k d b tree search structur larg multidimension dynam index</title>
+        <year>1981</year>
+        <authors>john t. robinson</authors>
+        <jconf>sigmod conference</jconf>
+        <id>2296</id>
+        <label>1</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>cach memori interfac compress memori system</title>
+        <year>2001</year>
+        <authors>john t. robinson,caroline benveniste,peter a. franaszek</authors>
+        <jconf>ieee trans. computers</jconf>
+        <id>3841</id>
+        <label>1</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>data cach manag frequenc base replac</title>
+        <year>1990</year>
+        <authors>john t. robinson,murthy v. devarakonda</authors>
+        <jconf>sigmetrics</jconf>
+        <id>2276</id>
+        <label>1</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>note problem reed long s fbr result</title>
+        <year>1997</year>
+        <authors>john t. robinson,murthy v. devarakonda</authors>
+        <jconf>operating systems review</jconf>
+        <id>3796</id>
+        <label>1</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>framework understand distribut deadlock detect algorithm</title>
+        <year>1983</year>
+        <authors>john t. robinson,henry f. korth,ravi krishnamurthy,anil nigam</authors>
+        <jconf>pods</jconf>
+        <id>2106</id>
+        <label>1</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>parallel quicksort fetch add</title>
+        <year>1990</year>
+        <authors>john t. robinson,philip heidelberger,alan norton</authors>
+        <jconf>ieee trans. computers</jconf>
+        <id>3869</id>
+        <label>1</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>ibm memori expans technolog mxt</title>
+        <year>2001</year>
+        <authors>john t. robinson,r. brett tremaine,peter a. franaszek,charles o. schulz,t. basil smith,michael e. wazlowski,p. maurice bland</authors>
+        <jconf>ibm journal of research and development</jconf>
+        <id>3097</id>
+        <label>1</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>access invari high content environ</title>
+        <year>1990</year>
+        <authors>john t. robinson,peter a. franaszek,alexander thomasian</authors>
+        <jconf>icde</jconf>
+        <id>1061</id>
+        <label>1</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>cach memori interfac compress memori system</title>
+        <year>2001</year>
+        <authors>john t. robinson,caroline benveniste,peter a. franaszek</authors>
+        <jconf>ieee trans. computers</jconf>
+        <id>3841</id>
+        <label>1</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>concurr control high content environ</title>
+        <year>1992</year>
+        <authors>john t. robinson,peter a. franaszek,alexander thomasian</authors>
+        <jconf>acm trans. database syst.</jconf>
+        <id>4023</id>
+        <label>1</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>concurr control high content environ</title>
+        <year>1992</year>
+        <authors>john t. robinson,peter a. franaszek,alexander thomasian</authors>
+        <jconf>acm trans. database syst.</jconf>
+        <id>4023</id>
+        <label>1</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>distribut concurr control base limit wait depth</title>
+        <year>1993</year>
+        <authors>john t. robinson,peter a. franaszek,jayant r. haritsa,alexander thomasian</authors>
+        <jconf>ieee trans. parallel distrib. syst.</jconf>
+        <id>4070</id>
+        <label>1</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>distribut concurr control base limit wait depth</title>
+        <year>1993</year>
+        <authors>john t. robinson,peter a. franaszek,jayant r. haritsa,alexander thomasian</authors>
+        <jconf>ieee trans. parallel distrib. syst.</jconf>
+        <id>4070</id>
+        <label>1</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>distribut concurr control limit wait depth</title>
+        <year>1992</year>
+        <authors>john t. robinson,peter a. franaszek,jayant r. haritsa,alexander thomasian</authors>
+        <jconf>icdcs</jconf>
+        <id>1027</id>
+        <label>1</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>algorithm data structur compress memori machin</title>
+        <year>2001</year>
+        <authors>john t. robinson,peter a. franaszek,philip heidelberger,dan e. poff</authors>
+        <jconf>ibm journal of research and development</jconf>
+        <id>3094</id>
+        <label>1</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>wait depth limit concurr control</title>
+        <year>1991</year>
+        <authors>john t. robinson,peter a. franaszek,alexander thomasian</authors>
+        <jconf>icde</jconf>
+        <id>1062</id>
+        <label>1</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>limit concurr transact process</title>
+        <year>1985</year>
+        <authors>john t. robinson,peter a. franaszek</authors>
+        <jconf>acm trans. database syst.</jconf>
+        <id>4022</id>
+        <label>1</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>limit concurr transact process</title>
+        <year>1985</year>
+        <authors>john t. robinson,peter a. franaszek</authors>
+        <jconf>acm trans. database syst.</jconf>
+        <id>4022</id>
+        <label>1</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>variabl scope pariti protect disk arrai</title>
+        <year>1997</year>
+        <authors>john t. robinson,peter a. franaszek</authors>
+        <jconf>ieee trans. computers</jconf>
+        <id>3864</id>
+        <label>1</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>analysi reorgan overhead log structur file system</title>
+        <year>1994</year>
+        <authors>john t. robinson,peter a. franaszek</authors>
+        <jconf>icde</jconf>
+        <id>1076</id>
+        <label>1</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>intern organ compress random access memori</title>
+        <year>2001</year>
+        <authors>john t. robinson,peter a. franaszek</authors>
+        <jconf>ibm journal of research and development</jconf>
+        <id>3095</id>
+        <label>1</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>design analysi integr concurr coher control</title>
+        <year>1987</year>
+        <authors>john t. robinson,daniel m. dias,balakrishna r. iyer,philip s. yu</authors>
+        <jconf>vldb</jconf>
+        <id>2526</id>
+        <label>1</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>variabl scope pariti protect disk arrai</title>
+        <year>1997</year>
+        <authors>john t. robinson,peter a. franaszek</authors>
+        <jconf>ieee trans. computers</jconf>
+        <id>3864</id>
+        <label>1</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>distribut concurr control analysi data share</title>
+        <year>1985</year>
+        <authors>john t. robinson,philip s. yu,daniel m. dias,balakrishna r. iyer,douglas w. cornell</authors>
+        <jconf>int. cmg conference</jconf>
+        <id>240</id>
+        <label>1</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>intern organ compress random access memori</title>
+        <year>2001</year>
+        <authors>john t. robinson,peter a. franaszek</authors>
+        <jconf>ibm journal of research and development</jconf>
+        <id>3095</id>
+        <label>1</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>invit editori</title>
+        <year>2001</year>
+        <authors>john alan robinson</authors>
+        <jconf>tplp</jconf>
+        <id>4095</id>
+        <label>2</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>meet associ symbol logic</title>
+        <year>1967</year>
+        <authors>john alan robinson,norman m. martin</authors>
+        <jconf>j. symb. log.</jconf>
+        <id>3540</id>
+        <label>2</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>logic program</title>
+        <year>1986</year>
+        <authors>john alan robinson</authors>
+        <jconf>ds-2</jconf>
+        <id>559</id>
+        <label>2</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>logic comput ture von neumann</title>
+        <year>1994</year>
+        <authors>john alan robinson</authors>
+        <jconf>machine intelligence 13</jconf>
+        <id>1908</id>
+        <label>2</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>role logic comput scienc artifici intellig</title>
+        <year>1992</year>
+        <authors>john alan robinson</authors>
+        <jconf>fgcs</jconf>
+        <id>657</id>
+        <label>2</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>direct mechan theorem prove</title>
+        <year>1968</year>
+        <authors>john alan robinson</authors>
+        <jconf>ifip congress (1)</jconf>
+        <id>1544</id>
+        <label>2</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>futur logic program invit paper</title>
+        <year>1986</year>
+        <authors>john alan robinson</authors>
+        <jconf>ifip congress</jconf>
+        <id>1545</id>
+        <label>2</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>vesper</title>
+        <year>1995</year>
+        <authors>john alan robinson,jonas barklund</authors>
+        <jconf>machine intelligence 15</jconf>
+        <id>1909</id>
+        <label>2</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>inform rigor mathemat understand</title>
+        <year>1997</year>
+        <authors>john alan robinson</authors>
+        <jconf>kurt g枚del colloquium</jconf>
+        <id>1861</id>
+        <label>2</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>comput logic memori past challeng futur</title>
+        <year>2000</year>
+        <authors>john alan robinson</authors>
+        <jconf>computational logic</jconf>
+        <id>235</id>
+        <label>2</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>proof guarante explan</title>
+        <year>2000</year>
+        <authors>john alan robinson</authors>
+        <jconf>intellectics and computational logic</jconf>
+        <id>143</id>
+        <label>2</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>formal inform proof</title>
+        <year>1991</year>
+        <authors>john alan robinson</authors>
+        <jconf>automated reasoning: essays in honor of woody bledsoe</jconf>
+        <id>144</id>
+        <label>2</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>merg function relat program reduct set abstract invit lectur</title>
+        <year>1986</year>
+        <authors>john alan robinson</authors>
+        <jconf>lics</jconf>
+        <id>1886</id>
+        <label>2</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>editor s introduct</title>
+        <year>1984</year>
+        <authors>john alan robinson</authors>
+        <jconf>j. log. program.</jconf>
+        <id>3461</id>
+        <label>2</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>introduct birthdai special issu journal logic program</title>
+        <year>1994</year>
+        <authors>john alan robinson</authors>
+        <jconf>j. log. program.</jconf>
+        <id>3462</id>
+        <label>2</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>logic program past present futur</title>
+        <year>1983</year>
+        <authors>john alan robinson</authors>
+        <jconf>new generation comput.</jconf>
+        <id>3621</id>
+        <label>2</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>logic logic program</title>
+        <year>1992</year>
+        <authors>john alan robinson</authors>
+        <jconf>commun. acm</jconf>
+        <id>2787</id>
+        <label>2</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>theorem prove comput</title>
+        <year>1963</year>
+        <authors>john alan robinson</authors>
+        <jconf>j. acm</jconf>
+        <id>3348</id>
+        <label>2</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>machin orient logic base resolut principl</title>
+        <year>1965</year>
+        <authors>john alan robinson</authors>
+        <jconf>j. acm</jconf>
+        <id>3349</id>
+        <label>2</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>perform augment signatur test</title>
+        <year>1993</year>
+        <authors>john p. robinson,geetani edirisooriya,samantha edirisooriya</authors>
+        <jconf>iscas</jconf>
+        <id>1722</id>
+        <label>3</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>estprep preprocess cdna sequenc read</title>
+        <year>2003</year>
+        <authors>john p. robinson,todd e. scheetz,nishank trivedi,chad a. roberts,tamara kucaba,brian berger,natalie l. robinson,clayton l. birkett,allen j. gavin,brian o'leary,terry a. braun,maria f. bonaldo,val c. sheffield,marcelo bento soares,thomas l. casavant</authors>
+        <jconf>bioinformatics</jconf>
+        <id>2754</id>
+        <label>3</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>easili test level gate network i t i i n i symmetr function</title>
+        <year>1975</year>
+        <authors>john p. robinson,charles w. hoffner ii</authors>
+        <jconf>ieee trans. computers</jconf>
+        <id>3897</id>
+        <label>3</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>optimum nonlinear code</title>
+        <year>1967</year>
+        <authors>john p. robinson,alan w. nordstrom</authors>
+        <jconf>information and control</jconf>
+        <id>3085</id>
+        <label>3</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>construct convolut code block code</title>
+        <year>1968</year>
+        <authors>john p. robinson,sudhakar m. reddy</authors>
+        <jconf>information and control</jconf>
+        <id>3087</id>
+        <label>3</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>decod algorithm convolut code construct block code</title>
+        <year>1968</year>
+        <authors>john p. robinson,sudhakar m. reddy</authors>
+        <jconf>information and control</jconf>
+        <id>3088</id>
+        <label>3</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>golomb rectangl fold ruler</title>
+        <year>1997</year>
+        <authors>john p. robinson</authors>
+        <jconf>ieee trans. information theory</jconf>
+        <id>3969</id>
+        <label>3</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>genet search golomb arrai</title>
+        <year>2000</year>
+        <authors>john p. robinson</authors>
+        <jconf>ieee trans. information theory</jconf>
+        <id>3968</id>
+        <label>3</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>unifi view test compress method</title>
+        <year>1987</year>
+        <authors>john p. robinson,nirmal r. saxena</authors>
+        <jconf>ieee trans. computers</jconf>
+        <id>3898</id>
+        <label>3</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>accumul compress test</title>
+        <year>1986</year>
+        <authors>john p. robinson,nirmal r. saxena</authors>
+        <jconf>ieee trans. computers</jconf>
+        <id>3901</id>
+        <label>3</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>addendum optimum golomb ruler</title>
+        <year>1983</year>
+        <authors>john p. robinson</authors>
+        <jconf>ieee trans. computers</jconf>
+        <id>3894</id>
+        <label>3</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>golomb rectangl fold ruler</title>
+        <year>1997</year>
+        <authors>john p. robinson</authors>
+        <jconf>ieee trans. information theory</jconf>
+        <id>3969</id>
+        <label>3</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>alias probabl feedback signatur compress test data</title>
+        <year>1991</year>
+        <authors>john p. robinson</authors>
+        <jconf>ieee trans. computers</jconf>
+        <id>3895</id>
+        <label>3</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>optimum golomb ruler</title>
+        <year>1979</year>
+        <authors>john p. robinson</authors>
+        <jconf>ieee trans. computers</jconf>
+        <id>3893</id>
+        <label>3</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>count sequenc</title>
+        <year>1981</year>
+        <authors>john p. robinson,martin cohn</authors>
+        <jconf>ieee trans. computers</jconf>
+        <id>3896</id>
+        <label>3</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>class high rate doubl error correct convolut code</title>
+        <year>1970</year>
+        <authors>john p. robinson,sudhakar m. reddy,george i. davida</authors>
+        <jconf>information and control</jconf>
+        <id>3086</id>
+        <label>3</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>alias multipl valu test data compact</title>
+        <year>1992</year>
+        <authors>john p. robinson,geetani edirisooriya</authors>
+        <jconf>ismvl</jconf>
+        <id>1754</id>
+        <label>3</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>alias probabl multipl input linear signatur automata q ari symmetr error</title>
+        <year>1991</year>
+        <authors>john p. robinson,geetani edirisooriya</authors>
+        <jconf>iccd</jconf>
+        <id>956</id>
+        <label>3</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>alias properti circular misr</title>
+        <year>1993</year>
+        <authors>john p. robinson,geetani edirisooriya</authors>
+        <jconf>j. electronic testing</jconf>
+        <id>3038</id>
+        <label>3</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>unifi view test compress method</title>
+        <year>1987</year>
+        <authors>john p. robinson,nirmal r. saxena</authors>
+        <jconf>ieee trans. computers</jconf>
+        <id>3898</id>
+        <label>3</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>fast algorithm optimum syndrom space compress</title>
+        <year>1988</year>
+        <authors>john p. robinson,cheng hsien tung</authors>
+        <jconf>ieee trans. computers</jconf>
+        <id>3916</id>
+        <label>3</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>concurr testabl microprogram control unit</title>
+        <year>1986</year>
+        <authors>john p. robinson,cheng hsien tung</authors>
+        <jconf>itc</jconf>
+        <id>1793</id>
+        <label>3</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>method modulo minim</title>
+        <year>1982</year>
+        <authors>john p. robinson,chia-lung yeh</authors>
+        <jconf>ieee trans. computers</jconf>
+        <id>3899</id>
+        <label>3</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>extend queri answer integr rule</title>
+        <year>2000</year>
+        <authors>jerome robinson,barry g. t. lowden</authors>
+        <jconf>ismis</jconf>
+        <id>1750</id>
+        <label>4</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>extend queri result remot client site</title>
+        <year>2000</year>
+        <authors>jerome robinson,barry g. t. lowden</authors>
+        <jconf>dexa</jconf>
+        <id>505</id>
+        <label>4</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>exploit parallel primit oper bulk data type</title>
+        <year>1992</year>
+        <authors>jerome robinson,simon h. lavington,m. e. waite,neil dewhurst</authors>
+        <jconf>parle</jconf>
+        <id>2037</id>
+        <label>4</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>semant queri optimis rule graph</title>
+        <year>1998</year>
+        <authors>jerome robinson,barry g. t. lowden</authors>
+        <jconf>krdb</jconf>
+        <id>1863</id>
+        <label>4</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>statist approach rule select semant queri optimis</title>
+        <year>1999</year>
+        <authors>jerome robinson,barry g. t. lowden</authors>
+        <jconf>ismis</jconf>
+        <id>1751</id>
+        <label>4</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>utilis multipl comput databas queri process descriptor rule manag</title>
+        <year>2001</year>
+        <authors>jerome robinson,barry g. t. lowden,mohammed al haddad</authors>
+        <jconf>dexa</jconf>
+        <id>507</id>
+        <label>4</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>attribut pair rang rule</title>
+        <year>1998</year>
+        <authors>jerome robinson,barry g. t. lowden</authors>
+        <jconf>dexa</jconf>
+        <id>506</id>
+        <label>4</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>distribut deriv mainten subset descriptor rule</title>
+        <year>2001</year>
+        <authors>jerome robinson,barry g. t. lowden,mohammed al haddad</authors>
+        <jconf>isas-sci (1)</jconf>
+        <id>1675</id>
+        <label>4</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>data analysi queri process</title>
+        <year>1997</year>
+        <authors>jerome robinson,barry g. t. lowden</authors>
+        <jconf>ida</jconf>
+        <id>1517</id>
+        <label>4</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>arithmet parallel linear recurs queri evalu deduct databas</title>
+        <year>1993</year>
+        <authors>jerome robinson,shutian lin</authors>
+        <jconf>parle</jconf>
+        <id>2038</id>
+        <label>4</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>utilis multipl comput databas queri process descriptor rule manag</title>
+        <year>2001</year>
+        <authors>jerome robinson,barry g. t. lowden,mohammed al haddad</authors>
+        <jconf>dexa</jconf>
+        <id>507</id>
+        <label>4</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>attribut pair rang rule</title>
+        <year>1998</year>
+        <authors>jerome robinson,barry g. t. lowden</authors>
+        <jconf>dexa</jconf>
+        <id>506</id>
+        <label>4</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>network workstat enhanc databas queri process perform</title>
+        <year>2001</year>
+        <authors>jerome robinson,mohammed al haddad</authors>
+        <jconf>pvm/mpi</jconf>
+        <id>2159</id>
+        <label>4</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>transit closur magic function machin</title>
+        <year>1990</year>
+        <authors>jerome robinson,simon h. lavington</authors>
+        <jconf>dpds</jconf>
+        <id>555</id>
+        <label>4</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>arithmet parallel linear recurs queri evalu deduct databas</title>
+        <year>1993</year>
+        <authors>jerome robinson,shutian lin</authors>
+        <jconf>parle</jconf>
+        <id>2038</id>
+        <label>4</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>construct inter relat rule semant queri optimis</title>
+        <year>2002</year>
+        <authors>jerome robinson,barry g. t. lowden</authors>
+        <jconf>dexa</jconf>
+        <id>494</id>
+        <label>4</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>distribut deriv mainten subset descriptor rule</title>
+        <year>2001</year>
+        <authors>jerome robinson,barry g. t. lowden,mohammed al haddad</authors>
+        <jconf>isas-sci (1)</jconf>
+        <id>1675</id>
+        <label>4</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>data analysi queri process</title>
+        <year>1997</year>
+        <authors>jerome robinson,barry g. t. lowden</authors>
+        <jconf>ida</jconf>
+        <id>1517</id>
+        <label>4</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>fast method ensur consist integr constraint</title>
+        <year>1999</year>
+        <authors>jerome robinson,barry g. t. lowden</authors>
+        <jconf>dexa</jconf>
+        <id>495</id>
+        <label>4</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>livepap system augment paper enhanc tabletop</title>
+        <year>2001</year>
+        <authors>john a. robinson,charles robertson</authors>
+        <jconf>computers &amp; graphics</jconf>
+        <id>2825</id>
+        <label>5</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>featur space face imag process</title>
+        <year>2000</year>
+        <authors>john robinson,qing song</authors>
+        <jconf>icpr</jconf>
+        <id>1389</id>
+        <label>5</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>wristcam input devic</title>
+        <year>1999</year>
+        <authors>john a. robinson,andrew vardy,li-te cheng</authors>
+        <jconf>iswc</jconf>
+        <id>1781</id>
+        <label>5</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>low complex charact extract low contrast scene imag</title>
+        <year>2000</year>
+        <authors>john a. robinson,lowell l. winger,m. e. jernigan</authors>
+        <jconf>ijprai</jconf>
+        <id>3215</id>
+        <label>5</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>compress natur imag thread visual primit</title>
+        <year>1991</year>
+        <authors>john a. robinson</authors>
+        <jconf>data compression conference</jconf>
+        <id>456</id>
+        <label>5</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>deal speed robust issu video base registr wearabl comput platform</title>
+        <year>1998</year>
+        <authors>john robinson,li-te cheng</authors>
+        <jconf>iswc</jconf>
+        <id>1779</id>
+        <label>5</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>vibrotactil feedback delic virtual realiti oper</title>
+        <year>1996</year>
+        <authors>john a. robinson,li-te cheng,rick kazman</authors>
+        <jconf>acm multimedia</jconf>
+        <id>1930</id>
+        <label>5</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>person contextu awar visual focu</title>
+        <year>2001</year>
+        <authors>john robinson,li-te cheng</authors>
+        <jconf>ieee intelligent systems</jconf>
+        <id>3040</id>
+        <label>5</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>adapt foveat mpeg video</title>
+        <year>1996</year>
+        <authors>john a. robinson,t. h. reeves</authors>
+        <jconf>acm multimedia</jconf>
+        <id>1936</id>
+        <label>5</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>live paper video augment simul interact paper</title>
+        <year>1999</year>
+        <authors>john robinson,charles robertson</authors>
+        <jconf>acm multimedia (2)</jconf>
+        <id>1937</id>
+        <label>5</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>assist integr taxonom data litchi toolkit</title>
+        <year>2000</year>
+        <authors>john s. robinson,iain sutherland,sue m. brandt,andrew c. jones,suzanne m. embury,w. a. gray,richard j. white,frank a. bisby</authors>
+        <jconf>icde</jconf>
+        <id>1077</id>
+        <label>6</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>experi hybrid implement global distribut feder databas system</title>
+        <year>2001</year>
+        <authors>john s. robinson,xuebiao xu,andrew c. jones,nick pittas,w. a. gray,n. j. fiddian,richard j. white,frank a. bisby,sue m. brandt</authors>
+        <jconf>waim</jconf>
+        <id>2569</id>
+        <label>6</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>grid biodivers research grab demonstr</title>
+        <year>2002</year>
+        <authors>john s. robinson,andrew c. jones,w. a. gray,jonathan giddy,n. j. fiddian</authors>
+        <jconf>ssdbm</jconf>
+        <id>2413</id>
+        <label>6</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>litchi knowledg integr test taxonom databas</title>
+        <year>1999</year>
+        <authors>john s. robinson,iain sutherland,suzanne m. embury,andrew c. jones,w. a. gray,richard j. white,frank a. bisby,sue m. brandt</authors>
+        <jconf>ssdbm</jconf>
+        <id>2421</id>
+        <label>6</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>conflict detect integr taxonom data sourc</title>
+        <year>1999</year>
+        <authors>john s. robinson,suzanne m. embury,andrew c. jones,iain sutherland,w. a. gray,richard j. white,frank a. bisby,sue m. brandt</authors>
+        <jconf>ssdbm</jconf>
+        <id>2411</id>
+        <label>6</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>techniqu effect integr mainten evolut speci databas</title>
+        <year>2000</year>
+        <authors>john s. robinson,andrew c. jones,iain sutherland,suzanne m. embury,w. a. gray,richard j. white,frank a. bisby,sue m. brandt</authors>
+        <jconf>ssdbm</jconf>
+        <id>2414</id>
+        <label>6</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>adapt integr enforc techniqu data reconcili</title>
+        <year>2001</year>
+        <authors>john s. robinson,suzanne m. embury,sue m. brandt,iain sutherland,frank a. bisby,w. a. gray,andrew c. jones,richard j. white</authors>
+        <jconf>inf. syst.</jconf>
+        <id>3292</id>
+        <label>6</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>spice flexibl architectur integr autonom databas compris distribut catalogu life</title>
+        <year>2000</year>
+        <authors>john s. robinson,andrew c. jones,xuebiao xu,nick pittas,w. a. gray,n. j. fiddian,richard j. white,frank a. bisby,sue m. brandt</authors>
+        <jconf>dexa</jconf>
+        <id>473</id>
+        <label>6</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>task migrat implement messag pass interfac</title>
+        <year>1996</year>
+        <authors>jonathan robinson,samuel h. russ,brian k. flachs,bjorn heckel</authors>
+        <jconf>hpdc</jconf>
+        <id>832</id>
+        <label>7</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>hectil integr fine coars grain load balanc strategi</title>
+        <year>1998</year>
+        <authors>jonathan robinson,samuel h. russ,ioana banicescu,sheikh ghafoor,bharathi janapareddi,rong lu</authors>
+        <jconf>hpdc</jconf>
+        <id>833</id>
+        <label>7</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>hector autom task alloc mpi</title>
+        <year>1996</year>
+        <authors>jonathan robinson,samuel h. russ,brian k. flachs,bjorn heckel</authors>
+        <jconf>ipps</jconf>
+        <id>1651</id>
+        <label>7</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>hector distribut run time environ</title>
+        <year>1998</year>
+        <authors>jonathan robinson,samuel h. russ,brian k. flachs,bjorn heckel</authors>
+        <jconf>ieee trans. parallel distrib. syst.</jconf>
+        <id>4089</id>
+        <label>7</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>hector run mpi program network workstat</title>
+        <year>1999</year>
+        <authors>jonathan robinson,samuel h. russ,matt gleeson,brad meyers,laxman rajagopalan,chun-heong tan</authors>
+        <jconf>concurrency - practice and experience</jconf>
+        <id>2929</id>
+        <label>7</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>imgt hla databas sequenc databas human major histocompat complex</title>
+        <year>2001</year>
+        <authors>james robinson,matthew j. waller,peter parham,julia g. bodmer,steven g. e. marsh</authors>
+        <jconf>nucleic acids research</jconf>
+        <id>3606</id>
+        <label>8</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>imgt hla imgt mhc sequenc databas studi major histocompat complex</title>
+        <year>2003</year>
+        <authors>james robinson,matthew j. waller,peter parham,natasja de groot,ronald bontrop,lorna j. kennedy,peter stoehr,steven g. e. marsh</authors>
+        <jconf>nucleic acids research</jconf>
+        <id>3607</id>
+        <label>8</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>imgt intern immunogenet databas</title>
+        <year>2000</year>
+        <authors>james robinson,manuel ruiz,veronique giudicelli,chantal ginestoux,peter stoehr,julia g. bodmer,steven g. e. marsh,ronald bontrop,marc lemaitre,gerard lefranc,denys chaume,marie-paule lefranc</authors>
+        <jconf>nucleic acids research</jconf>
+        <id>3608</id>
+        <label>8</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>valid simul model cycl time seagat technolog</title>
+        <year>1999</year>
+        <authors>jennifer k. robinson,navdeep s. grewal,alvin c. bruska,timbur m. wulf</authors>
+        <jconf>winter simulation conference</jconf>
+        <id>2641</id>
+        <label>9</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>integr target cycl time reduct capit plan process</title>
+        <year>1998</year>
+        <authors>jennifer k. robinson,navdeep s. grewal,alvin c. bruska,timbur m. wulf</authors>
+        <jconf>winter simulation conference</jconf>
+        <id>2640</id>
+        <label>9</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>support manufactur simul model design develop deploy</title>
+        <year>1996</year>
+        <authors>jennifer robinson,frank chance,john w. fowler</authors>
+        <jconf>winter simulation conference</jconf>
+        <id>2629</id>
+        <label>9</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>effect implement cycl time reduct strategi semiconductor back end manufactur</title>
+        <year>1998</year>
+        <authors>jennifer robinson,joerg domaschke,steven brown,franz leibl</authors>
+        <jconf>winter simulation conference</jconf>
+        <id>2636</id>
+        <label>9</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>capac plan semiconductor wafer fabric time constraint oper</title>
+        <year>1999</year>
+        <authors>jennifer k. robinson,richard giglio</authors>
+        <jconf>winter simulation conference</jconf>
+        <id>2646</id>
+        <label>9</label>
+        <organization>null</organization>
+    </publication>
+    <publication>
+        <title>integr target cycl time reduct capit plan process</title>
+        <year>1998</year>
+        <authors>jennifer k. robinson,navdeep s. grewal,alvin c. bruska,timbur m. wulf</authors>
+        <jconf>winter simulation conference</jconf>
+        <id>2640</id>
+        <label>9</label>
+        <organization>null</organization>
+    </publication>
+</person>
