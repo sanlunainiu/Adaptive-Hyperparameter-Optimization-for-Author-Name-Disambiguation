@@ -2,7 +2,7 @@ Adaptive Hyperparameter Optimization for Author Name Disambiguation
 ============
 This is implementation of our paper:
 
-Lu, S., Zhou, Y. (2025). Adaptive Hyperparameter Optimization for Author Name Disambiguation. Journal of the Association for Information Science and Technology.
+Lu, S., Zhou, Y. (in press). Adaptive Hyperparameter Optimization for Author Name Disambiguation. Journal of the Association for Information Science and Technology. DOI: 10.1002/asi.24996
 
 ## summary
 
@@ -585,14 +585,6 @@ Change the hyperparameter optimization result data of Pairwise F1, B3 F1, and K.
 If you find this work useful for your research, please consider citing the following paper:
 
 ```
-@inproceedings{subramanian2021s2and,
-      title={{S}2{AND}: {A} {B}enchmark and {E}valuation {S}ystem for {A}uthor {N}ame {D}isambiguation}, 
-      author={Subramanian, Shivashankar and King, Daniel and Downey, Doug and Feldman, Sergey},
-      year={2021},
-      publisher = {Association for Computing Machinery},
-      address = {New York, NY, USA},
-      booktitle = {{JCDL} '21: Proceedings of the {ACM/IEEE} Joint Conference on Digital Libraries in 2021},
-      series = {JCDL '21}
-}
+Lu, S., Zhou, Y. (in press). Adaptive Hyperparameter Optimization for Author Name Disambiguation. Journal of the Association for Information Science and Technology. DOI: 10.1002/asi.24996
 ```
 
